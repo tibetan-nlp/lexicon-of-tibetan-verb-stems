@@ -1,0 +1,44 @@
+[#ERROR 134: The tsheg bar ("syllable") {'krongs} has no legal parses.]|v.past
+[#ERROR 134: The tsheg bar ("syllable") {'krongs} has no legal parses.]་|v.past
+[#ERROR 134: The tsheg bar ("syllable") {'krongs} has no legal parses.]་པ་|n.v.past
+[#ERROR 134: The tsheg bar ("syllable") {'krongs} has no legal parses.]་པ|n.v.past
+[#ERROR 134: The tsheg bar ("syllable") {'krongs} has no legal parses.]་བ་|n.v.past
+[#ERROR 134: The tsheg bar ("syllable") {'krongs} has no legal parses.]་བ|n.v.past
+
+[#ERROR 134: The tsheg bar ("syllable") {bjid} has no legal parses.]|v.imp
+[#ERROR 134: The tsheg bar ("syllable") {bjid} has no legal parses.]་|v.imp
+
+[#ERROR 134: The tsheg bar ("syllable") {bnyags} has no legal parses.]|v.past
+[#ERROR 134: The tsheg bar ("syllable") {bnyags} has no legal parses.]་|v.past
+[#ERROR 134: The tsheg bar ("syllable") {bnyags} has no legal parses.]་པ་|n.v.past
+[#ERROR 134: The tsheg bar ("syllable") {bnyags} has no legal parses.]་པ|n.v.past
+[#ERROR 134: The tsheg bar ("syllable") {bnyags} has no legal parses.]་བ་|n.v.past
+[#ERROR 134: The tsheg bar ("syllable") {bnyags} has no legal parses.]་བ|n.v.past
+
+[#ERROR 134: The tsheg bar ("syllable") {bnab} has no legal parses.]|v.fut
+[#ERROR 134: The tsheg bar ("syllable") {bnab} has no legal parses.]་|v.fut
+[#ERROR 134: The tsheg bar ("syllable") {bnab} has no legal parses.]་པ་|n.v.fut
+[#ERROR 134: The tsheg bar ("syllable") {bnab} has no legal parses.]་པ|n.v.fut
+[#ERROR 134: The tsheg bar ("syllable") {bnab} has no legal parses.]་བ་|n.v.fut
+[#ERROR 134: The tsheg bar ("syllable") {bnab} has no legal parses.]་བ|n.v.fut
+
+[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]|v.pres
+[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་|v.pres
+[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་པ་|n.v.pres
+[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་པ|n.v.pres
+[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་བ་|n.v.pres
+[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་བ|n.v.pres
+
+[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]|v.fut
+[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་|v.fut
+[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་པ་|n.v.fut
+[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་པ|n.v.fut
+[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་བ་|n.v.fut
+[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་བ|n.v.fut
+
+[#ERROR 134: The tsheg bar ("syllable") {gstsan} has no legal parses.]|v.pres
+[#ERROR 134: The tsheg bar ("syllable") {gstsan} has no legal parses.]་|v.pres
+[#ERROR 134: The tsheg bar ("syllable") {gstsan} has no legal parses.]་པ་|n.v.pres
+[#ERROR 134: The tsheg bar ("syllable") {gstsan} has no legal parses.]་པ|n.v.pres
+[#ERROR 134: The tsheg bar ("syllable") {gstsan} has no legal parses.]་བ་|n.v.pres
+[#ERROR 134: The tsheg bar ("syllable") {gstsan} has no legal parses.]་བ|n.v.pres

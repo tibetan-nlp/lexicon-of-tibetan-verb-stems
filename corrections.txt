@@ -1,0 +1,31 @@
+CORRECTIONS
+
+The following corrections should be made to verbs.txt.
+
+(1) མེད་
+མེད|v.neg
+མེད་|v.neg
+མེད་པ་|n.v.neg
+མེད་པ|n.v.neg
+མེད་བ་|n.v.neg
+མེད་བ|n.v.neg
+
+(2) ཡོད་
+ཡོད|v
+ཡོད་|v
+ཡོད་པ་|n.v
+ཡོད་པ|n.v
+ཡོད་བ་|n.v
+ཡོད་བ|n.v
+
+(3) ཡིན་
+ཡིན|v.cop
+ཡིན་|v.cop
+ཡིན་པ་|n.v.cop
+ཡིན་པ|n.v.cop
+ཡིན་བ་|n.v.cop
+ཡིན་བ|n.v.cop
+
+(4) Remove the following
+བྱེད|v.imp
+བྱེད་|v.imp
