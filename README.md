@@ -83,10 +83,10 @@ create multiple numbered lemmas. For example, there are two headwords བཀོ�
 lemmatised as བཀོང་√1 and བཀོང་√2. The most lemmas I have found for a single form is four,
 as in this case:
 
-འཛེར་√1
-འཛེར་√2
-འཛེར་√3
-འཛེར་√4
+- འཛེར་√1
+- འཛེར་√2
+- འཛེར་√3
+- འཛེར་√4
 
 The source dictionary file specially tags so-called auxiliaries. To preserve this
 annotation, for possible use downstream, we create a separate lemma ending in √x for
@@ -113,8 +113,7 @@ in case they do occur, in mistaken spellings or other unexpected situations.
 
 Steps to create **verbs-final.txt**:
 
-1. Apply the XSLT file to the dictionary.
-
+1. Apply the XSLT file to the dictionary with the command 
 `java -cp saxon9.jar:DictionarySearchStandalone.jar net.sf.saxon.Transform -s:dictionary.xml -xsl:verbs.xsl -o:verbs.txt`
 
 2. Copy **verbs.txt** to **verbs-final.txt**. Use the latter file in the steps that follow.
