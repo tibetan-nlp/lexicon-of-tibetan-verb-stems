@@ -5,8 +5,8 @@ to lexicon files that can be used for various corpus and computational purposes.
 
 ## Source Dictionary
 
-*dictionary.txt* - Original dictionary file passed on by Nathan Hill in 2010.
-*dictionary.xml* - Well-formed XML converted from the original file through
+- **dictionary.txt**: Original dictionary file passed on by Nathan Hill in 2010.
+- **dictionary.xml**: Well-formed XML converted from the original file through
 various steps, with copula verbs _lags_ and _mchis_ removed.
 
 Note that the word "auxiliary" is misspelled as "auxillary" in its use as a tag
@@ -14,9 +14,9 @@ in these files. Our stylesheets use the misspelling rather than try to fix it.
 
 These files are digital versions of the following published dictionary:
 
-Hill, Nathan W. (2010) _A Lexicon of Tibetan Verb Stems as Reported by the
-Grammatical Tradition._ Munich: Bayerische Akademie der Wissenschaften.
-(Studia Tibetica)
+> Hill, Nathan W. (2010) _A Lexicon of Tibetan Verb Stems as Reported by the
+> Grammatical Tradition._ Munich: Bayerische Akademie der Wissenschaften.
+> (Studia Tibetica)
 
 ## Stylesheets
 
@@ -35,28 +35,28 @@ by Michael Kay,
 > there are no plans to develop it further or maintain it, it will remain available indefinitely."
 
 The stylesheets here use this deprecated method of calling extensions. In particular,
-static functions from the jar file *DictionarySearchStandalone.jar* are used to convert text
+static functions from the jar file **DictionarySearchStandalone.jar** are used to convert text
 from Extended Wylie to Unicode Tibetan. As a result, if you try to run these stylesheets
 with Saxon HE, you'll get the following error message:
 
 > Note that direct calls to Java methods are not available under Saxon-HE
 
 Therefore if you want to reproduce the process described here, you would need to go to
-http://saxon.sourceforge.net/ and then follow the links to download Saxon B. Find *saxon9.jar*
+http://saxon.sourceforge.net/ and then follow the links to download Saxon B. Find **saxon9.jar**
 and make sure it is in the Java classpath when you invoke the XSLT transformer.
 
 ### Files
 
-The original stylesheet *verbs.xsl* hails from 2012. When applied to *dictionary.xml*,
-it creates a verb lexicon file (*verbs.txt*) in horizontal format, with the verb form
+The original stylesheet **verbs.xsl** hails from 2012. When applied to **dictionary.xml**,
+it creates a verb lexicon file (**verbs.txt**) in horizontal format, with the verb form
 separated from the part-of-speech tag by the pipe character. Lemmas are ignored.
 
-*verbs.xsl* was modified in 2017 as *verbs-with-lemmas.xsl* in order to include
-lemmas. When applied to *dictionary.xml*, this new stylesheet creates a vertically formatted
+**verbs.xsl** was modified in 2017 as **verbs-with-lemmas.xsl** in order to include
+lemmas. When applied to **dictionary.xml**, this new stylesheet creates a vertically formatted
 lexicon file, with three tab-delimited columns: verb form, part-of-speech tag, and lemma.
 
-*lemmas.xsl* is a variant of *verbs-with-lemmas.xsl* that generates a list of
-lemmas only. I load the output, *lemmas.txt*, into LibreOffice to make sure that the
+**lemmas.xsl** is a variant of **verbs-with-lemmas.xsl** that generates a list of
+lemmas only. I load the output, **lemmas.txt**, into LibreOffice to make sure that the
 stylesheet doesn't generate any duplicate lemmas.
 
 # Lemmatisation
@@ -92,7 +92,7 @@ The source dictionary file specially tags so-called auxiliaries. To preserve thi
 annotation, for possible use downstream, we create a separate lemma ending in √x for
 any such verb.
 
-The file *lemmas.txt* lists all the lemmas derived in this manner. Having imported this
+The file **lemmas.txt** lists all the lemmas derived in this manner. Having imported this
 file into LibreOffice, I can confirm that this list of nearly 1900 lemmas contains no
 duplicates. Each lemma is uniquely named.
 
@@ -111,20 +111,20 @@ in case they do occur, in mistaken spellings or other unexpected situations.
 
 # Post-processing
 
-Steps to create *verbs-final.txt*:
+Steps to create **verbs-final.txt**:
 
 1. Apply the XSLT file to the dictionary.
 
 `java -cp saxon9.jar:DictionarySearchStandalone.jar net.sf.saxon.Transform -s:dictionary.xml -xsl:verbs.xsl -o:verbs.txt`
 
-2. Copy *verbs.txt* to *verbs-final.txt*. Use the latter file in the steps that follow.
+2. Copy **verbs.txt** to **verbs-final.txt**. Use the latter file in the steps that follow.
 
-3. Remove and replace all ERROR lines into *ERRORS-verbs.txt*.
+3. Remove and replace all ERROR lines into **ERRORS-verbs.txt**.
 
-4. Incorporate *corrections.txt.*
+4. Incorporate **corrections.txt.**
 
 5. Remove blank line at end of document.
 
 6. Regex replace \s+ with space character (' ') for true horizontal format.
 
-A similar set of steps could be followed to create *verbs-with-lemmas-final.txt*.
+A similar set of steps could be followed to create **verbs-with-lemmas-final.txt**.
