@@ -66,10 +66,9 @@ stylesheet doesn't generate any duplicate lemmas.
 Each verb form (present stem, future stem, and so on) is given a part-of-speech tag
 that corresponds to the form (*v.pres*, *v.fut*, and so on), and lemmatised to its
 headword. Verbs that do not show stem form variation - such as auxiliaries - are
-given the part-of-speech *v.invar*.
-
-Present, past, and future stem forms are given for all verbs except some auxiliaries.
-Imperative forms, however, can be absent, typically from verbs marked by **volition=Involuntary**.
+given the part-of-speech *v.invar*. Present, past, and future stem forms are given 
+for all verbs except some auxiliaries. Imperative forms, however, can be absent, 
+typically from verbs marked by **volition=Involuntary**.
 
 ## Duplicate Headwords
 
@@ -122,16 +121,16 @@ The Wylie to Unicode converter that we are using is overly opinionated.
 It thinks that the following Wylie syllables are illegal, despite the
 obvious conversions:
 
-* 'krongs > འཀྲོངས
-* bjid > བཇིད
-* bnyags > བཉགས
-* bnab > བནབ
-* dphrog > དཕྲོག
-* gstsan > གསྩན
+1. *'krongs* > འཀྲོངས
+2. *bjid* > བཇིད
+3. *bnyags* > བཉགས
+4. *bnab* > བནབ
+5. *dphrog* > དཕྲོག
+6. *gstsan* > གསྩན
 
 Therefore the stylesheet handles these cases specially. (It also handles
-the *da drag* specially.) So if you produce *verbs-with-lemmas.txt* yourself,
-then search the file for the word **ERROR**. There shouldn't be any conversion
-errors, but if they are, additional exceptions can be added to the stylesheet.
+the *da drag* specially.) If you produce *verbs-with-lemmas.txt* yourself,
+search the file for the word *ERROR*. There shouldn't be errors, but if 
+there are, then additional exceptions can be added to the stylesheet.
 
-A similar procedure can probably be followed to produce **verbs-final.txt**.
+A similar procedure could probably be followed to produce **verbs-final.txt**.
