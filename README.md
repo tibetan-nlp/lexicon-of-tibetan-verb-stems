@@ -68,6 +68,9 @@ that corresponds to the form (*v.pres*, *v.fut*, and so on), and lemmatised to i
 headword. Verbs that do not show stem form variation - such as auxiliaries - are
 given the part-of-speech *v.invar*.
 
+Present, past, and future stem forms are given for all verbs except some auxiliaries.
+Imperative forms, however, can be absent, typically from verbs marked by **volition=Involuntary**.
+
 ## Duplicate Headwords
 
 Many verbs in the dictionary are given with multiple present stems, so it is
@@ -109,21 +112,26 @@ following these rules, we include for each form variants with both word endings.
 such variants will not be encountered in practice, but by including them we are prepared
 in case they do occur, in mistaken spellings or other unexpected situations.
 
-# Post-processing
+# Applying the Stylesheet
 
-Steps to create **verbs-final.txt**:
+To create **verbs-with-lemmas.txt**, execute the following comm
+`java -cp saxon9.jar:DictionarySearchStandalone.jar net.sf.saxon.Transform 
+-s:dictionary.xml -xsl:verbs-with-lemmas.xsl -o:verbs-with-lemmas.txt`
 
-1. Apply the XSLT file to the dictionary with the command 
-`java -cp saxon9.jar:DictionarySearchStandalone.jar net.sf.saxon.Transform -s:dictionary.xml -xsl:verbs.xsl -o:verbs.txt`
+The Wylie to Unicode converter that we are using is overly opinionated.
+It thinks that the following Wylie syllables are illegal, despite the
+obvious conversions:
 
-2. Copy **verbs.txt** to **verbs-final.txt**. Use the latter file in the steps that follow.
+* 'krongs > འཀྲོངས
+* bjid > བཇིད
+* bnyags > བཉགས
+* bnab > བནབ
+* dphrog > དཕྲོག
+* gstsan > གསྩན
 
-3. Remove and replace all ERROR lines into **ERRORS-verbs.txt**.
+Therefore the stylesheet handles these cases specially. (It also handles
+the *da drag* specially.) So if you produce *verbs-with-lemmas.txt* yourself,
+then search the file for the word **ERROR**. There shouldn't be any conversion
+errors, but if they are, additional exceptions can be added to the stylesheet.
 
-4. Incorporate **corrections.txt.**
-
-5. Remove blank line at end of document.
-
-6. Regex replace \s+ with space character (' ') for true horizontal format.
-
-A similar set of steps could be followed to create **verbs-with-lemmas-final.txt**.
+A similar procedure can probably be followed to produce **verbs-final.txt**.

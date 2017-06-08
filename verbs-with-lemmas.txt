@@ -220,8 +220,6 @@
 དཀུ་པ་	n.v.fut	དཀུ་
 དཀུ་བ	n.v.fut	དཀུ་
 དཀུ་བ་	n.v.fut	དཀུ་
-[#ERROR 134: The tsheg bar ("syllable") {དཀུ} has no legal parses.]་	v.imp	དཀུ་
-[#ERROR 134: The tsheg bar ("syllable") {དཀུ} has no legal parses.]་་	v.imp	དཀུ་
 དཀོནད	v.pres	དཀོནད་
 དཀོནད་	v.pres	དཀོནད་
 དཀོནད་པ	n.v.pres	དཀོནད་
@@ -1130,8 +1128,6 @@
 བསྐམ་པ་	n.v.fut	སྐེམ་√2
 བསྐམ་བ	n.v.fut	སྐེམ་√2
 བསྐམ་བ་	n.v.fut	སྐེམ་√2
-[#ERROR 134: The tsheg bar ("syllable") {སྐེམ} has no legal parses.]་	v.imp	སྐེམ་√2
-[#ERROR 134: The tsheg bar ("syllable") {སྐེམ} has no legal parses.]་་	v.imp	སྐེམ་√2
 སྐོ	v.pres	སྐོ་
 སྐོ་	v.pres	སྐོ་
 སྐོ་པ	n.v.pres	སྐོ་
@@ -1244,8 +1240,6 @@
 སྐོམ་པ་	n.v.fut	སྐོམ་
 སྐོམ་བ	n.v.fut	སྐོམ་
 སྐོམ་བ་	n.v.fut	སྐོམ་
-[#ERROR 134: The tsheg bar ("syllable") {སྐོམ} has no legal parses.]་	v.imp	སྐོམ་
-[#ERROR 134: The tsheg bar ("syllable") {སྐོམ} has no legal parses.]་་	v.imp	སྐོམ་
 སྐོར	v.pres	སྐོར་√1
 སྐོར་	v.pres	སྐོར་√1
 སྐོར་པ	n.v.pres	སྐོར་√1
@@ -2358,8 +2352,6 @@
 བསྐལ་པ་	n.v.fut	བསྐལ་
 བསྐལ་བ	n.v.fut	བསྐལ་
 བསྐལ་བ་	n.v.fut	བསྐལ་
-[#ERROR 134: The tsheg bar ("syllable") {བསྐལ} has no legal parses.]་	v.imp	བསྐལ་
-[#ERROR 134: The tsheg bar ("syllable") {བསྐལ} has no legal parses.]་་	v.imp	བསྐལ་
 བསྐོན	v.pres	བསྐོན་
 བསྐོན་	v.pres	བསྐོན་
 བསྐོན་པ	n.v.pres	བསྐོན་
@@ -2440,8 +2432,6 @@
 ཁེག་པ་	n.v.fut	ཁེགས་
 ཁེག་བ	n.v.fut	ཁེགས་
 ཁེག་བ་	n.v.fut	ཁེགས་
-[#ERROR 134: The tsheg bar ("syllable") {ཁེགས} has no legal parses.]་	v.imp	ཁེགས་
-[#ERROR 134: The tsheg bar ("syllable") {ཁེགས} has no legal parses.]་་	v.imp	ཁེགས་
 འཁེང	v.pres	ཁེང་
 འཁེང་	v.pres	ཁེང་
 འཁེང་པ	n.v.pres	ཁེང་
@@ -2664,8 +2654,6 @@
 ཁྱོག་པ་	n.v.fut	ཁྱོག་
 ཁྱོག་བ	n.v.fut	ཁྱོག་
 ཁྱོག་བ་	n.v.fut	ཁྱོག་
-[#ERROR 134: The tsheg bar ("syllable") {ཁྱོག} has no legal parses.]་	v.imp	ཁྱོག་
-[#ERROR 134: The tsheg bar ("syllable") {ཁྱོག} has no legal parses.]་་	v.imp	ཁྱོག་
 ཁྲུལ	v.pres	ཁྲུལ་
 ཁྲུལ་	v.pres	ཁྲུལ་
 ཁྲུལ་པ	n.v.pres	ཁྲུལ་
@@ -2702,8 +2690,6 @@
 ཁྲེམས་པ་	n.v.fut	ཁྲེམས་
 ཁྲེམས་བ	n.v.fut	ཁྲེམས་
 ཁྲེམས་བ་	n.v.fut	ཁྲེམས་
-[#ERROR 134: The tsheg bar ("syllable") {ཁྲེམས} has no legal parses.]་	v.imp	ཁྲེམས་
-[#ERROR 134: The tsheg bar ("syllable") {ཁྲེམས} has no legal parses.]་་	v.imp	ཁྲེམས་
 ཁྲེལ	v.pres	ཁྲེལ་
 ཁྲེལ་	v.pres	ཁྲེལ་
 ཁྲེལ་པ	n.v.pres	ཁྲེལ་
@@ -2722,8 +2708,6 @@
 ཁྲེལ་པ་	n.v.fut	ཁྲེལ་
 ཁྲེལ་བ	n.v.fut	ཁྲེལ་
 ཁྲེལ་བ་	n.v.fut	ཁྲེལ་
-[#ERROR 134: The tsheg bar ("syllable") {ཁྲེལ} has no legal parses.]་	v.imp	ཁྲེལ་
-[#ERROR 134: The tsheg bar ("syllable") {ཁྲེལ} has no legal parses.]་་	v.imp	ཁྲེལ་
 ཁྲོ	v.pres	ཁྲོ་
 ཁྲོ་	v.pres	ཁྲོ་
 ཁྲོ་པ	n.v.pres	ཁྲོ་
@@ -2868,8 +2852,6 @@
 མཁྲང་པ་	n.v.fut	མཁྲང་
 མཁྲང་བ	n.v.fut	མཁྲང་
 མཁྲང་བ་	n.v.fut	མཁྲང་
-[#ERROR 134: The tsheg bar ("syllable") {མཁྲང} has no legal parses.]་	v.imp	མཁྲང་
-[#ERROR 134: The tsheg bar ("syllable") {མཁྲང} has no legal parses.]་་	v.imp	མཁྲང་
 མཁྲེག	v.pres	མཁྲེག་
 མཁྲེག་	v.pres	མཁྲེག་
 མཁྲེག་པ	n.v.pres	མཁྲེག་
@@ -2888,8 +2870,6 @@
 མཁྲེག་པ་	n.v.fut	མཁྲེག་
 མཁྲེག་བ	n.v.fut	མཁྲེག་
 མཁྲེག་བ་	n.v.fut	མཁྲེག་
-[#ERROR 134: The tsheg bar ("syllable") {མཁྲེག} has no legal parses.]་	v.imp	མཁྲེག་
-[#ERROR 134: The tsheg bar ("syllable") {མཁྲེག} has no legal parses.]་་	v.imp	མཁྲེག་
 མཁྲེན	v.pres	མཁྲེན་
 མཁྲེན་	v.pres	མཁྲེན་
 མཁྲེན་པ	n.v.pres	མཁྲེན་
@@ -2908,8 +2888,6 @@
 མཁྲེན་པ་	n.v.fut	མཁྲེན་
 མཁྲེན་བ	n.v.fut	མཁྲེན་
 མཁྲེན་བ་	n.v.fut	མཁྲེན་
-[#ERROR 134: The tsheg bar ("syllable") {མཁྲེན} has no legal parses.]་	v.imp	མཁྲེན་
-[#ERROR 134: The tsheg bar ("syllable") {མཁྲེན} has no legal parses.]་་	v.imp	མཁྲེན་
 འཁང	v.pres	འཁང་
 འཁང་	v.pres	འཁང་
 འཁང་པ	n.v.pres	འཁང་
@@ -3304,8 +3282,6 @@
 འཁེང་པ་	n.v.fut	འཁེང་
 འཁེང་བ	n.v.fut	འཁེང་
 འཁེང་བ་	n.v.fut	འཁེང་
-[#ERROR 134: The tsheg bar ("syllable") {འཁེང} has no legal parses.]་	v.imp	འཁེང་
-[#ERROR 134: The tsheg bar ("syllable") {འཁེང} has no legal parses.]་་	v.imp	འཁེང་
 འཁེལ	v.pres	འཁེལ་
 འཁེལ་	v.pres	འཁེལ་
 འཁེལ་པ	n.v.pres	འཁེལ་
@@ -3534,8 +3510,6 @@
 འཁོབ་པ་	n.v.fut	འཁོབ་
 འཁོབ་བ	n.v.fut	འཁོབ་
 འཁོབ་བ་	n.v.fut	འཁོབ་
-[#ERROR 134: The tsheg bar ("syllable") {འཁོབ} has no legal parses.]་	v.imp	འཁོབ་
-[#ERROR 134: The tsheg bar ("syllable") {འཁོབ} has no legal parses.]་་	v.imp	འཁོབ་
 འཁོརད	v.pres	འཁོར་
 འཁོརད་	v.pres	འཁོར་
 འཁོརད་པ	n.v.pres	འཁོར་
@@ -3856,8 +3830,6 @@
 འཁྱིག་པ་	n.v.fut	འཁྱིག་√2
 འཁྱིག་བ	n.v.fut	འཁྱིག་√2
 འཁྱིག་བ་	n.v.fut	འཁྱིག་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཁྱིག} has no legal parses.]་	v.imp	འཁྱིག་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཁྱིག} has no legal parses.]་་	v.imp	འཁྱིག་√2
 འཁྱིགས	v.pres	འཁྱིགས་
 འཁྱིགས་	v.pres	འཁྱིགས་
 འཁྱིགས་པ	n.v.pres	འཁྱིགས་
@@ -4284,8 +4256,6 @@
 འཁྱོར་པ་	n.v.fut	འཁྱོར་
 འཁྱོར་བ	n.v.fut	འཁྱོར་
 འཁྱོར་བ་	n.v.fut	འཁྱོར་
-[#ERROR 134: The tsheg bar ("syllable") {འཁྱོར} has no legal parses.]་	v.imp	འཁྱོར་
-[#ERROR 134: The tsheg bar ("syllable") {འཁྱོར} has no legal parses.]་་	v.imp	འཁྱོར་
 འཁྱོལ	v.pres	འཁྱོལ་
 འཁྱོལ་	v.pres	འཁྱོལ་
 འཁྱོལ་པ	n.v.pres	འཁྱོལ་
@@ -4438,8 +4408,6 @@
 འཁྲི་པ་	n.v.fut	འཁྲི་
 འཁྲི་བ	n.v.fut	འཁྲི་
 འཁྲི་བ་	n.v.fut	འཁྲི་
-[#ERROR 134: The tsheg bar ("syllable") {འཁྲི} has no legal parses.]་	v.imp	འཁྲི་
-[#ERROR 134: The tsheg bar ("syllable") {འཁྲི} has no legal parses.]་་	v.imp	འཁྲི་
 འཁྲིག	v.pres	འཁྲིག་
 འཁྲིག་	v.pres	འཁྲིག་
 འཁྲིག་པ	n.v.pres	འཁྲིག་
@@ -4826,8 +4794,6 @@
 འཁྲེབ་པ་	n.v.fut	འཁྲེབ་
 འཁྲེབ་བ	n.v.fut	འཁྲེབ་
 འཁྲེབ་བ་	n.v.fut	འཁྲེབ་
-[#ERROR 134: The tsheg bar ("syllable") {འཁྲེབ} has no legal parses.]་	v.imp	འཁྲེབ་
-[#ERROR 134: The tsheg bar ("syllable") {འཁྲེབ} has no legal parses.]་་	v.imp	འཁྲེབ་
 འཁྲེལད	v.pres	འཁྲེལ་
 འཁྲེལད་	v.pres	འཁྲེལ་
 འཁྲེལད་པ	n.v.pres	འཁྲེལ་
@@ -4866,8 +4832,6 @@
 འཁྲོག་པ་	n.v.fut	འཁྲོག་
 འཁྲོག་བ	n.v.fut	འཁྲོག་
 འཁྲོག་བ་	n.v.fut	འཁྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {འཁྲོག} has no legal parses.]་	v.imp	འཁྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {འཁྲོག} has no legal parses.]་་	v.imp	འཁྲོག་
 འཁྲོལ	v.pres	འཁྲོལ་√1
 འཁྲོལ་	v.pres	འཁྲོལ་√1
 འཁྲོལ་པ	n.v.pres	འཁྲོལ་√1
@@ -4968,8 +4932,6 @@
 འཁྲོལ་པ་	n.v.fut	འཁྲོལ་√3
 འཁྲོལ་བ	n.v.fut	འཁྲོལ་√3
 འཁྲོལ་བ་	n.v.fut	འཁྲོལ་√3
-[#ERROR 134: The tsheg bar ("syllable") {འཁྲོལ} has no legal parses.]་	v.imp	འཁྲོལ་√3
-[#ERROR 134: The tsheg bar ("syllable") {འཁྲོལ} has no legal parses.]་་	v.imp	འཁྲོལ་√3
 གང	v.pres	གང་
 གང་	v.pres	གང་
 གང་པ	n.v.pres	གང་
@@ -5132,8 +5094,6 @@
 གུད་པ་	n.v.fut	གུད་
 གུད་བ	n.v.fut	གུད་
 གུད་བ་	n.v.fut	གུད་
-གུད་	v.imp	གུད་
-གུད་་	v.imp	གུད་
 གུས	v.pres	གུས་
 གུས་	v.pres	གུས་
 གུས་པ	n.v.pres	གུས་
@@ -5360,8 +5320,6 @@
 གྱར་པ་	n.v.fut	གྱར་
 གྱར་བ	n.v.fut	གྱར་
 གྱར་བ་	n.v.fut	གྱར་
-[#ERROR 134: The tsheg bar ("syllable") {གྱར} has no legal parses.]་	v.imp	གྱར་
-[#ERROR 134: The tsheg bar ("syllable") {གྱར} has no legal parses.]་་	v.imp	གྱར་
 གྱེད	v.pres	གྱེད་
 གྱེད་	v.pres	གྱེད་
 གྱེད་པ	n.v.pres	གྱེད་
@@ -5590,8 +5548,6 @@
 གྲམ་པ་	n.v.fut	གྲམ་
 གྲམ་བ	n.v.fut	གྲམ་
 གྲམ་བ་	n.v.fut	གྲམ་
-[#ERROR 134: The tsheg bar ("syllable") {གྲམ} has no legal parses.]་	v.imp	གྲམ་
-[#ERROR 134: The tsheg bar ("syllable") {གྲམ} has no legal parses.]་་	v.imp	གྲམ་
 གྲས	v.pres	གྲས་
 གྲས་	v.pres	གྲས་
 གྲས་པ	n.v.pres	གྲས་
@@ -5634,8 +5590,6 @@
 གྲིམ་པ་	n.v.fut	གྲིམ་
 གྲིམ་བ	n.v.fut	གྲིམ་
 གྲིམ་བ་	n.v.fut	གྲིམ་
-[#ERROR 134: The tsheg bar ("syllable") {གྲིམ} has no legal parses.]་	v.imp	གྲིམ་
-[#ERROR 134: The tsheg bar ("syllable") {གྲིམ} has no legal parses.]་་	v.imp	གྲིམ་
 གྲུག	v.pres	གྲུག་
 གྲུག་	v.pres	གྲུག་
 གྲུག་པ	n.v.pres	གྲུག་
@@ -5660,8 +5614,6 @@
 གྲུག་པ་	n.v.fut	གྲུག་
 གྲུག་བ	n.v.fut	གྲུག་
 གྲུག་བ་	n.v.fut	གྲུག་
-[#ERROR 134: The tsheg bar ("syllable") {གྲུག} has no legal parses.]་	v.imp	གྲུག་
-[#ERROR 134: The tsheg bar ("syllable") {གྲུག} has no legal parses.]་་	v.imp	གྲུག་
 གྲོན	v.pres	གྲོན་
 གྲོན་	v.pres	གྲོན་
 གྲོན་པ	n.v.pres	གྲོན་
@@ -6248,8 +6200,6 @@
 དགྱེད་པ་	n.v.fut	དགྱེད་
 དགྱེད་བ	n.v.fut	དགྱེད་
 དགྱེད་བ་	n.v.fut	དགྱེད་
-[#ERROR 134: The tsheg bar ("syllable") {དགྱེད} has no legal parses.]་	v.imp	དགྱེད་
-[#ERROR 134: The tsheg bar ("syllable") {དགྱེད} has no legal parses.]་་	v.imp	དགྱེད་
 དགྱེལ	v.pres	དགྱེལ་
 དགྱེལ་	v.pres	དགྱེལ་
 དགྱེལ་པ	n.v.pres	དགྱེལ་
@@ -6318,12 +6268,12 @@
 བཀྲོངས་པ་	n.v.past	དགྲོང་
 བཀྲོངས་བ	n.v.past	དགྲོང་
 བཀྲོངས་བ་	n.v.past	དགྲོང་
-[#ERROR 134: The tsheg bar ("syllable") {'krongs} has no legal parses.]	v.past	དགྲོང་
-[#ERROR 134: The tsheg bar ("syllable") {'krongs} has no legal parses.]་	v.past	དགྲོང་
-[#ERROR 134: The tsheg bar ("syllable") {'krongs} has no legal parses.]་པ	n.v.past	དགྲོང་
-[#ERROR 134: The tsheg bar ("syllable") {'krongs} has no legal parses.]་པ་	n.v.past	དགྲོང་
-[#ERROR 134: The tsheg bar ("syllable") {'krongs} has no legal parses.]་བ	n.v.past	དགྲོང་
-[#ERROR 134: The tsheg bar ("syllable") {'krongs} has no legal parses.]་བ་	n.v.past	དགྲོང་
+འཀྲོངས	v.past	དགྲོང་
+འཀྲོངས་	v.past	དགྲོང་
+འཀྲོངས་པ	n.v.past	དགྲོང་
+འཀྲོངས་པ་	n.v.past	དགྲོང་
+འཀྲོངས་བ	n.v.past	དགྲོང་
+འཀྲོངས་བ་	n.v.past	དགྲོང་
 བཀྲོང	v.fut	དགྲོང་
 བཀྲོང་	v.fut	དགྲོང་
 བཀྲོང་པ	n.v.fut	དགྲོང་
@@ -6858,8 +6808,6 @@
 མགྱོག་པ་	n.v.fut	མགྱོག་
 མགྱོག་བ	n.v.fut	མགྱོག་
 མགྱོག་བ་	n.v.fut	མགྱོག་
-[#ERROR 134: The tsheg bar ("syllable") {མགྱོག} has no legal parses.]་	v.imp	མགྱོག་
-[#ERROR 134: The tsheg bar ("syllable") {མགྱོག} has no legal parses.]་་	v.imp	མགྱོག་
 འགག	v.pres	འགག་
 འགག་	v.pres	འགག་
 འགག་པ	n.v.pres	འགག་
@@ -8990,8 +8938,6 @@
 རྒྱག་པ་	n.v.fut	རྒྱག་√2
 རྒྱག་བ	n.v.fut	རྒྱག་√2
 རྒྱག་བ་	n.v.fut	རྒྱག་√2
-[#ERROR 134: The tsheg bar ("syllable") {རྒྱག} has no legal parses.]་	v.imp	རྒྱག་√2
-[#ERROR 134: The tsheg bar ("syllable") {རྒྱག} has no legal parses.]་་	v.imp	རྒྱག་√2
 རྒྱགས	v.pres	རྒྱགས་√1
 རྒྱགས་	v.pres	རྒྱགས་√1
 རྒྱགས་པ	n.v.pres	རྒྱགས་√1
@@ -10514,8 +10460,6 @@
 ངུར་པ་	n.v.fut	ངུར་
 ངུར་བ	n.v.fut	ངུར་
 ངུར་བ་	n.v.fut	ངུར་
-ངུར་	v.imp	ངུར་
-ངུར་་	v.imp	ངུར་
 ངེར	v.pres	ངེར་
 ངེར་	v.pres	ངེར་
 ངེར་པ	n.v.pres	ངེར་
@@ -10534,8 +10478,6 @@
 ངེར་པ་	n.v.fut	ངེར་
 ངེར་བ	n.v.fut	ངེར་
 ངེར་བ་	n.v.fut	ངེར་
-ངེར་	v.imp	ངེར་
-ངེར་་	v.imp	ངེར་
 ངེས	v.pres	ངེས་
 ངེས་	v.pres	ངེས་
 ངེས་པ	n.v.pres	ངེས་
@@ -10600,8 +10542,6 @@
 ངོམས་པ་	n.v.fut	ངོམས་
 ངོམས་བ	n.v.fut	ངོམས་
 ངོམས་བ་	n.v.fut	ངོམས་
-[#ERROR 134: The tsheg bar ("syllable") {ངོམས} has no legal parses.]་	v.imp	ངོམས་
-[#ERROR 134: The tsheg bar ("syllable") {ངོམས} has no legal parses.]་་	v.imp	ངོམས་
 དངང	v.pres	དངང་
 དངང་	v.pres	དངང་
 དངང་པ	n.v.pres	དངང་
@@ -12116,8 +12056,6 @@
 ལྕིགས་པ་	n.v.fut	ལྕིགས་
 ལྕིགས་བ	n.v.fut	ལྕིགས་
 ལྕིགས་བ་	n.v.fut	ལྕིགས་
-[#ERROR 134: The tsheg bar ("syllable") {ལྕིགས} has no legal parses.]་	v.imp	ལྕིགས་
-[#ERROR 134: The tsheg bar ("syllable") {ལྕིགས} has no legal parses.]་་	v.imp	ལྕིགས་
 ལྕེབ	v.pres	ལྕེབ་
 ལྕེབ་	v.pres	ལྕེབ་
 ལྕེབ་པ	n.v.pres	ལྕེབ་
@@ -12236,8 +12174,6 @@
 ཆགས་པ་	n.v.fut	ཆགས་√2
 ཆགས་བ	n.v.fut	ཆགས་√2
 ཆགས་བ་	n.v.fut	ཆགས་√2
-[#ERROR 134: The tsheg bar ("syllable") {ཆགས} has no legal parses.]་	v.imp	ཆགས་√2
-[#ERROR 134: The tsheg bar ("syllable") {ཆགས} has no legal parses.]་་	v.imp	ཆགས་√2
 ཆགས	v.past	ཆགས་√3
 ཆགས་	v.past	ཆགས་√3
 ཆགས་པ	n.v.past	ཆགས་√3
@@ -12332,8 +12268,6 @@
 ཆུབ་པ་	n.v.fut	ཆུབ་
 ཆུབ་བ	n.v.fut	ཆུབ་
 ཆུབ་བ་	n.v.fut	ཆུབ་
-ཆུབ་	v.imp	ཆུབ་
-ཆུབ་་	v.imp	ཆུབ་
 ཆུམ	v.pres	ཆུམ་
 ཆུམ་	v.pres	ཆུམ་
 ཆུམ་པ	n.v.pres	ཆུམ་
@@ -12382,8 +12316,6 @@
 ཆེས་པ་	n.v.fut	ཆེས་
 ཆེས་བ	n.v.fut	ཆེས་
 ཆེས་བ་	n.v.fut	ཆེས་
-ཆེས་	v.imp	ཆེས་
-ཆེས་་	v.imp	ཆེས་
 ཆོག	v.pres	ཆོག་
 ཆོག་	v.pres	ཆོག་
 ཆོག་པ	n.v.pres	ཆོག་
@@ -12448,8 +12380,6 @@
 ཆོམ་པ་	n.v.fut	ཆོམ་
 ཆོམ་བ	n.v.fut	ཆོམ་
 ཆོམ་བ་	n.v.fut	ཆོམ་
-ཆོམ་	v.imp	ཆོམ་
-ཆོམ་་	v.imp	ཆོམ་
 མཆི	v.pres	མཆི་
 མཆི་	v.pres	མཆི་
 མཆི་པ	n.v.pres	མཆི་
@@ -12530,8 +12460,6 @@
 མཆོག་པ་	n.v.fut	མཆོག་
 མཆོག་བ	n.v.fut	མཆོག་
 མཆོག་བ་	n.v.fut	མཆོག་
-[#ERROR 134: The tsheg bar ("syllable") {མཆོག} has no legal parses.]་	v.imp	མཆོག་
-[#ERROR 134: The tsheg bar ("syllable") {མཆོག} has no legal parses.]་་	v.imp	མཆོག་
 མཆོང	v.pres	མཆོང་
 མཆོང་	v.pres	མཆོང་
 མཆོང་པ	n.v.pres	མཆོང་
@@ -12618,8 +12546,6 @@
 མཆོལ་པ་	n.v.fut	མཆོལ་
 མཆོལ་བ	n.v.fut	མཆོལ་
 མཆོལ་བ་	n.v.fut	མཆོལ་
-[#ERROR 134: The tsheg bar ("syllable") {མཆོལ} has no legal parses.]་	v.imp	མཆོལ་
-[#ERROR 134: The tsheg bar ("syllable") {མཆོལ} has no legal parses.]་་	v.imp	མཆོལ་
 འཆག	v.pres	འཆག་√1
 འཆག་	v.pres	འཆག་√1
 འཆག་པ	n.v.pres	འཆག་√1
@@ -12708,8 +12634,6 @@
 འཆག་པ་	n.v.fut	འཆག་√3
 འཆག་བ	n.v.fut	འཆག་√3
 འཆག་བ་	n.v.fut	འཆག་√3
-[#ERROR 134: The tsheg bar ("syllable") {འཆག} has no legal parses.]་	v.imp	འཆག་√3
-[#ERROR 134: The tsheg bar ("syllable") {འཆག} has no legal parses.]་་	v.imp	འཆག་√3
 བཤགས	v.pres	འཆགས་
 བཤགས་	v.pres	འཆགས་
 བཤགས་པ	n.v.pres	འཆགས་
@@ -12934,8 +12858,6 @@
 འཆམས་པ་	n.v.fut	འཆམ་√2
 འཆམས་བ	n.v.fut	འཆམ་√2
 འཆམས་བ་	n.v.fut	འཆམ་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཆམ} has no legal parses.]་	v.imp	འཆམ་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཆམ} has no legal parses.]་་	v.imp	འཆམ་√2
 འཆའ	v.pres	འཆའ་√1
 འཆའ་	v.pres	འཆའ་√1
 འཆའ་པ	n.v.pres	འཆའ་√1
@@ -12984,8 +12906,6 @@
 བཅའ་པ་	n.v.fut	འཆའ་√2
 བཅའ་བ	n.v.fut	འཆའ་√2
 བཅའ་བ་	n.v.fut	འཆའ་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཆའ} has no legal parses.]་	v.imp	འཆའ་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཆའ} has no legal parses.]་་	v.imp	འཆའ་√2
 འཆའ	v.pres	འཆའ་√3
 འཆའ་	v.pres	འཆའ་√3
 འཆའ་པ	n.v.pres	འཆའ་√3
@@ -13828,8 +13748,6 @@
 འཇང་པ་	n.v.fut	འཇང་
 འཇང་བ	n.v.fut	འཇང་
 འཇང་བ་	n.v.fut	འཇང་
-[#ERROR 134: The tsheg bar ("syllable") {འཇང} has no legal parses.]་	v.imp	འཇང་
-[#ERROR 134: The tsheg bar ("syllable") {འཇང} has no legal parses.]་་	v.imp	འཇང་
 འཇབ	v.pres	འཇབ་
 འཇབ་	v.pres	འཇབ་
 འཇབ་པ	n.v.pres	འཇབ་
@@ -14242,8 +14160,6 @@
 འཇིལ་པ་	n.v.fut	འཇིལ་√2
 འཇིལ་བ	n.v.fut	འཇིལ་√2
 འཇིལ་བ་	n.v.fut	འཇིལ་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཇིལ} has no legal parses.]་	v.imp	འཇིལ་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཇིལ} has no legal parses.]་་	v.imp	འཇིལ་√2
 འཇུ	v.pres	འཇུ་√1
 འཇུ་	v.pres	འཇུ་√1
 འཇུ་པ	n.v.pres	འཇུ་√1
@@ -14284,8 +14200,6 @@
 འཇུ་པ་	n.v.fut	འཇུ་√2
 འཇུ་བ	n.v.fut	འཇུ་√2
 འཇུ་བ་	n.v.fut	འཇུ་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཇུ} has no legal parses.]་	v.imp	འཇུ་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཇུ} has no legal parses.]་་	v.imp	འཇུ་√2
 ཞུ	v.pres	འཇུ་√3
 ཞུ་	v.pres	འཇུ་√3
 ཞུ་པ	n.v.pres	འཇུ་√3
@@ -14628,8 +14542,6 @@
 འཇེབས་པ་	n.v.fut	འཇེབས་
 འཇེབས་བ	n.v.fut	འཇེབས་
 འཇེབས་བ་	n.v.fut	འཇེབས་
-[#ERROR 134: The tsheg bar ("syllable") {འཇེབས} has no legal parses.]་	v.imp	འཇེབས་
-[#ERROR 134: The tsheg bar ("syllable") {འཇེབས} has no legal parses.]་་	v.imp	འཇེབས་
 འཇེམ	v.pres	འཇེམ་
 འཇེམ་	v.pres	འཇེམ་
 འཇེམ་པ	n.v.pres	འཇེམ་
@@ -14852,8 +14764,6 @@
 འཇོལ་པ་	n.v.fut	འཇོལ་
 འཇོལ་བ	n.v.fut	འཇོལ་
 འཇོལ་བ་	n.v.fut	འཇོལ་
-[#ERROR 134: The tsheg bar ("syllable") {འཇོལ} has no legal parses.]་	v.imp	འཇོལ་
-[#ERROR 134: The tsheg bar ("syllable") {འཇོལ} has no legal parses.]་་	v.imp	འཇོལ་
 རྗིད	v.pres	རྗིད་
 རྗིད་	v.pres	རྗིད་
 རྗིད་པ	n.v.pres	རྗིད་
@@ -15026,8 +14936,8 @@
 བརྗིད་པ་	n.v.fut	བརྗིད་
 བརྗིད་བ	n.v.fut	བརྗིད་
 བརྗིད་བ་	n.v.fut	བརྗིད་
-[#ERROR 134: The tsheg bar ("syllable") {bjid} has no legal parses.]	v.imp	བརྗིད་
-[#ERROR 134: The tsheg bar ("syllable") {bjid} has no legal parses.]་	v.imp	བརྗིད་
+བཇིད	v.imp	བརྗིད་
+བཇིད་	v.imp	བརྗིད་
 བརྗེད	v.pres	བརྗེད་
 བརྗེད་	v.pres	བརྗེད་
 བརྗེད་པ	n.v.pres	བརྗེད་
@@ -15072,8 +14982,6 @@
 ཉ་པ་	n.v.fut	ཉ་
 ཉ་བ	n.v.fut	ཉ་
 ཉ་བ་	n.v.fut	ཉ་
-ཉ་	v.imp	ཉ་
-ཉ་་	v.imp	ཉ་
 ཉན	v.pres	ཉན་√1
 ཉན་	v.pres	ཉན་√1
 ཉན་པ	n.v.pres	ཉན་√1
@@ -15128,8 +15036,6 @@
 ཉན་པ་	n.v.pres	ཉན་√2
 ཉན་བ	n.v.pres	ཉན་√2
 ཉན་བ་	n.v.pres	ཉན་√2
-[#ERROR 134: The tsheg bar ("syllable") {ཉན} has no legal parses.]་	v.imp	ཉན་√2
-[#ERROR 134: The tsheg bar ("syllable") {ཉན} has no legal parses.]་་	v.imp	ཉན་√2
 ཉན	v.invar	ཉན་√x
 ཉན་	v.invar	ཉན་√x
 ཉན་པ	n.v.invar	ཉན་√x
@@ -15506,8 +15412,6 @@
 གཉིད་པ་	n.v.fut	གཉིད་
 གཉིད་བ	n.v.fut	གཉིད་
 གཉིད་བ་	n.v.fut	གཉིད་
-[#ERROR 134: The tsheg bar ("syllable") {གཉིད} has no legal parses.]་	v.imp	གཉིད་
-[#ERROR 134: The tsheg bar ("syllable") {གཉིད} has no legal parses.]་་	v.imp	གཉིད་
 གཉུལད	v.pres	གཉུལ་
 གཉུལད་	v.pres	གཉུལ་
 གཉུལད་པ	n.v.pres	གཉུལ་
@@ -15622,12 +15526,12 @@
 གཉོག་པ་	n.v.pres	གཉོག་√1
 གཉོག་བ	n.v.pres	གཉོག་√1
 གཉོག་བ་	n.v.pres	གཉོག་√1
-[#ERROR 134: The tsheg bar ("syllable") {bnyags} has no legal parses.]	v.past	གཉོག་√1
-[#ERROR 134: The tsheg bar ("syllable") {bnyags} has no legal parses.]་	v.past	གཉོག་√1
-[#ERROR 134: The tsheg bar ("syllable") {bnyags} has no legal parses.]་པ	n.v.past	གཉོག་√1
-[#ERROR 134: The tsheg bar ("syllable") {bnyags} has no legal parses.]་པ་	n.v.past	གཉོག་√1
-[#ERROR 134: The tsheg bar ("syllable") {bnyags} has no legal parses.]་བ	n.v.past	གཉོག་√1
-[#ERROR 134: The tsheg bar ("syllable") {bnyags} has no legal parses.]་བ་	n.v.past	གཉོག་√1
+བཉགས	v.past	གཉོག་√1
+བཉགས་	v.past	གཉོག་√1
+བཉགས་པ	n.v.past	གཉོག་√1
+བཉགས་པ་	n.v.past	གཉོག་√1
+བཉགས་བ	n.v.past	གཉོག་√1
+བཉགས་བ་	n.v.past	གཉོག་√1
 གཉག	v.past	གཉོག་√1
 གཉག་	v.past	གཉོག་√1
 གཉག་པ	n.v.past	གཉོག་√1
@@ -15958,8 +15862,6 @@
 རྙིད་པ་	n.v.fut	རྙིད་
 རྙིད་བ	n.v.fut	རྙིད་
 རྙིད་བ་	n.v.fut	རྙིད་
-[#ERROR 134: The tsheg bar ("syllable") {རྙིད} has no legal parses.]་	v.imp	རྙིད་
-[#ERROR 134: The tsheg bar ("syllable") {རྙིད} has no legal parses.]་་	v.imp	རྙིད་
 རྙིལ	v.pres	རྙིལ་
 རྙིལ་	v.pres	རྙིལ་
 རྙིལ་པ	n.v.pres	རྙིལ་
@@ -17014,8 +16916,6 @@
 བརྙོག་པ་	n.v.fut	བརྙོག་
 བརྙོག་བ	n.v.fut	བརྙོག་
 བརྙོག་བ་	n.v.fut	བརྙོག་
-[#ERROR 134: The tsheg bar ("syllable") {བརྙོག} has no legal parses.]་	v.imp	བརྙོག་
-[#ERROR 134: The tsheg bar ("syllable") {བརྙོག} has no legal parses.]་་	v.imp	བརྙོག་
 བསྙིགས	v.pres	བསྙིགས་
 བསྙིགས་	v.pres	བསྙིགས་
 བསྙིགས་པ	n.v.pres	བསྙིགས་
@@ -17382,8 +17282,6 @@
 གཏུགས་པ་	n.v.fut	གཏུགས་
 གཏུགས་བ	n.v.fut	གཏུགས་
 གཏུགས་བ་	n.v.fut	གཏུགས་
-[#ERROR 134: The tsheg bar ("syllable") {གཏུགས} has no legal parses.]་	v.imp	གཏུགས་
-[#ERROR 134: The tsheg bar ("syllable") {གཏུགས} has no legal parses.]་་	v.imp	གཏུགས་
 གཏུབ	v.pres	གཏུབ་
 གཏུབ་	v.pres	གཏུབ་
 གཏུབ་པ	n.v.pres	གཏུབ་
@@ -18286,8 +18184,6 @@
 ལྟེམ་པ་	n.v.fut	ལྟེམ་
 ལྟེམ་བ	n.v.fut	ལྟེམ་
 ལྟེམ་བ་	n.v.fut	ལྟེམ་
-[#ERROR 134: The tsheg bar ("syllable") {ལྟེམ} has no legal parses.]་	v.imp	ལྟེམ་
-[#ERROR 134: The tsheg bar ("syllable") {ལྟེམ} has no legal parses.]་་	v.imp	ལྟེམ་
 ལྟམ	v.pres	ལྟེམས་
 ལྟམ་	v.pres	ལྟེམས་
 ལྟམ་པ	n.v.pres	ལྟེམས་
@@ -18372,8 +18268,6 @@
 ལྟོས་པ་	n.v.fut	ལྟོས་
 ལྟོས་བ	n.v.fut	ལྟོས་
 ལྟོས་བ་	n.v.fut	ལྟོས་
-[#ERROR 134: The tsheg bar ("syllable") {ལྟོས} has no legal parses.]་	v.imp	ལྟོས་
-[#ERROR 134: The tsheg bar ("syllable") {ལྟོས} has no legal parses.]་་	v.imp	ལྟོས་
 སྟངས	v.pres	སྟངས་
 སྟངས་	v.pres	སྟངས་
 སྟངས་པ	n.v.pres	སྟངས་
@@ -19292,8 +19186,6 @@
 ཐིག་པ་	n.v.fut	ཐིག་
 ཐིག་བ	n.v.fut	ཐིག་
 ཐིག་བ་	n.v.fut	ཐིག་
-ཐིག་	v.imp	ཐིག་
-ཐིག་་	v.imp	ཐིག་
 ཐིགས	v.pres	ཐིགས་
 ཐིགས་	v.pres	ཐིགས་
 ཐིགས་པ	n.v.pres	ཐིགས་
@@ -19342,8 +19234,6 @@
 ཐིང་པ་	n.v.fut	ཐིང་
 ཐིང་བ	n.v.fut	ཐིང་
 ཐིང་བ་	n.v.fut	ཐིང་
-ཐིང་	v.imp	ཐིང་
-ཐིང་་	v.imp	ཐིང་
 ཐུ	v.pres	ཐུ་
 ཐུ་	v.pres	ཐུ་
 ཐུ་པ	n.v.pres	ཐུ་
@@ -19646,8 +19536,6 @@
 ཐེང་པ་	n.v.fut	ཐེང་
 ཐེང་བ	n.v.fut	ཐེང་
 ཐེང་བ་	n.v.fut	ཐེང་
-ཐེང་	v.imp	ཐེང་
-ཐེང་་	v.imp	ཐེང་
 ཐེད	v.pres	ཐེད་
 ཐེད་	v.pres	ཐེད་
 ཐེད་པ	n.v.pres	ཐེད་
@@ -19860,8 +19748,6 @@
 ཐོང་པ་	n.v.fut	ཐོང་
 ཐོང་བ	n.v.fut	ཐོང་
 ཐོང་བ་	n.v.fut	ཐོང་
-ཐོང་	v.imp	ཐོང་
-ཐོང་་	v.imp	ཐོང་
 ཐོས	v.pres	ཐོས་
 ཐོས་	v.pres	ཐོས་
 ཐོས་པ	n.v.pres	ཐོས་
@@ -19894,8 +19780,6 @@
 མཐུག་པ་	n.v.past	མཐུག་
 མཐུག་བ	n.v.past	མཐུག་
 མཐུག་བ་	n.v.past	མཐུག་
-[#ERROR 134: The tsheg bar ("syllable") {མཐུག} has no legal parses.]་	v.imp	མཐུག་
-[#ERROR 134: The tsheg bar ("syllable") {མཐུག} has no legal parses.]་་	v.imp	མཐུག་
 མཐུད	v.pres	མཐུད་
 མཐུད་	v.pres	མཐུད་
 མཐུད་པ	n.v.pres	མཐུད་
@@ -20128,8 +20012,6 @@
 འཐག་པ་	n.v.fut	འཐག་√2
 འཐག་བ	n.v.fut	འཐག་√2
 འཐག་བ་	n.v.fut	འཐག་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཐག} has no legal parses.]་	v.imp	འཐག་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཐག} has no legal parses.]་་	v.imp	འཐག་√2
 འཐད	v.pres	འཐད་
 འཐད་	v.pres	འཐད་
 འཐད་པ	n.v.pres	འཐད་
@@ -20736,8 +20618,6 @@
 འཐེངས་པ་	n.v.fut	འཐེང་
 འཐེངས་བ	n.v.fut	འཐེང་
 འཐེངས་བ་	n.v.fut	འཐེང་
-[#ERROR 134: The tsheg bar ("syllable") {འཐེང} has no legal parses.]་	v.imp	འཐེང་
-[#ERROR 134: The tsheg bar ("syllable") {འཐེང} has no legal parses.]་་	v.imp	འཐེང་
 འཐེན	v.pres	འཐེན་
 འཐེན་	v.pres	འཐེན་
 འཐེན་པ	n.v.pres	འཐེན་
@@ -21374,8 +21254,6 @@
 དོ་པ་	n.v.fut	དོ་
 དོ་བ	n.v.fut	དོ་
 དོ་བ་	n.v.fut	དོ་
-དོ་	v.imp	དོ་
-དོ་་	v.imp	དོ་
 དོགས	v.pres	དོགས་
 དོགས་	v.pres	དོགས་
 དོགས་པ	n.v.pres	དོགས་
@@ -21598,8 +21476,6 @@
 དྲོས་པ་	n.v.fut	དྲོ་
 དྲོས་བ	n.v.fut	དྲོ་
 དྲོས་བ་	n.v.fut	དྲོ་
-[#ERROR 134: The tsheg bar ("syllable") {དྲོ} has no legal parses.]་	v.imp	དྲོ་
-[#ERROR 134: The tsheg bar ("syllable") {དྲོ} has no legal parses.]་་	v.imp	དྲོ་
 གདང	v.pres	གདང་
 གདང་	v.pres	གདང་
 གདང་པ	n.v.pres	གདང་
@@ -21694,8 +21570,6 @@
 གདལ་པ་	n.v.fut	གདལ་√2
 གདལ་བ	n.v.fut	གདལ་√2
 གདལ་བ་	n.v.fut	གདལ་√2
-[#ERROR 134: The tsheg bar ("syllable") {གདལ} has no legal parses.]་	v.imp	གདལ་√2
-[#ERROR 134: The tsheg bar ("syllable") {གདལ} has no legal parses.]་་	v.imp	གདལ་√2
 གདས	v.pres	གདས་
 གདས་	v.pres	གདས་
 གདས་པ	n.v.pres	གདས་
@@ -21756,8 +21630,6 @@
 གདུ་པ་	n.v.fut	གདུ་√2
 གདུ་བ	n.v.fut	གདུ་√2
 གདུ་བ་	n.v.fut	གདུ་√2
-[#ERROR 134: The tsheg bar ("syllable") {གདུ} has no legal parses.]་	v.imp	གདུ་√2
-[#ERROR 134: The tsheg bar ("syllable") {གདུ} has no legal parses.]་་	v.imp	གདུ་√2
 གདུང	v.pres	གདུང་√1
 གདུང་	v.pres	གདུང་√1
 གདུང་པ	n.v.pres	གདུང་√1
@@ -21804,8 +21676,6 @@
 གདུང་པ་	n.v.fut	གདུང་√2
 གདུང་བ	n.v.fut	གདུང་√2
 གདུང་བ་	n.v.fut	གདུང་√2
-[#ERROR 134: The tsheg bar ("syllable") {གདུང} has no legal parses.]་	v.imp	གདུང་√2
-[#ERROR 134: The tsheg bar ("syllable") {གདུང} has no legal parses.]་་	v.imp	གདུང་√2
 གདེང	v.pres	གདེང་
 གདེང་	v.pres	གདེང་
 གདེང་པ	n.v.pres	གདེང་
@@ -22130,8 +22000,6 @@
 འདང་པ་	n.v.fut	འདང་
 འདང་བ	n.v.fut	འདང་
 འདང་བ་	n.v.fut	འདང་
-[#ERROR 134: The tsheg bar ("syllable") {འདང} has no legal parses.]་	v.imp	འདང་
-[#ERROR 134: The tsheg bar ("syllable") {འདང} has no legal parses.]་་	v.imp	འདང་
 འདད	v.pres	འདད་
 འདད་	v.pres	འདད་
 འདད་པ	n.v.pres	འདད་
@@ -22350,8 +22218,6 @@
 འདུག་པ་	n.v.fut	འདུག་
 འདུག་བ	n.v.fut	འདུག་
 འདུག་བ་	n.v.fut	འདུག་
-[#ERROR 134: The tsheg bar ("syllable") {འདུག} has no legal parses.]་	v.imp	འདུག་
-[#ERROR 134: The tsheg bar ("syllable") {འདུག} has no legal parses.]་་	v.imp	འདུག་
 འདུག	v.invar	འདུག་√x
 འདུག་	v.invar	འདུག་√x
 འདུག་པ	n.v.invar	འདུག་√x
@@ -22436,8 +22302,6 @@
 འདུམ་པ་	n.v.fut	འདུམ་
 འདུམ་བ	n.v.fut	འདུམ་
 འདུམ་བ་	n.v.fut	འདུམ་
-[#ERROR 134: The tsheg bar ("syllable") {འདུམ} has no legal parses.]་	v.imp	འདུམ་
-[#ERROR 134: The tsheg bar ("syllable") {འདུམ} has no legal parses.]་་	v.imp	འདུམ་
 འདུར	v.pres	འདུར་√1
 འདུར་	v.pres	འདུར་√1
 འདུར་པ	n.v.pres	འདུར་√1
@@ -22964,8 +22828,6 @@
 འདོམ་པ་	n.v.fut	འདོམ་
 འདོམ་བ	n.v.fut	འདོམ་
 འདོམ་བ་	n.v.fut	འདོམ་
-[#ERROR 134: The tsheg bar ("syllable") {འདོམ} has no legal parses.]་	v.imp	འདོམ་
-[#ERROR 134: The tsheg bar ("syllable") {འདོམ} has no legal parses.]་་	v.imp	འདོམ་
 འདོམས	v.pres	འདོམས་
 འདོམས་	v.pres	འདོམས་
 འདོམས་པ	n.v.pres	འདོམས་
@@ -24612,8 +24474,6 @@
 ལྡུར་པ་	n.v.fut	ལྡུར་
 ལྡུར་བ	n.v.fut	ལྡུར་
 ལྡུར་བ་	n.v.fut	ལྡུར་
-[#ERROR 134: The tsheg bar ("syllable") {ལྡུར} has no legal parses.]་	v.imp	ལྡུར་
-[#ERROR 134: The tsheg bar ("syllable") {ལྡུར} has no legal parses.]་་	v.imp	ལྡུར་
 ལྡེ	v.pres	ལྡེ་
 ལྡེ་	v.pres	ལྡེ་
 ལྡེ་པ	n.v.pres	ལྡེ་
@@ -24882,8 +24742,6 @@
 སྡར་པ་	n.v.fut	སྡར་
 སྡར་བ	n.v.fut	སྡར་
 སྡར་བ་	n.v.fut	སྡར་
-[#ERROR 134: The tsheg bar ("syllable") {སྡར} has no legal parses.]་	v.imp	སྡར་
-[#ERROR 134: The tsheg bar ("syllable") {སྡར} has no legal parses.]་་	v.imp	སྡར་
 བསྡིག	v.pres	སྡིག་
 བསྡིག་	v.pres	སྡིག་
 བསྡིག་པ	n.v.pres	སྡིག་
@@ -25236,8 +25094,6 @@
 བརྡབ་པ་	n.v.fut	བརྡབ་
 བརྡབ་བ	n.v.fut	བརྡབ་
 བརྡབ་བ་	n.v.fut	བརྡབ་
-[#ERROR 134: The tsheg bar ("syllable") {བརྡབ} has no legal parses.]་	v.imp	བརྡབ་
-[#ERROR 134: The tsheg bar ("syllable") {བརྡབ} has no legal parses.]་་	v.imp	བརྡབ་
 བརྡའ	v.pres	བརྡའ་
 བརྡའ་	v.pres	བརྡའ་
 བརྡའ་པ	n.v.pres	བརྡའ་
@@ -25324,12 +25180,12 @@
 མནབ་པ་	n.v.fut	ནབ་
 མནབ་བ	n.v.fut	ནབ་
 མནབ་བ་	n.v.fut	ནབ་
-[#ERROR 134: The tsheg bar ("syllable") {bnab} has no legal parses.]	v.fut	ནབ་
-[#ERROR 134: The tsheg bar ("syllable") {bnab} has no legal parses.]་	v.fut	ནབ་
-[#ERROR 134: The tsheg bar ("syllable") {bnab} has no legal parses.]་པ	n.v.fut	ནབ་
-[#ERROR 134: The tsheg bar ("syllable") {bnab} has no legal parses.]་པ་	n.v.fut	ནབ་
-[#ERROR 134: The tsheg bar ("syllable") {bnab} has no legal parses.]་བ	n.v.fut	ནབ་
-[#ERROR 134: The tsheg bar ("syllable") {bnab} has no legal parses.]་བ་	n.v.fut	ནབ་
+བནབ	v.fut	ནབ་
+བནབ་	v.fut	ནབ་
+བནབ་པ	n.v.fut	ནབ་
+བནབ་པ་	n.v.fut	ནབ་
+བནབ་བ	n.v.fut	ནབ་
+བནབ་བ་	n.v.fut	ནབ་
 མནོབ	v.imp	ནབ་
 མནོབ་	v.imp	ནབ་
 ནོབས	v.imp	ནབ་
@@ -25620,8 +25476,6 @@
 མནོང་པ་	n.v.fut	ནོང་√1
 མནོང་བ	n.v.fut	ནོང་√1
 མནོང་བ་	n.v.fut	ནོང་√1
-ནོང་	v.imp	ནོང་√1
-ནོང་་	v.imp	ནོང་√1
 ནོང	v.pres	ནོང་√2
 ནོང་	v.pres	ནོང་√2
 ནོང་པ	n.v.pres	ནོང་√2
@@ -27862,8 +27716,6 @@
 སྤྲོ་པ་	n.v.fut	སྤྲོ་√1
 སྤྲོ་བ	n.v.fut	སྤྲོ་√1
 སྤྲོ་བ་	n.v.fut	སྤྲོ་√1
-[#ERROR 134: The tsheg bar ("syllable") {སྤྲོ} has no legal parses.]་	v.imp	སྤྲོ་√1
-[#ERROR 134: The tsheg bar ("syllable") {སྤྲོ} has no legal parses.]་་	v.imp	སྤྲོ་√1
 སྤྲོ	v.pres	སྤྲོ་√2
 སྤྲོ་	v.pres	སྤྲོ་√2
 སྤྲོ་པ	n.v.pres	སྤྲོ་√2
@@ -28006,8 +27858,6 @@
 ཕིགས་པ་	n.v.fut	ཕིགས་
 ཕིགས་བ	n.v.fut	ཕིགས་
 ཕིགས་བ་	n.v.fut	ཕིགས་
-[#ERROR 134: The tsheg bar ("syllable") {ཕིགས} has no legal parses.]་	v.imp	ཕིགས་
-[#ERROR 134: The tsheg bar ("syllable") {ཕིགས} has no legal parses.]་་	v.imp	ཕིགས་
 ཕིར	v.pres	ཕིར་
 ཕིར་	v.pres	ཕིར་
 ཕིར་པ	n.v.pres	ཕིར་
@@ -28336,8 +28186,6 @@
 ཕྲུལ་པ་	n.v.fut	ཕྲུལ་
 ཕྲུལ་བ	n.v.fut	ཕྲུལ་
 ཕྲུལ་བ་	n.v.fut	ཕྲུལ་
-[#ERROR 134: The tsheg bar ("syllable") {ཕྲུལ} has no legal parses.]་	v.imp	ཕྲུལ་
-[#ERROR 134: The tsheg bar ("syllable") {ཕྲུལ} has no legal parses.]་་	v.imp	ཕྲུལ་
 འཕག	v.pres	འཕག་√1
 འཕག་	v.pres	འཕག་√1
 འཕག་པ	n.v.pres	འཕག་√1
@@ -29434,8 +29282,6 @@
 འཕྲ་པ་	n.v.fut	འཕྲ་
 འཕྲ་བ	n.v.fut	འཕྲ་
 འཕྲ་བ་	n.v.fut	འཕྲ་
-[#ERROR 134: The tsheg bar ("syllable") {འཕྲ} has no legal parses.]་	v.imp	འཕྲ་
-[#ERROR 134: The tsheg bar ("syllable") {འཕྲ} has no legal parses.]་་	v.imp	འཕྲ་
 འཕྲག	v.pres	འཕྲག་
 འཕྲག་	v.pres	འཕྲག་
 འཕྲག་པ	n.v.pres	འཕྲག་
@@ -29870,12 +29716,12 @@
 འཕྲོག་པ་	n.v.pres	འཕྲོག་
 འཕྲོག་བ	n.v.pres	འཕྲོག་
 འཕྲོག་བ་	n.v.pres	འཕྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]	v.pres	འཕྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་	v.pres	འཕྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་པ	n.v.pres	འཕྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་པ་	n.v.pres	འཕྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་བ	n.v.pres	འཕྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་བ་	n.v.pres	འཕྲོག་
+དཕྲོག	v.pres	འཕྲོག་
+དཕྲོག་	v.pres	འཕྲོག་
+དཕྲོག་པ	n.v.pres	འཕྲོག་
+དཕྲོག་པ་	n.v.pres	འཕྲོག་
+དཕྲོག་བ	n.v.pres	འཕྲོག་
+དཕྲོག་བ་	n.v.pres	འཕྲོག་
 ཕྲོགས	v.past	འཕྲོག་
 ཕྲོགས་	v.past	འཕྲོག་
 ཕྲོགས་པ	n.v.past	འཕྲོག་
@@ -29888,12 +29734,12 @@
 ཕྲོག་པ་	n.v.past	འཕྲོག་
 ཕྲོག་བ	n.v.past	འཕྲོག་
 ཕྲོག་བ་	n.v.past	འཕྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]	v.fut	འཕྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་	v.fut	འཕྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་པ	n.v.fut	འཕྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་པ་	n.v.fut	འཕྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་བ	n.v.fut	འཕྲོག་
-[#ERROR 134: The tsheg bar ("syllable") {dphrog} has no legal parses.]་བ་	n.v.fut	འཕྲོག་
+དཕྲོག	v.fut	འཕྲོག་
+དཕྲོག་	v.fut	འཕྲོག་
+དཕྲོག་པ	n.v.fut	འཕྲོག་
+དཕྲོག་པ་	n.v.fut	འཕྲོག་
+དཕྲོག་བ	n.v.fut	འཕྲོག་
+དཕྲོག་བ་	n.v.fut	འཕྲོག་
 འཕྲོག	v.fut	འཕྲོག་
 འཕྲོག་	v.fut	འཕྲོག་
 འཕྲོག་པ	n.v.fut	འཕྲོག་
@@ -29956,8 +29802,6 @@
 བད་པ་	n.v.fut	བད་
 བད་བ	n.v.fut	བད་
 བད་བ་	n.v.fut	བད་
-[#ERROR 134: The tsheg bar ("syllable") {བད} has no legal parses.]་	v.imp	བད་
-[#ERROR 134: The tsheg bar ("syllable") {བད} has no legal parses.]་་	v.imp	བད་
 བམ	v.pres	བམ་
 བམ་	v.pres	བམ་
 བམ་པ	n.v.pres	བམ་
@@ -30002,8 +29846,6 @@
 བུད་པ་	n.v.fut	བུད་
 བུད་བ	n.v.fut	བུད་
 བུད་བ་	n.v.fut	བུད་
-བུད་	v.imp	བུད་
-བུད་་	v.imp	བུད་
 བུར	v.pres	བུར་
 བུར་	v.pres	བུར་
 བུར་པ	n.v.pres	བུར་
@@ -30108,8 +29950,6 @@
 བོར་པ་	n.v.fut	བོར་
 བོར་བ	n.v.fut	བོར་
 བོར་བ་	n.v.fut	བོར་
-བོར་	v.imp	བོར་
-བོར་་	v.imp	བོར་
 བྱང	v.pres	བྱང་
 བྱང་	v.pres	བྱང་
 བྱང་པ	n.v.pres	བྱང་
@@ -30438,8 +30278,6 @@
 བྲེད་པ་	n.v.fut	བྲེད་
 བྲེད་བ	n.v.fut	བྲེད་
 བྲེད་བ་	n.v.fut	བྲེད་
-[#ERROR 134: The tsheg bar ("syllable") {བྲེད} has no legal parses.]་	v.imp	བྲེད་
-[#ERROR 134: The tsheg bar ("syllable") {བྲེད} has no legal parses.]་་	v.imp	བྲེད་
 བྲེལ	v.pres	བྲེལ་
 བྲེལ་	v.pres	བྲེལ་
 བྲེལ་པ	n.v.pres	བྲེལ་
@@ -31118,8 +30956,6 @@
 འབའ་པ་	n.v.fut	འབའ་
 འབའ་བ	n.v.fut	འབའ་
 འབའ་བ་	n.v.fut	འབའ་
-[#ERROR 134: The tsheg bar ("syllable") {འབའ} has no legal parses.]་	v.imp	འབའ་
-[#ERROR 134: The tsheg bar ("syllable") {འབའ} has no legal parses.]་་	v.imp	འབའ་
 འབར	v.pres	འབར་
 འབར་	v.pres	འབར་
 འབར་པ	n.v.pres	འབར་
@@ -32504,8 +32340,6 @@
 འབྱོང་པ་	n.v.fut	འབྱོང་√2
 འབྱོང་བ	n.v.fut	འབྱོང་√2
 འབྱོང་བ་	n.v.fut	འབྱོང་√2
-[#ERROR 134: The tsheg bar ("syllable") {འབྱོང} has no legal parses.]་	v.imp	འབྱོང་√2
-[#ERROR 134: The tsheg bar ("syllable") {འབྱོང} has no legal parses.]་་	v.imp	འབྱོང་√2
 འབྱོང	v.pres	འབྱོང་√3
 འབྱོང་	v.pres	འབྱོང་√3
 འབྱོང་པ	n.v.pres	འབྱོང་√3
@@ -34510,8 +34344,6 @@
 མྱུལ་པ་	n.v.fut	མྱུལ་√1
 མྱུལ་བ	n.v.fut	མྱུལ་√1
 མྱུལ་བ་	n.v.fut	མྱུལ་√1
-[#ERROR 134: The tsheg bar ("syllable") {མྱུལ} has no legal parses.]་	v.imp	མྱུལ་√1
-[#ERROR 134: The tsheg bar ("syllable") {མྱུལ} has no legal parses.]་་	v.imp	མྱུལ་√1
 མྱུལ	v.pres	མྱུལ་√2
 མྱུལ་	v.pres	མྱུལ་√2
 མྱུལ་པ	n.v.pres	མྱུལ་√2
@@ -34734,8 +34566,6 @@
 དམིགས་པ་	n.v.fut	དམིགས་√2
 དམིགས་བ	n.v.fut	དམིགས་√2
 དམིགས་བ་	n.v.fut	དམིགས་√2
-[#ERROR 134: The tsheg bar ("syllable") {དམིགས} has no legal parses.]་	v.imp	དམིགས་√2
-[#ERROR 134: The tsheg bar ("syllable") {དམིགས} has no legal parses.]་་	v.imp	དམིགས་√2
 དམུར	v.pres	དམུར་
 དམུར་	v.pres	དམུར་
 དམུར་པ	n.v.pres	དམུར་
@@ -34830,8 +34660,6 @@
 དམུས་པ་	n.v.fut	དམུས་
 དམུས་བ	n.v.fut	དམུས་
 དམུས་བ་	n.v.fut	དམུས་
-[#ERROR 134: The tsheg bar ("syllable") {དམུས} has no legal parses.]་	v.imp	དམུས་
-[#ERROR 134: The tsheg bar ("syllable") {དམུས} has no legal parses.]་་	v.imp	དམུས་
 དམེ	v.pres	དམེ་
 དམེ་	v.pres	དམེ་
 དམེ་པ	n.v.pres	དམེ་
@@ -36556,8 +36384,6 @@
 བརྩེད་པ་	n.v.fut	བརྩེད་
 བརྩེད་བ	n.v.fut	བརྩེད་
 བརྩེད་བ་	n.v.fut	བརྩེད་
-[#ERROR 134: The tsheg bar ("syllable") {བརྩེད} has no legal parses.]་	v.imp	བརྩེད་
-[#ERROR 134: The tsheg bar ("syllable") {བརྩེད} has no legal parses.]་་	v.imp	བརྩེད་
 བརྩོན	v.pres	བརྩོན་
 བརྩོན་	v.pres	བརྩོན་
 བརྩོན་པ	n.v.pres	བརྩོན་
@@ -36788,8 +36614,6 @@
 ཚུགས་པ་	n.v.fut	ཚུགས་√2
 ཚུགས་བ	n.v.fut	ཚུགས་√2
 ཚུགས་བ་	n.v.fut	ཚུགས་√2
-[#ERROR 134: The tsheg bar ("syllable") {ཚུགས} has no legal parses.]་	v.imp	ཚུགས་√2
-[#ERROR 134: The tsheg bar ("syllable") {ཚུགས} has no legal parses.]་་	v.imp	ཚུགས་√2
 ཚུད	v.pres	ཚུད་
 ཚུད་	v.pres	ཚུད་
 ཚུད་པ	n.v.pres	ཚུད་
@@ -36890,8 +36714,6 @@
 ཚོགས་པ་	n.v.fut	ཚོགས་
 ཚོགས་བ	n.v.fut	ཚོགས་
 ཚོགས་བ་	n.v.fut	ཚོགས་
-[#ERROR 134: The tsheg bar ("syllable") {ཚོགས} has no legal parses.]་	v.imp	ཚོགས་
-[#ERROR 134: The tsheg bar ("syllable") {ཚོགས} has no legal parses.]་་	v.imp	ཚོགས་
 ཚོམ	v.pres	ཚོམ་
 ཚོམ་	v.pres	ཚོམ་
 ཚོམ་པ	n.v.pres	ཚོམ་
@@ -36962,8 +36784,6 @@
 ཚོས་པ་	n.v.fut	ཚོས་
 ཚོས་བ	n.v.fut	ཚོས་
 ཚོས་བ་	n.v.fut	ཚོས་
-ཚོས་	v.imp	ཚོས་
-ཚོས་་	v.imp	ཚོས་
 མཚན	v.pres	མཚན་
 མཚན་	v.pres	མཚན་
 མཚན་པ	n.v.pres	མཚན་
@@ -37278,8 +37098,6 @@
 འཚང་པ་	n.v.fut	འཚང་√3
 འཚང་བ	n.v.fut	འཚང་√3
 འཚང་བ་	n.v.fut	འཚང་√3
-[#ERROR 134: The tsheg bar ("syllable") {འཚང} has no legal parses.]་	v.imp	འཚང་√3
-[#ERROR 134: The tsheg bar ("syllable") {འཚང} has no legal parses.]་་	v.imp	འཚང་√3
 འཚབས	v.pres	འཚབ་√1
 འཚབས་	v.pres	འཚབ་√1
 འཚབས་པ	n.v.pres	འཚབ་√1
@@ -38634,8 +38452,6 @@
 འཛིང་པ་	n.v.fut	འཛིང་√2
 འཛིང་བ	n.v.fut	འཛིང་√2
 འཛིང་བ་	n.v.fut	འཛིང་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཛིང} has no legal parses.]་	v.imp	འཛིང་√2
-[#ERROR 134: The tsheg bar ("syllable") {འཛིང} has no legal parses.]་་	v.imp	འཛིང་√2
 འཛིན	v.pres	འཛིན་
 འཛིན་	v.pres	འཛིན་
 འཛིན་པ	n.v.pres	འཛིན་
@@ -39554,8 +39370,6 @@
 ཞུ་པ་	n.v.fut	ཞུ་√2
 ཞུ་བ	n.v.fut	ཞུ་√2
 ཞུ་བ་	n.v.fut	ཞུ་√2
-ཞུ་	v.imp	ཞུ་√2
-ཞུ་་	v.imp	ཞུ་√2
 ཞུགས	v.pres	ཞུགས་
 ཞུགས་	v.pres	ཞུགས་
 ཞུགས་པ	n.v.pres	ཞུགས་
@@ -40286,8 +40100,6 @@
 གཞོབ་པ་	n.v.fut	གཞོབ་
 གཞོབ་བ	n.v.fut	གཞོབ་
 གཞོབ་བ་	n.v.fut	གཞོབ་
-[#ERROR 134: The tsheg bar ("syllable") {གཞོབ} has no legal parses.]་	v.imp	གཞོབ་
-[#ERROR 134: The tsheg bar ("syllable") {གཞོབ} has no legal parses.]་་	v.imp	གཞོབ་
 གཞོམ	v.pres	གཞོམ་√1
 གཞོམ་	v.pres	གཞོམ་√1
 གཞོམ་པ	n.v.pres	གཞོམ་√1
@@ -40404,8 +40216,6 @@
 བཞག་པ་	n.v.past	བཞག་
 བཞག་བ	n.v.past	བཞག་
 བཞག་བ་	n.v.past	བཞག་
-[#ERROR 134: The tsheg bar ("syllable") {བཞག} has no legal parses.]་	v.imp	བཞག་
-[#ERROR 134: The tsheg bar ("syllable") {བཞག} has no legal parses.]་་	v.imp	བཞག་
 བཞད	v.pres	བཞད་√1
 བཞད་	v.pres	བཞད་√1
 བཞད་པ	n.v.pres	བཞད་√1
@@ -40846,8 +40656,6 @@
 ཟིང་པ་	n.v.fut	ཟིང་
 ཟིང་བ	n.v.fut	ཟིང་
 ཟིང་བ་	n.v.fut	ཟིང་
-ཟིང་	v.imp	ཟིང་
-ཟིང་་	v.imp	ཟིང་
 ཟིན	v.pres	ཟིན་
 ཟིན་	v.pres	ཟིན་
 ཟིན་པ	n.v.pres	ཟིན་
@@ -40918,8 +40726,6 @@
 ཟུག་པ་	n.v.fut	ཟུག་
 ཟུག་བ	n.v.fut	ཟུག་
 ཟུག་བ་	n.v.fut	ཟུག་
-ཟུག་	v.imp	ཟུག་
-ཟུག་་	v.imp	ཟུག་
 ཟུབ	v.pres	ཟུབ་
 ཟུབ་	v.pres	ཟུབ་
 ཟུབ་པ	n.v.pres	ཟུབ་
@@ -40964,8 +40770,6 @@
 ཟུམ་པ་	n.v.fut	ཟུམ་
 ཟུམ་བ	n.v.fut	ཟུམ་
 ཟུམ་བ་	n.v.fut	ཟུམ་
-ཟུམ་	v.imp	ཟུམ་
-ཟུམ་་	v.imp	ཟུམ་
 ཟེགས	v.pres	ཟེགས་√1
 ཟེགས་	v.pres	ཟེགས་√1
 ཟེགས་པ	n.v.pres	ཟེགས་√1
@@ -41518,8 +41322,6 @@
 གཟའ་པ་	n.v.fut	གཟའ་
 གཟའ་བ	n.v.fut	གཟའ་
 གཟའ་བ་	n.v.fut	གཟའ་
-[#ERROR 134: The tsheg bar ("syllable") {གཟའ} has no legal parses.]་	v.imp	གཟའ་
-[#ERROR 134: The tsheg bar ("syllable") {གཟའ} has no legal parses.]་་	v.imp	གཟའ་
 གཟར	v.pres	གཟར་
 གཟར་	v.pres	གཟར་
 གཟར་པ	n.v.pres	གཟར་
@@ -42214,8 +42016,6 @@
 ཡན་པ་	n.v.fut	ཡན་
 ཡན་བ	n.v.fut	ཡན་
 ཡན་བ་	n.v.fut	ཡན་
-[#ERROR 134: The tsheg bar ("syllable") {ཡན} has no legal parses.]་	v.imp	ཡན་
-[#ERROR 134: The tsheg bar ("syllable") {ཡན} has no legal parses.]་་	v.imp	ཡན་
 ཡར	v.pres	ཡར་
 ཡར་	v.pres	ཡར་
 ཡར་པ	n.v.pres	ཡར་
@@ -42354,8 +42154,6 @@
 ཡིབས་པ་	n.v.fut	ཡིབས་
 ཡིབས་བ	n.v.fut	ཡིབས་
 ཡིབས་བ་	n.v.fut	ཡིབས་
-[#ERROR 134: The tsheg bar ("syllable") {ཡིབས} has no legal parses.]་	v.imp	ཡིབས་
-[#ERROR 134: The tsheg bar ("syllable") {ཡིབས} has no legal parses.]་་	v.imp	ཡིབས་
 ཡུམ	v.pres	ཡུམ་
 ཡུམ་	v.pres	ཡུམ་
 ཡུམ་པ	n.v.pres	ཡུམ་
@@ -42618,8 +42416,6 @@
 ཡོར་པ་	n.v.fut	ཡོར་
 ཡོར་བ	n.v.fut	ཡོར་
 ཡོར་བ་	n.v.fut	ཡོར་
-ཡོར་	v.imp	ཡོར་
-ཡོར་་	v.imp	ཡོར་
 ཡོལ	v.pres	ཡོལ་
 ཡོལ་	v.pres	ཡོལ་
 ཡོལ་པ	n.v.pres	ཡོལ་
@@ -42888,8 +42684,6 @@
 གཡེང་པ་	n.v.fut	གཡེང་√2
 གཡེང་བ	n.v.fut	གཡེང་√2
 གཡེང་བ་	n.v.fut	གཡེང་√2
-[#ERROR 134: The tsheg bar ("syllable") {གཡེང} has no legal parses.]་	v.imp	གཡེང་√2
-[#ERROR 134: The tsheg bar ("syllable") {གཡེང} has no legal parses.]་་	v.imp	གཡེང་√2
 གཡེམ	v.pres	གཡེམ་
 གཡེམ་	v.pres	གཡེམ་
 གཡེམ་པ	n.v.pres	གཡེམ་
@@ -42996,8 +42790,6 @@
 གཡོ་པ་	n.v.fut	གཡོ་√2
 གཡོ་བ	n.v.fut	གཡོ་√2
 གཡོ་བ་	n.v.fut	གཡོ་√2
-[#ERROR 134: The tsheg bar ("syllable") {གཡོ} has no legal parses.]་	v.imp	གཡོ་√2
-[#ERROR 134: The tsheg bar ("syllable") {གཡོ} has no legal parses.]་་	v.imp	གཡོ་√2
 གཡོག	v.pres	གཡོག་
 གཡོག་	v.pres	གཡོག་
 གཡོག་པ	n.v.pres	གཡོག་
@@ -43474,8 +43266,6 @@
 རུད་པ་	n.v.fut	རུད་
 རུད་བ	n.v.fut	རུད་
 རུད་བ་	n.v.fut	རུད་
-རུད་	v.imp	རུད་
-རུད་་	v.imp	རུད་
 རུབ	v.pres	རུབ་√1
 རུབ་	v.pres	རུབ་√1
 རུབ་པ	n.v.pres	རུབ་√1
@@ -43680,8 +43470,6 @@
 རེད་པ་	n.v.fut	རེད་√1
 རེད་བ	n.v.fut	རེད་√1
 རེད་བ་	n.v.fut	རེད་√1
-རེད་	v.imp	རེད་√1
-རེད་་	v.imp	རེད་√1
 རེད	v.pres	རེད་√2
 རེད་	v.pres	རེད་√2
 རེད་པ	n.v.pres	རེད་√2
@@ -43922,8 +43710,6 @@
 རློ་པ་	n.v.fut	རློ་
 རློ་བ	n.v.fut	རློ་
 རློ་བ་	n.v.fut	རློ་
-[#ERROR 134: The tsheg bar ("syllable") {རློ} has no legal parses.]་	v.imp	རློ་
-[#ERROR 134: The tsheg bar ("syllable") {རློ} has no legal parses.]་་	v.imp	རློ་
 རློག	v.pres	རློག་
 རློག་	v.pres	རློག་
 རློག་པ	n.v.pres	རློག་
@@ -44078,8 +43864,6 @@
 བརླམ་པ་	n.v.fut	རློམ་√2
 བརླམ་བ	n.v.fut	རློམ་√2
 བརླམ་བ་	n.v.fut	རློམ་√2
-[#ERROR 134: The tsheg bar ("syllable") {རློམ} has no legal parses.]་	v.imp	རློམ་√2
-[#ERROR 134: The tsheg bar ("syllable") {རློམ} has no legal parses.]་་	v.imp	རློམ་√2
 རློམ	v.pres	རློམ་√3
 རློམ་	v.pres	རློམ་√3
 རློམ་པ	n.v.pres	རློམ་√3
@@ -44124,8 +43908,6 @@
 བརླག་པ་	n.v.fut	བརླག་
 བརླག་བ	n.v.fut	བརླག་
 བརླག་བ་	n.v.fut	བརླག་
-[#ERROR 134: The tsheg bar ("syllable") {བརླག} has no legal parses.]་	v.imp	བརླག་
-[#ERROR 134: The tsheg bar ("syllable") {བརླག} has no legal parses.]་་	v.imp	བརླག་
 ལང	v.pres	ལང་√1
 ལང་	v.pres	ལང་√1
 ལང་པ	n.v.pres	ལང་√1
@@ -44192,8 +43974,6 @@
 ལང་པ་	n.v.fut	ལང་√3
 ལང་བ	n.v.fut	ལང་√3
 ལང་བ་	n.v.fut	ལང་√3
-[#ERROR 134: The tsheg bar ("syllable") {ལང} has no legal parses.]་	v.imp	ལང་√3
-[#ERROR 134: The tsheg bar ("syllable") {ལང} has no legal parses.]་་	v.imp	ལང་√3
 ལད	v.pres	ལད་
 ལད་	v.pres	ལད་
 ལད་པ	n.v.pres	ལད་
@@ -44212,8 +43992,6 @@
 ལད་པ་	n.v.fut	ལད་
 ལད་བ	n.v.fut	ལད་
 ལད་བ་	n.v.fut	ལད་
-[#ERROR 134: The tsheg bar ("syllable") {ལད} has no legal parses.]་	v.imp	ལད་
-[#ERROR 134: The tsheg bar ("syllable") {ལད} has no legal parses.]་་	v.imp	ལད་
 ལན	v.pres	ལན་
 ལན་	v.pres	ལན་
 ལན་པ	n.v.pres	ལན་
@@ -44422,8 +44200,6 @@
 ལུད་པ་	n.v.fut	ལུད་
 ལུད་བ	n.v.fut	ལུད་
 ལུད་བ་	n.v.fut	ལུད་
-ལུད་	v.imp	ལུད་
-ལུད་་	v.imp	ལུད་
 ལུམ	v.pres	ལུམ་
 ལུམ་	v.pres	ལུམ་
 ལུམ་པ	n.v.pres	ལུམ་
@@ -44692,8 +44468,6 @@
 ལོབས་པ་	n.v.fut	ལོབ་
 ལོབས་བ	n.v.fut	ལོབ་
 ལོབས་བ་	n.v.fut	ལོབ་
-ལོབ་	v.imp	ལོབ་
-ལོབ་་	v.imp	ལོབ་
 ཤད	v.pres	ཤད་
 ཤད་	v.pres	ཤད་
 ཤད་པ	n.v.pres	ཤད་
@@ -46602,8 +46376,6 @@
 སེག་པ་	n.v.fut	སེག་
 སེག་བ	n.v.fut	སེག་
 སེག་བ་	n.v.fut	སེག་
-སེག་	v.imp	སེག་
-སེག་་	v.imp	སེག་
 སེང	v.pres	སེང་
 སེང་	v.pres	སེང་
 སེང་པ	n.v.pres	སེང་
@@ -46646,8 +46418,6 @@
 སེང་པ་	n.v.fut	སེང་
 སེང་བ	n.v.fut	སེང་
 སེང་བ་	n.v.fut	སེང་
-སེང་	v.imp	སེང་
-སེང་་	v.imp	སེང་
 སེམས	v.pres	སེམས་
 སེམས་	v.pres	སེམས་
 སེམས་པ	n.v.pres	སེམས་
@@ -46754,8 +46524,6 @@
 སོགས་པ་	n.v.fut	སོགས་
 སོགས་བ	n.v.fut	སོགས་
 སོགས་བ་	n.v.fut	སོགས་
-[#ERROR 134: The tsheg bar ("syllable") {སོགས} has no legal parses.]་	v.imp	སོགས་
-[#ERROR 134: The tsheg bar ("syllable") {སོགས} has no legal parses.]་་	v.imp	སོགས་
 སོང	v.pres	སོང་
 སོང་	v.pres	སོང་
 སོང་པ	n.v.pres	སོང་
@@ -46892,8 +46660,6 @@
 བསྲད་པ་	n.v.fut	སྲད་√1
 བསྲད་བ	n.v.fut	སྲད་√1
 བསྲད་བ་	n.v.fut	སྲད་√1
-[#ERROR 134: The tsheg bar ("syllable") {སྲད} has no legal parses.]་	v.imp	སྲད་√1
-[#ERROR 134: The tsheg bar ("syllable") {སྲད} has no legal parses.]་་	v.imp	སྲད་√1
 བསྲོད	v.pres	སྲད་√2
 བསྲོད་	v.pres	སྲད་√2
 བསྲོད་པ	n.v.pres	སྲད་√2
@@ -47442,8 +47208,6 @@
 སྲོས་པ་	n.v.fut	སྲོས་
 སྲོས་བ	n.v.fut	སྲོས་
 སྲོས་བ་	n.v.fut	སྲོས་
-[#ERROR 134: The tsheg bar ("syllable") {སྲོས} has no legal parses.]་	v.imp	སྲོས་
-[#ERROR 134: The tsheg bar ("syllable") {སྲོས} has no legal parses.]་་	v.imp	སྲོས་
 སླ	v.pres	སླ་√1
 སླ་	v.pres	སླ་√1
 སླ་པ	n.v.pres	སླ་√1
@@ -47824,12 +47588,12 @@
 གསག་པ་	n.v.pres	གསག་
 གསག་བ	n.v.pres	གསག་
 གསག་བ་	n.v.pres	གསག་
-[#ERROR 134: The tsheg bar ("syllable") {gstsan} has no legal parses.]	v.pres	གསན་
-[#ERROR 134: The tsheg bar ("syllable") {gstsan} has no legal parses.]་	v.pres	གསན་
-[#ERROR 134: The tsheg bar ("syllable") {gstsan} has no legal parses.]་པ	n.v.pres	གསན་
-[#ERROR 134: The tsheg bar ("syllable") {gstsan} has no legal parses.]་པ་	n.v.pres	གསན་
-[#ERROR 134: The tsheg bar ("syllable") {gstsan} has no legal parses.]་བ	n.v.pres	གསན་
-[#ERROR 134: The tsheg bar ("syllable") {gstsan} has no legal parses.]་བ་	n.v.pres	གསན་
+གསྩན	v.pres	གསན་
+གསྩན་	v.pres	གསན་
+གསྩན་པ	n.v.pres	གསན་
+གསྩན་པ་	n.v.pres	གསན་
+གསྩན་བ	n.v.pres	གསན་
+གསྩན་བ་	n.v.pres	གསན་
 གསན	v.pres	གསན་
 གསན་	v.pres	གསན་
 གསན་པ	n.v.pres	གསན་
@@ -49134,8 +48898,6 @@
 ཧྲིངས་པ་	n.v.fut	ཧྲིངས་
 ཧྲིངས་བ	n.v.fut	ཧྲིངས་
 ཧྲིངས་བ་	n.v.fut	ཧྲིངས་
-[#ERROR 134: The tsheg bar ("syllable") {ཧྲིངས} has no legal parses.]་	v.imp	ཧྲིངས་
-[#ERROR 134: The tsheg bar ("syllable") {ཧྲིངས} has no legal parses.]་་	v.imp	ཧྲིངས་
 ཧྲུམ	v.pres	ཧྲུམ་
 ཧྲུམ་	v.pres	ཧྲུམ་
 ཧྲུམ་པ	n.v.pres	ཧྲུམ་
@@ -49400,5 +49162,3 @@
 ལྷོན་པ་	n.v.fut	ལྷོན་
 ལྷོན་བ	n.v.fut	ལྷོན་
 ལྷོན་བ་	n.v.fut	ལྷོན་
-[#ERROR 134: The tsheg bar ("syllable") {ལྷོན} has no legal parses.]་	v.imp	ལྷོན་
-[#ERROR 134: The tsheg bar ("syllable") {ལྷོན} has no legal parses.]་་	v.imp	ལྷོན་

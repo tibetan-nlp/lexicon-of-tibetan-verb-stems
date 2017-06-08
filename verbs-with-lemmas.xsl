@@ -39,7 +39,6 @@
             <xsl:for-each select="$stems">
                 <xsl:call-template name="verbform">
                     <xsl:with-param name="item" select="."/>
-                    <xsl:with-param name="default" select="$lemma"/>
                     <xsl:with-param name="label">
                         <xsl:choose>
                             <xsl:when test="starts-with(./label, 'Pa')">
@@ -74,7 +73,7 @@
     </xsl:template>
 
     <xsl:template name="verbform">
-        <xsl:param name="item" select="''"/>
+        <xsl:param name="item"/>
         <xsl:param name="default" select="''"/>
         <xsl:param name="label" select="''"/>
         <xsl:param name="lemma" select="''"/>
@@ -84,9 +83,9 @@
                 <xsl:when test="$item/orth">
                     <xsl:copy-of select="$item/orth"/>
                 </xsl:when>
-                <xsl:otherwise>
+                <xsl:when test="$default != ''">
                     <orth><xsl:value-of select="$default"/></orth>
-                </xsl:otherwise>
+                </xsl:when>
             </xsl:choose>
         </xsl:variable>
         <xsl:for-each select="$orth/orth">
@@ -141,6 +140,24 @@
     <xsl:template name="toUnicode">
         <xsl:param name="wylie" select="''"/>
         <xsl:choose>
+            <xsl:when test='$wylie = "&apos;krongs"'>
+                <xsl:text>འཀྲོངས</xsl:text>
+            </xsl:when>
+            <xsl:when test="$wylie = 'bjid'">
+                <xsl:text>བཇིད</xsl:text>
+            </xsl:when>
+            <xsl:when test="$wylie = 'bnyags'">
+                <xsl:text>བཉགས</xsl:text>
+            </xsl:when>
+            <xsl:when test="$wylie = 'bnab'">
+                <xsl:text>བནབ</xsl:text>
+            </xsl:when>
+            <xsl:when test="$wylie = 'dphrog'">
+                <xsl:text>དཕྲོག</xsl:text>
+            </xsl:when>
+            <xsl:when test="$wylie = 'gstsan'">
+                <xsl:text>གསྩན</xsl:text>
+            </xsl:when>
             <xsl:when test="ends-with($wylie, 'rd') or ends-with($wylie, 'ld')">
                 <xsl:value-of
                         select="thl:wylieToUnicode(normalize-space(substring($wylie, 1, string-length($wylie)-1)))"/>
