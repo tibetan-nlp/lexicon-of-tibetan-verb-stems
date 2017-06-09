@@ -42,6 +42,8 @@
             </xsl:for-each>
             <xsl:text>&#x9;</xsl:text>
             <xsl:value-of select="replace(substring-before(substring-after(syntax/text()[2], '['), '.]'), '\.\s+', '-')"/>
+            <xsl:text>&#x9;</xsl:text>
+            <xsl:value-of select="replace(normalize-space(trans), '\s*Meaning:\s*', '')"/>
             <xsl:text>&#xa;</xsl:text>
         </xsl:if>
         <xsl:if test="./auxillary">

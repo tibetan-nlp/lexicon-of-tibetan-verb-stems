@@ -65,7 +65,7 @@ stylesheet doesn't generate any duplicate lemmas.
 
 The verb dictionary gives present, past, and future stem forms for most verbs,
 excepting some auxiliaries. Imperative stem forms can be absent, especially from
-verbs marked as **volition=Involuntary**.
+involuntary verbs.
 
 Each verb form (present stem, past stem, and so on) is lemmatized to its headword
 and given the part-of-speech tag that corresponds to the form (*v.pres*, *v.fut*, 
@@ -132,9 +132,12 @@ following these rules, we include for each form variants with both word endings.
 such variants will not be encountered in practice, but by including them we are prepared
 in case they do occur, in mistaken spellings or other unexpected situations.
 
-## Lemmas.txt
+## The List of Lemmas
 
-Additional information has been extracted from **dictionary.xml** into **lemmas.txt**.
+**lemmas.txt** is a tab-delimited file that can be opened into a spreadsheet application
+such as LibreOffice. In addition to a list of lemmas, it contains the following additional
+information that has been extracted from **dictionary.xml**. (Note that transitivity and
+causation information has not yet been incorporated into the list of lemmas.)
 
 ### Volitionality
 
@@ -154,6 +157,12 @@ The third column of **lemmas.txt** shows the argument frame for the verb, as sta
 by various dictionary sources. For example, an argument frame of `Erg-Abs` indicates
 that the verb takes two core arguments, the first marked with ergative case, 
 and the second with absolutive (unmarked) case.
+
+### Meanings
+
+The fourth column of **lemmas.txt** shows the verb's meaning or meanings, as copied from
+various dictionary sources. Among other uses, these meanings help to identify the difference
+between lemmas that share the same form.
 
 # Applying the Stylesheet
 
