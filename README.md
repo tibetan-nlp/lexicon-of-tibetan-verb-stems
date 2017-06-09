@@ -69,9 +69,27 @@ verbs marked as **volition=Involuntary**.
 
 Each verb form (present stem, past stem, and so on) is lemmatized to its headword
 and given the part-of-speech tag that corresponds to the form (*v.pres*, *v.fut*, 
-and so on). If the same form is shared by the present, past, and future stems, 
-then it is also tagged *v.invar*. Finally, verbs which are not given
-with multiple stem forms - such as auxiliaries - are also tagged *v.invar*.
+and so on). Verbs which are not given with multiple stem forms - like auxiliaries -
+are tagged *v.invar*.
+
+If the same form is shared by multiple stems, then it is given all appropriate
+mixed tags as well as any simple tags. For example, a form which is the same for
+present, past, and future stems will acquire **all** of the following tags:
+
+1. *v.pres*
+2. *v.past*
+3. *v.fut*
+4. *v.fut.v.pres*
+5. *v.fut.v.past*
+6. *v.past.v.pres*
+7. *v.invar*
+
+On the other hand, a form which is only shared between present and future stems
+will receive the following tags:
+
+1. *v.pres*
+2. *v.fut*
+3. *v.fut.v.pres*
 
 ## Duplicate Headwords
 

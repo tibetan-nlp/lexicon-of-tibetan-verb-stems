@@ -60,20 +60,67 @@
                     </xsl:with-param>
                     <xsl:with-param name="lemma" select="concat($lemma, $suffix)"/>
                 </xsl:call-template>
-                <xsl:if test="starts-with(./label, 'Fu')">
-                    <xsl:for-each select="./orth">
-                        <xsl:variable name="orth" select="./text()"/>
-                        <xsl:if test="$stems[1]/orth[text()=$orth] and $stems[2]/orth[text()=$orth]">
-                            <xsl:call-template name="verbform">
-                                <xsl:with-param name="item">
-                                    <orth><xsl:value-of select="$orth"/></orth>
-                                </xsl:with-param>
-                                <xsl:with-param name="label" select="'v.invar'"/>
-                                <xsl:with-param name="lemma" select="concat($lemma, $suffix)"/>
-                            </xsl:call-template>
-                        </xsl:if>
-                    </xsl:for-each>
-                </xsl:if>
+                <xsl:choose>
+                    <xsl:when test="starts-with(./label, 'Pr')">
+                        <xsl:for-each select="./orth">
+                            <xsl:variable name="orth" select="./text()"/>
+                            <xsl:if test="$stems[2]/orth[text()=$orth]">
+                                <xsl:call-template name="verbform">
+                                    <xsl:with-param name="item">
+                                        <orth>
+                                            <xsl:value-of select="$orth"/>
+                                        </orth>
+                                    </xsl:with-param>
+                                    <xsl:with-param name="label" select="'v.past.v.pres'"/>
+                                    <xsl:with-param name="lemma" select="concat($lemma, $suffix)"/>
+                                </xsl:call-template>
+                            </xsl:if>
+                            <xsl:if test="$stems[3]/orth[text()=$orth]">
+                                <xsl:call-template name="verbform">
+                                    <xsl:with-param name="item">
+                                        <orth>
+                                            <xsl:value-of select="$orth"/>
+                                        </orth>
+                                    </xsl:with-param>
+                                    <xsl:with-param name="label" select="'v.fut.v.pres'"/>
+                                    <xsl:with-param name="lemma" select="concat($lemma, $suffix)"/>
+                                </xsl:call-template>
+                            </xsl:if>
+                        </xsl:for-each>
+                    </xsl:when>
+                    <xsl:when test="starts-with(./label, 'Pa')">
+                        <xsl:for-each select="./orth">
+                            <xsl:variable name="orth" select="./text()"/>
+                            <xsl:if test="$stems[3]/orth[text()=$orth]">
+                                <xsl:call-template name="verbform">
+                                    <xsl:with-param name="item">
+                                        <orth>
+                                            <xsl:value-of select="$orth"/>
+                                        </orth>
+                                    </xsl:with-param>
+                                    <xsl:with-param name="label" select="'v.fut.v.past'"/>
+                                    <xsl:with-param name="lemma" select="concat($lemma, $suffix)"/>
+                                </xsl:call-template>
+                            </xsl:if>
+                        </xsl:for-each>
+                    </xsl:when>
+                    <xsl:when test="starts-with(./label, 'Fu')">
+                        <xsl:for-each select="./orth">
+                            <xsl:variable name="orth" select="./text()"/>
+                            <xsl:if test="$stems[1]/orth[text()=$orth] and $stems[2]/orth[text()=$orth]">
+                                <xsl:call-template name="verbform">
+                                    <xsl:with-param name="item">
+                                        <orth>
+                                            <xsl:value-of select="$orth"/>
+                                        </orth>
+                                    </xsl:with-param>
+                                    <xsl:with-param name="label" select="'v.invar'"/>
+                                    <xsl:with-param name="lemma" select="concat($lemma, $suffix)"/>
+                                </xsl:call-template>
+                            </xsl:if>
+                        </xsl:for-each>
+                    </xsl:when>
+                </xsl:choose>
             </xsl:for-each>
         </xsl:if>
         <xsl:if test="./auxillary">
@@ -116,14 +163,15 @@
                 <xsl:with-param name="lemma" select="$lemma"/>
             </xsl:call-template>
             <xsl:if test="not($label='v.imp')">
+                <xsl:variable name="nlabel" select="replace($label, 'v\.', 'n.v.')"/>
                 <xsl:call-template name="tshegVariants">
                     <xsl:with-param name="form" select="concat($form, '&#x0F0B;པ')"/>
-                    <xsl:with-param name="label" select="concat('n.', $label)"/>
+                    <xsl:with-param name="label" select="$nlabel"/>
                     <xsl:with-param name="lemma" select="$lemma"/>
                 </xsl:call-template>
                 <xsl:call-template name="tshegVariants">
                     <xsl:with-param name="form" select="concat($form, '&#x0F0B;བ')"/>
-                    <xsl:with-param name="label" select="concat('n.', $label)"/>
+                    <xsl:with-param name="label" select="$nlabel"/>
                     <xsl:with-param name="lemma" select="$lemma"/>
                 </xsl:call-template>
             </xsl:if>
