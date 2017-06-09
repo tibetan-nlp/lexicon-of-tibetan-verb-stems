@@ -142,16 +142,16 @@ Many verbs in the dictionary are classified for volitionality, based on the sour
 consulted. This information is copied to the second column of **lemmas.txt**. Possible
 values include:
 
-1. *Voluntary*: The verb is volitional.
-2. *Involuntary*: The verb is non-volitional.
-3. *VoluntaryInvoluntary* or *InvoluntaryVoluntary*: The verb has been classified
+1. `Voluntary`: The verb is volitional.
+2. `Involuntary`: The verb is non-volitional.
+3. `VoluntaryInvoluntary` or `InvoluntaryVoluntary`: The verb has been classified
 as both volitional and non-volitional, either by the same author or by different
 authors.
 
 ### Argument Frames 
 
 The third column of **lemmas.txt** shows the argument frame for the verb, as stated
-by various dictionary sources. For example, an argument frame of *Erg-Abs* indicates
+by various dictionary sources. For example, an argument frame of `Erg-Abs` indicates
 that the verb takes two core arguments, the first marked with ergative case, 
 and the second with absolutive (unmarked) case.
 
