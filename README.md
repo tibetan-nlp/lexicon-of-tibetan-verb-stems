@@ -63,12 +63,15 @@ stylesheet doesn't generate any duplicate lemmas.
 
 ## Basic Principles
 
-Each verb form (present stem, future stem, and so on) is given a part-of-speech tag
-that corresponds to the form (*v.pres*, *v.fut*, and so on), and lemmatised to its
-headword. Verbs that do not show stem form variation - such as auxiliaries - are
-given the part-of-speech *v.invar*. Present, past, and future stem forms are given 
-for all verbs except some auxiliaries. Imperative forms, however, can be absent, 
-typically from verbs marked by **volition=Involuntary**.
+The verb dictionary gives present, past, and future stem forms for most verbs,
+excepting some auxiliaries. Imperative stem forms can be absent, especially from
+verbs marked as **volition=Involuntary**.
+
+Each verb form (present stem, past stem, and so on) is lemmatized to its headword
+and given the part-of-speech tag that corresponds to the form (*v.pres*, *v.fut*, 
+and so on). If the same form is shared by the present, past, and future stems, 
+then it is also tagged *v.invar*. Finally, verbs which are not given
+with multiple stem forms - such as auxiliaries - are also tagged *v.invar*.
 
 ## Duplicate Headwords
 
@@ -98,7 +101,7 @@ The file **lemmas.txt** lists all the lemmas derived in this manner. Having impo
 file into LibreOffice, I can confirm that this list of nearly 1900 lemmas contains no
 duplicates. Each lemma is uniquely named.
 
-## Word-final Tshegs
+## Word-final tshegs
 
 For each form, we include variants with and without a word-final tsheg. Not all such
 variants will be encountered in practice, including them makes us well-prepared in case

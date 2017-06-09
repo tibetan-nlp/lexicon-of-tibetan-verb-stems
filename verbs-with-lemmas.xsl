@@ -60,6 +60,20 @@
                     </xsl:with-param>
                     <xsl:with-param name="lemma" select="concat($lemma, $suffix)"/>
                 </xsl:call-template>
+                <xsl:if test="starts-with(./label, 'Fu')">
+                    <xsl:for-each select="./orth">
+                        <xsl:variable name="orth" select="./text()"/>
+                        <xsl:if test="$stems[1]/orth[text()=$orth] and $stems[2]/orth[text()=$orth]">
+                            <xsl:call-template name="verbform">
+                                <xsl:with-param name="item">
+                                    <orth><xsl:value-of select="$orth"/></orth>
+                                </xsl:with-param>
+                                <xsl:with-param name="label" select="'v.invar'"/>
+                                <xsl:with-param name="lemma" select="concat($lemma, $suffix)"/>
+                            </xsl:call-template>
+                        </xsl:if>
+                    </xsl:for-each>
+                </xsl:if>
             </xsl:for-each>
         </xsl:if>
         <xsl:if test="./auxillary">
@@ -84,7 +98,9 @@
                     <xsl:copy-of select="$item/orth"/>
                 </xsl:when>
                 <xsl:when test="$default != ''">
-                    <orth><xsl:value-of select="$default"/></orth>
+                    <orth>
+                        <xsl:value-of select="$default"/>
+                    </orth>
                 </xsl:when>
             </xsl:choose>
         </xsl:variable>
