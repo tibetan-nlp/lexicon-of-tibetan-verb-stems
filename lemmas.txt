@@ -1,1888 +1,1888 @@
-ཀུམ་
-ཀེར་
-ཀླན་
-ཀླས་
-ཀླུབ་√1
-ཀླུབ་√2
-ཀློག་
-དཀག་
-དཀའ་
-དཀུ་
-དཀོནད་
-དཀྱུ་
-དཀྱུད་
-དཀྲི་
-དཀྲིག་
-དཀྲུག་
-དཀྲུམ་
-དཀྲོག་
-བཀན་
-བཀུ་
-བཀུར་
-བཀོང་√1
-བཀོང་√2
-བཀྱོན་
-བཀྲ་
-བཀྲབ་
-བཀྲལ་
-བཀྲེས་
-བཀྲོས་
-རྐམ་
-རྐུ་
-རྐོ་
-རྐོན་
-རྐྱལ་
-རྐྱོང་
-ལྐུགས་
-སྐད་
-སྐམ་
-སྐར་
-སྐུག་
-སྐུང་
-སྐུད་
-སྐུམ་
-སྐུར་
-སྐུལ་
-སྐེམ་√1
-སྐེམ་√2
-སྐོ་
-སྐོང་√1
-སྐོང་√2
-སྐོན་
-སྐོམ་
-སྐོར་√1
-སྐོར་√2
-སྐོལ་
-སྐྱ་
-སྐྱག་
-སྐྱད་
-སྐྱི་
-སྐྱིག་√1
-སྐྱིག་√2
-སྐྱིན་
-སྐྱིལ་
-སྐྱུག་√1
-སྐྱུག་√2
-སྐྱུང་
-སྐྱུད་
-སྐྱུར་
-སྐྱེ་
-སྐྱེང་√1
-སྐྱེང་√2
-སྐྱེད་
-སྐྱེམ་
-སྐྱེལ་√1
-སྐྱེལ་√2
-སྐྱོ་
-སྐྱོག་
-སྐྱོང་√1
-སྐྱོང་√2
-སྐྱོད་√1
-སྐྱོད་√2
-སྐྱོན་√1
-སྐྱོན་√2
-སྐྱོབ་
-སྐྱོམ་
-སྐྱོར་√1
-སྐྱོར་√2
-སྐྲག་
-སྐྲང་
-སྐྲབ་
-སྐྲི་
-སྐྲུ་
-སྐྲུད་
-སྐྲུན་
-སྐྲེས་
-སྐྲོག་√1
-སྐྲོག་√2
-སྐྲོད་
-སྐྲོབ་
-སྐྲོལ་
-བསྐལ་
-བསྐོན་
-ཁུག་
-ཁེགས་
-ཁེང་
-ཁེན་
-ཁེབས་
-ཁེར་
-ཁོག་
-ཁོམ་
-ཁྱག་
-ཁྱབ་
-ཁྱོག་
-ཁྲུལ་
-ཁྲེམས་
-ཁྲེལ་
-ཁྲོ་
-མཁས་
-མཁོ་
-མཁྱུད་
-མཁྱེན་
-མཁྲང་
-མཁྲེག་
-མཁྲེན་
-འཁང་
-འཁམ་
-འཁར་
-འཁལ་
-འཁུ་
-འཁུན་
-འཁུམ་
-འཁུམས་
-འཁུར་
-འཁུལ་
-འཁུས་
-འཁེང་
-འཁེལ་
-འཁོ་
-འཁོང་
-འཁོད་
-འཁོན་√1
-འཁོན་√2
-འཁོབ་
-འཁོར་
-འཁོལ་√1
-འཁོལ་√2
-འཁོལ་√3
-འཁྱག་
-འཁྱམ་
-འཁྱར་
-འཁྱལ་√1
-འཁྱལ་√2
-འཁྱིག་√1
-འཁྱིག་√2
-འཁྱིགས་
-འཁྱིད་
-འཁྱིམས་
-འཁྱིར་
-འཁྱིལ་
-འཁྱུག་
-འཁྱུད་
-འཁྱུར་
-འཁྱུས་
-འཁྱེག་
-འཁྱེད་
-འཁྱེར་
-འཁྱེལ་
-འཁྱོག་
-འཁྱོང་
-འཁྱོམ་
-འཁྱོར་
-འཁྱོལ་
-འཁྲ་
-འཁྲབ་√1
-འཁྲབ་√2
-འཁྲི་
-འཁྲིག་
-འཁྲིད་√1
-འཁྲིད་√2
-འཁྲིམས་
-འཁྲིལ་
-འཁྲིས་
-འཁྲུ་
-འཁྲུག་
-འཁྲུང་
-འཁྲུད་
-འཁྲུལ་
-འཁྲེན་
-འཁྲེབ་
-འཁྲེལ་
-འཁྲོག་
-འཁྲོལ་√1
-འཁྲོལ་√2
-འཁྲོལ་√3
-གང་
-གབ་
-གལ་
-གས་
-གུག་
-གུད་
-གུས་
-གོ་
-གོག་
-གོད་
-གོན་
-གོམས་
-གོལ་
-གོས་
-གྱར་
-གྱེད་
-གྱེར་
-གྱེས་
-གྱོན་
-གྱོལ་
-གྲག་
-གྲགས་√1
-གྲགས་√2
-གྲང་
-གྲབས་
-གྲམ་
-གྲས་
-གྲིམ་
-གྲུག་
-གྲོན་
-གྲོལ་
-གླ་
-གླན་
-གླལ་
-གླས་
-གླེང་
-གླེབ་
-གླེམ་
-གློང་
-གློད་
-དགའ་
-དགར་
-དགས་
-དགུ་
-དགེ་
-དགེས་
-དགོགས་
-དགོངས་
-དགོད་
-དགོས་
-དགྱེ་
-དགྱེད་
-དགྱེལ་
-དགྱེས་
-དགྲད་
-དགྲོང་
-བགག་
-བགམ་
-བགོ་
-བགོད་
-བགྱིད་
-བགྲང་
-བགྲད་
-བགྲིལ་
-བགྲུང་
-བགྲུད་
-བགྲེ་
-བགྲེས་
-བགྲོ་
-བགྲོང་
-བགྲོད་
-མགར་
-མགུ་
-མགྱོག་
-འགག་
-འགད་
-འགམ་
-འགལ་
-འགས་√1
-འགས་√2
-འགི་
-འགུགས་
-འགུད་
-འགུམ་
-འགུམས་
-འགུལ་
-འགེང་
-འགེབས་
-འགེམ་
-འགེལ་
-འགོ་
-འགོག་√1
-འགོག་√2
-འགོང་
-འགོད་
-འགོམ་
-འགོར་√1
-འགོར་√2
-འགྱག་
-འགྱང་
-འགྱངས་
-འགྱས་
-འགྱིང་
-འགྱུ་
-འགྱུར་
-འགྱེད་√1
-འགྱེད་√2
-འགྱེད་√3
-འགྱེར་
-འགྱེལ་
-འགྱེས་
-འགྱོག་
-འགྱོད་
-འགྲང་
-འགྲན་
-འགྲམས་
-འགྲས་
-འགྲིག་
-འགྲིབ་
-འགྲིམ་
-འགྲིལ་
-འགྲུབ་
-འགྲུམ་
-འགྲུལ་
-འགྲུས་
-འགྲེ་
-འགྲེང་
-འགྲེམ་√1
-འགྲེམ་√2
-འགྲེལ་√1
-འགྲེལ་√2
-འགྲོ་
-འགྲོགས་
-འགྲོངས་
-འགྲོལ་
-རྒ་
-རྒལ་
-རྒུད་
-རྒོལ་
-རྒྱ་√1
-རྒྱ་√2
-རྒྱག་√1
-རྒྱག་√2
-རྒྱགས་√1
-རྒྱགས་√2
-རྒྱང་
-རྒྱན་
-རྒྱལ་
-རྒྱུ་
-རྒྱུག་√1
-རྒྱུག་√2
-རྒྱུགས་
-རྒྱུང་
-རྒྱུད་
-རྒྱོ་
-རྒྱོང་
-རྒྱོར་
-སྒག་
-སྒང་
-སྒབ་
-སྒར་
-སྒལ་
-སྒུག་
-སྒུར་
-སྒུལ་
-སྒེག་
-སྒོ་
-སྒོག་
-སྒོང་√1
-སྒོང་√2
-སྒོངས་
-སྒོམ་
-སྒོར་
-སྒྱང་
-སྒྱིང་
-སྒྱུར་
-སྒྱེལ་
-སྒྱོང་
-སྒྲལ་
-སྒྲིག་
-སྒྲིན་
-སྒྲིབ་
-སྒྲིམ་
-སྒྲིལ་
-སྒྲུག་
-སྒྲུང་
-སྒྲུན་
-སྒྲུབ་
-སྒྲེ་
-སྒྲེག་
-སྒྲེང་
-སྒྲོ་
-སྒྲོག་√1
-སྒྲོག་√2
-སྒྲོང་
-སྒྲོད་
-སྒྲོན་
-སྒྲོལ་
-བརྒྱགས་
-བརྒྱལ་
-བརྒྱུད་
-བསྒོམ་
-བསྒྲང་
-བསྒྲད་
-བསྒྲལ་
-ངར་
-ངལ་
-ངུ་
-ངུར་
-ངེར་
-ངེས་
-ངོམ་
-ངོམས་
-དངང་
-དངར་
-དངོམ་
-མངག་
-མངན་
-མངའ་
-མངར་
-མངོན་
-རྔ་
-རྔན་
-རྔབ་√1
-རྔབ་√2
-རྔམ་√1
-རྔམ་√2
-རྔུབ་
-རྔུལ་√1
-རྔུལ་√2
-རྔོ་
-རྔོད་√1
-རྔོད་√2
-རྔོན་
-རྔོབ་
-སྔ་
-སྔང་
-སྔབ་
-སྔམ་
-སྔལ་
-སྔུར་
-སྔོ་√1
-སྔོ་√2
-སྔོག་
-བརྔད་
-བརྔོག་
-བསྔགས་
-བསྔས་
-ཅོག་
-ཅོང་
-གཅར་√1
-གཅར་√2
-གཅལ་
-གཅི་
-གཅིར་
-གཅིལ་
-གཅིས་
-གཅུ་
-གཅུགས་
-གཅུད་
-གཅུར་
-གཅུས་
-གཅེར་
-གཅེས་
-གཅོག་
-གཅོང་
-གཅོད་
-གཅོམ་
-གཅོར་
-གཅོལ་
-བཅས་
-བཅུམ་
-བཅེམ་
-བཅེར་
-བཅོ་
-བཅོག་
-ལྕིགས་
-ལྕེབ་
-ལྕོགས་
-ཆ་
-ཆགས་√1
-ཆགས་√2
-ཆད་
-ཆུག་
-ཆུད་
-ཆུན་
-ཆུབ་
-ཆུམ་
-ཆེ་
-ཆེས་
-ཆོག་
-ཆོད་
-ཆོམ་
-མཆི་
-མཆིད་
-མཆེད་
-མཆོག་
-མཆོང་
-མཆོད་
-མཆོར་
-མཆོལ་
-འཆག་√1
-འཆག་√2
-འཆག་√3
-འཆགས་
-འཆང་
-འཆད་√1
-འཆད་√2
-འཆབ་
-འཆམ་√1
-འཆམ་√2
-འཆའ་√1
-འཆའ་√2
-འཆའ་√3
-འཆར་
-འཆལ་
-འཆི་
-འཆིང་√1
-འཆིང་√2
-འཆིབ་
-འཆིར་√1
-འཆིར་√2
-འཆུ་√1
-འཆུ་√2
-འཆུག་
-འཆུགས་
-འཆུན་
-འཆུམ་
-འཆུམས་
-འཆུར་
-འཆུརད་
-འཆེ་
-འཆེལ་
-འཆོར་√1
-འཆོར་√2
-འཆོལ་√1
-འཆོལ་√2
-འཆོས་√1
-འཆོས་√2
-མཇལ་
-མཇེད་
-འཇག་
-འཇགས་√1
-འཇགས་√2
-འཇགས་√3
-འཇང་
-འཇབ་
-འཇམ་
-འཇའ་
-འཇར་
-འཇལ་
-འཇིག་√1
-འཇིག་√2
-འཇིགས་
-འཇིབ་√1
-འཇིབ་√2
-འཇིལ་√1
-འཇིལ་√2
-འཇུ་√1
-འཇུ་√2
-འཇུ་√3
-འཇུག་√1
-འཇུག་√2
-འཇུད་
-འཇུན་√1
-འཇུན་√2
-འཇུམ་
-འཇུར་√1
-འཇུར་√2
-འཇུར་√3
-འཇེབས་
-འཇེམ་
-འཇོ་√1
-འཇོ་√2
-འཇོག་√1
-འཇོག་√2
-འཇོག་√3
-འཇོང་
-འཇོམས་
-འཇོལ་
-རྗིད་
-རྗུད་
-རྗེ་
-རྗེད་
-རྗོད་√1
-རྗོད་√2
-ལྗེན་
-བརྗིད་
-བརྗེད་
-ཉ་
-ཉན་√1
-ཉན་√2
-ཉམས་
-ཉར་
-ཉལ་
-ཉིལ་
-ཉུག་
-ཉུང་
-ཉུལ་
-ཉེ་
-ཉེན་
-ཉེས་
-ཉོ་
-ཉོག་
-ཉོབ་
-ཉོར་
-གཉིད་
-གཉུལ་
-གཉེ་
-གཉེག་
-གཉེར་
-གཉོག་√1
-གཉོག་√2
-མཉམ་
-མཉེད་
-མཉེན་
-མཉེལ་
-མཉེས་
-རྙ་
-རྙང་
-རྙན་
-རྙིང་
-རྙིད་
-རྙིལ་
-རྙིས་
-རྙེད་
-རྙོག་
-རྙོང་√1
-རྙོང་√2
-རྙོབ་
-སྙ་
-སྙག་
-སྙད་
-སྙབ་
-སྙམ་
-སྙལ་
-སྙིག་
-སྙིགས་
-སྙིལ་
-སྙུག་
-སྙུང་√1
-སྙུང་√2
-སྙུན་
-སྙུལ་
-སྙེ་
-སྙེག་
-སྙེང་√1
-སྙེང་√2
-སྙེན་
-སྙེམས་
-སྙེར་
-སྙེལ་
-སྙོག་√1
-སྙོག་√2
-སྙོགས་
-སྙོད་√1
-སྙོད་√2
-སྙོན་
-སྙོབ་
-སྙོམ་
-སྙོར་
-སྙོལ་
-བརྙས་
-བརྙེས་
-བརྙོག་
-བསྙིགས་
-བསྙུག་
-བསྙོར་
-བསྙོལ་
-ཏྲོན་
-གཏག་
-གཏན་
-གཏམ་√1
-གཏམ་√2
-གཏམས་
-གཏའ་
-གཏར་
-གཏི་
-གཏིག་
-གཏིབ་
-གཏུག་
-གཏུགས་
-གཏུབ་
-གཏུམ་
-གཏུར་
-གཏུལ་
-གཏོག་√1
-གཏོག་√2
-གཏོགས་
-གཏོང་√1
-གཏོང་√2
+ཀུམ་		
+ཀེར་	InvoluntaryVoluntary	Abs-Obl
+ཀླན་		
+ཀླས་		
+ཀླུབ་√1		
+ཀླུབ་√2	Voluntary	Erg-Abs
+ཀློག་	Voluntary	Erg-Abs
+དཀག་		
+དཀའ་		Abs-Obl
+དཀུ་		Abs-Obl
+དཀོནད་		
+དཀྱུ་		Erg-Abs
+དཀྱུད་		
+དཀྲི་	InvoluntaryVoluntary	Erg-Abs
+དཀྲིག་	Voluntary	Abs-Obl
+དཀྲུག་	Voluntary	Erg-Abs
+དཀྲུམ་	Voluntary	Erg-Abs
+དཀྲོག་	VoluntaryInvoluntary	Erg-Abs
+བཀན་	VoluntaryInvoluntary	Erg-Abs
+བཀུ་	Voluntary	Erg-Abs
+བཀུར་	Voluntary	Erg-Abs
+བཀོང་√1	Voluntary	Erg-Abs
+བཀོང་√2		
+བཀྱོན་	Voluntary	Erg-Abs
+བཀྲ་		
+བཀྲབ་	Voluntary	Erg-Abs
+བཀྲལ་	Voluntary	
+བཀྲེས་	Involuntary	Abs-Obl
+བཀྲོས་		
+རྐམ་	VoluntaryInvoluntary	Abs-Obl
+རྐུ་	Voluntary	Erg-Abs
+རྐོ་	Voluntary	Erg-Abs
+རྐོན་		
+རྐྱལ་	Voluntary	Erg-Abs
+རྐྱོང་	Voluntary	Erg-Abs
+ལྐུགས་	Involuntary	Abs-Obl
+སྐད་		
+སྐམ་	Involuntary	
+སྐར་	Voluntary	
+སྐུག་	Involuntary	Erg-Abs
+སྐུང་	Voluntary	Erg-Abs
+སྐུད་	Voluntary	Erg-Abs
+སྐུམ་	Voluntary	Erg-Abs
+སྐུར་	Voluntary	Erg-Abs
+སྐུལ་	Voluntary	
+སྐེམ་√1	Voluntary	Erg-Obl
+སྐེམ་√2	Involuntary	
+སྐོ་	Voluntary	Erg-Abs
+སྐོང་√1	Voluntary	Erg-Abs
+སྐོང་√2	Voluntary	Erg-Abs
+སྐོན་	Voluntary	Erg-Obl
+སྐོམ་	Involuntary	Abs-Obl
+སྐོར་√1	Voluntary	Erg-Abs
+སྐོར་√2	Voluntary	
+སྐོལ་	Voluntary	Erg-Abs
+སྐྱ་	Voluntary	Erg-Abs
+སྐྱག་		
+སྐྱད་		Erg-Abs
+སྐྱི་	Voluntary	Erg-Abs
+སྐྱིག་√1		
+སྐྱིག་√2		
+སྐྱིན་		
+སྐྱིལ་	Voluntary	Erg-Abs
+སྐྱུག་√1	Voluntary	
+སྐྱུག་√2	Voluntary	Erg-Abs
+སྐྱུང་	Voluntary	Erg-Abs
+སྐྱུད་	VoluntaryInvoluntary	Abs-Obl
+སྐྱུར་	Voluntary	Erg-Abs
+སྐྱེ་	Involuntary	Abs
+སྐྱེང་√1	Involuntary	Abs-Obl
+སྐྱེང་√2		
+སྐྱེད་	Voluntary	Erg-Abs
+སྐྱེམ་		
+སྐྱེལ་√1	Voluntary	Erg-Abs
+སྐྱེལ་√2	Involuntary	
+སྐྱོ་	Involuntary	Abs-Obl
+སྐྱོག་	Voluntary	Erg-Abs
+སྐྱོང་√1		
+སྐྱོང་√2	Voluntary	Erg-Abs
+སྐྱོད་√1	VoluntaryInvoluntary	Erg-Abs
+སྐྱོད་√2	Voluntary	
+སྐྱོན་√1		
+སྐྱོན་√2	Voluntary	Erg-Abs
+སྐྱོབ་	Voluntary	Abs-Abl
+སྐྱོམ་	Voluntary	Erg-Abs
+སྐྱོར་√1	Voluntary	Erg-Abs
+སྐྱོར་√2	Voluntary	Erg-Abs
+སྐྲག་	Involuntary	Abs-Obl
+སྐྲང་	Involuntary	Abs-Obl
+སྐྲབ་		Erg-Abs
+སྐྲི་	Voluntary	
+སྐྲུ་	Voluntary	Erg-Abs
+སྐྲུད་		
+སྐྲུན་	Voluntary	Erg-Abs
+སྐྲེས་		
+སྐྲོག་√1	Voluntary	Erg-Abs
+སྐྲོག་√2		
+སྐྲོད་	Voluntary	Erg-Abs
+སྐྲོབ་		
+སྐྲོལ་		
+བསྐལ་	Involuntary	Abs-Obl
+བསྐོན་		
+ཁུག་		Abs-Obl
+ཁེགས་	Involuntary	Abs-Obl
+ཁེང་	Involuntary	Erg-Abs
+ཁེན་		
+ཁེབས་	Involuntary	
+ཁེར་		
+ཁོག་		
+ཁོམ་	Involuntary	Abs-Obl
+ཁྱག་	Voluntary	Erg-Abs
+ཁྱབ་	Involuntary	Erg-Abs
+ཁྱོག་	Involuntary	Abs-Obl
+ཁྲུལ་		
+ཁྲེམས་	Involuntary	Abs-Obl
+ཁྲེལ་	Involuntary	Abs-Obl
+ཁྲོ་	Involuntary	Abs-Obl
+མཁས་	Involuntary	Abs-Obl
+མཁོ་	Involuntary	Abs-Obl
+མཁྱུད་	Voluntary	Erg-Abs
+མཁྱེན་	VoluntaryInvoluntary	Erg-Abs
+མཁྲང་	Involuntary	
+མཁྲེག་	Involuntary	
+མཁྲེན་	Involuntary	
+འཁང་	Involuntary	Abs-Obl
+འཁམ་	Involuntary	Abs-Obl
+འཁར་	Involuntary	Abs-Obl
+འཁལ་	Voluntary	Erg-Abs
+འཁུ་	Involuntary	Abs-Obl
+འཁུན་	Involuntary	Abs-Obl
+འཁུམ་	Involuntary	Abs-Obl
+འཁུམས་	Involuntary	Abs-Obl
+འཁུར་	Voluntary	Erg-Abs
+འཁུལ་	Involuntary	Abs-Obl
+འཁུས་		
+འཁེང་	Involuntary	Abs-Obl
+འཁེལ་	VoluntaryInvoluntary	Abs
+འཁོ་		
+འཁོང་		
+འཁོད་	Involuntary	Abs-Obl
+འཁོན་√1	Voluntary	
+འཁོན་√2	Involuntary	Abs-Ass
+འཁོབ་	Involuntary	Abs-Obl
+འཁོར་	Involuntary	Abs-Obl
+འཁོལ་√1	Involuntary	Abs
+འཁོལ་√2	Voluntary	Erg-Abs
+འཁོལ་√3	Voluntary	Erg-Abs
+འཁྱག་	Involuntary	Abs-Obl
+འཁྱམ་	InvoluntaryVoluntary	Abs-Obl
+འཁྱར་	Involuntary	Abs-Obl
+འཁྱལ་√1		
+འཁྱལ་√2	Involuntary	Abs-Obl
+འཁྱིག་√1	Voluntary	Erg-Abs
+འཁྱིག་√2	Involuntary	
+འཁྱིགས་		
+འཁྱིད་		
+འཁྱིམས་		
+འཁྱིར་	Involuntary	Abs-Obl
+འཁྱིལ་	Involuntary	Abs-Obl
+འཁྱུག་	Involuntary	Abs-Obl
+འཁྱུད་	InvoluntaryVoluntary	Erg-Abs
+འཁྱུར་	Involuntary	Abs-Obl
+འཁྱུས་	Involuntary	Abs-Obl
+འཁྱེག་		
+འཁྱེད་		
+འཁྱེར་	Voluntary	Erg-Abs
+འཁྱེལ་		
+འཁྱོག་	VoluntaryInvoluntary	Abs-Obl
+འཁྱོང་	InvoluntaryVoluntary	Abs-Obl
+འཁྱོམ་	Involuntary	Abs-Obl
+འཁྱོར་	Involuntary	Abs-Obl
+འཁྱོལ་	Involuntary	Abs-Obl
+འཁྲ་	Involuntary	Abs-Obl
+འཁྲབ་√1	Voluntary	
+འཁྲབ་√2	Voluntary	Erg-Abs
+འཁྲི་	Involuntary	Abs-Obl
+འཁྲིག་	Involuntary	Abs-Obl
+འཁྲིད་√1	Voluntary	Erg-Abs
+འཁྲིད་√2	Voluntary	Erg-Abs
+འཁྲིམས་		
+འཁྲིལ་	Involuntary	Abs-Obl
+འཁྲིས་		
+འཁྲུ་	Involuntary	Abs-Obl
+འཁྲུག་	VoluntaryInvoluntary	Abs-Obl
+འཁྲུང་	Involuntary	Abs
+འཁྲུད་	Voluntary	Erg-Abs
+འཁྲུལ་	Involuntary	Abs-Obl
+འཁྲེན་		Abs-Obl
+འཁྲེབ་	Involuntary	Abs-Obl
+འཁྲེལ་		
+འཁྲོག་	Involuntary	Abs-Obl
+འཁྲོལ་√1	Voluntary	Erg-Abs
+འཁྲོལ་√2	Involuntary	
+འཁྲོལ་√3		Abs-Obl
+གང་	Involuntary	Abs-Inst
+གབ་	Voluntary	Abs-Obl
+གལ་		
+གས་		
+གུག་	Involuntary	Abs-Obl
+གུད་	Involuntary	Abs-Obl
+གུས་	Voluntary	Abs-Obl
+གོ་	Involuntary	Abs-Obl
+གོག་	InvoluntaryVoluntary	Abs-Obl
+གོད་	Involuntary	Abs-Obl
+གོན་	Voluntary	
+གོམས་	Involuntary	Abs-Obl
+གོལ་	Involuntary	Abs-Obl
+གོས་		
+གྱར་	Involuntary	Abs-Obl
+གྱེད་		
+གྱེར་	Voluntary	Erg-Abs
+གྱེས་		
+གྱོན་	Voluntary	Erg-Abs
+གྱོལ་		
+གྲག་	Involuntary	Abs-Obl
+གྲགས་√1	Involuntary	Abs-Obl
+གྲགས་√2		
+གྲང་	Involuntary	
+གྲབས་		
+གྲམ་	Involuntary	Abs-Obl
+གྲས་		
+གྲིམ་	Involuntary	Abs-Obl
+གྲུག་	Involuntary	Abs-Obl
+གྲོན་		
+གྲོལ་	Involuntary	Abs
+གླ་	Voluntary	
+གླན་	Voluntary	
+གླལ་	Involuntary	
+གླས་		
+གླེང་	Voluntary	
+གླེབ་	Voluntary	
+གླེམ་		
+གློང་	Voluntary	
+གློད་	Voluntary	
+དགའ་	Involuntary	Abs-Obl
+དགར་	Voluntary	
+དགས་	Voluntary	
+དགུ་	Involuntary	
+དགེ་		
+དགེས་		
+དགོགས་		
+དགོངས་	Voluntary	Erg-Obl
+དགོད་	Voluntary	
+དགོས་	Involuntary	Obl-Abs
+དགྱེ་	Involuntary	
+དགྱེད་	Involuntary	
+དགྱེལ་		
+དགྱེས་	Involuntary	Abs-Obl
+དགྲད་		
+དགྲོང་	Voluntary	
+བགག་	Voluntary	
+བགམ་	Voluntary	
+བགོ་	VoluntaryInvoluntary	Erg-Abs
+བགོད་	Voluntary	
+བགྱིད་	Voluntary	Erg-Abs
+བགྲང་	Voluntary	Erg-Abs
+བགྲད་	Voluntary	
+བགྲིལ་	Voluntary	
+བགྲུང་	InvoluntaryVoluntary	
+བགྲུད་	Voluntary	
+བགྲེ་		
+བགྲེས་	Involuntary	
+བགྲོ་	VoluntaryInvoluntary	
+བགྲོང་	VoluntaryInvoluntary	
+བགྲོད་	VoluntaryInvoluntary	Abs-Obl
+མགར་	Voluntary	
+མགུ་	Involuntary	
+མགྱོག་	Involuntary	
+འགག་	Involuntary	Abs-Obl
+འགད་	Voluntary	
+འགམ་	Voluntary	Erg-Abs
+འགལ་	Involuntary	Abs-Ass
+འགས་√1	Voluntary	Erg-Abs
+འགས་√2	Involuntary	Abs-Obl
+འགི་		
+འགུགས་	Voluntary	Erg-Abs
+འགུད་		
+འགུམ་	Involuntary	Abs-Obl
+འགུམས་	Voluntary	
+འགུལ་	Involuntary	Abs-Obl
+འགེང་	Voluntary	Erg-Abs
+འགེབས་	Voluntary	Erg-Abs
+འགེམ་	Voluntary	
+འགེལ་	Voluntary	Erg-Abs
+འགོ་	Involuntary	
+འགོག་√1	Voluntary	Erg-Abs
+འགོག་√2	Voluntary	
+འགོང་	Involuntary	
+འགོད་	Voluntary	Erg-Abs
+འགོམ་	InvoluntaryVoluntary	Erg-Abs
+འགོར་√1	Voluntary	
+འགོར་√2	Involuntary	Abs
+འགྱག་		
+འགྱང་	Involuntary	Abs-Obl
+འགྱངས་	Voluntary	
+འགྱས་		
+འགྱིང་	InvoluntaryVoluntary	
+འགྱུ་	Involuntary	
+འགྱུར་	Involuntary	Abs-Obl
+འགྱེད་√1	Voluntary	Erg-Abs
+འགྱེད་√2	Voluntary	
+འགྱེད་√3		
+འགྱེར་		Erg-Abs
+འགྱེལ་	Involuntary	Abs-Obl
+འགྱེས་	VoluntaryInvoluntary	Abs-Obl
+འགྱོག་	Voluntary	Erg-Abs
+འགྱོད་	Involuntary	
+འགྲང་	Involuntary	
+འགྲན་	Involuntary	
+འགྲམས་	Involuntary	
+འགྲས་	Involuntary	
+འགྲིག་	Involuntary	Abs-Obl
+འགྲིབ་	Involuntary	Abs-Obl
+འགྲིམ་	Voluntary	Abs-Obl
+འགྲིལ་	Involuntary	Abs-Obl
+འགྲུབ་	Involuntary	Abs-Obl
+འགྲུམ་	Involuntary	
+འགྲུལ་	Involuntary	
+འགྲུས་	Voluntary	
+འགྲེ་	VoluntaryInvoluntary	Abs-Obl
+འགྲེང་	InvoluntaryVoluntary	Abs-Obl
+འགྲེམ་√1	Voluntary	Erg-Abs
+འགྲེམ་√2		
+འགྲེལ་√1	Voluntary	Erg-Abs
+འགྲེལ་√2		
+འགྲོ་	Voluntary	Abs-Obl
+འགྲོགས་	InvoluntaryVoluntary	Abs-Ass
+འགྲོངས་	Involuntary	
+འགྲོལ་	Voluntary	
+རྒ་	Involuntary	Abs-Obl
+རྒལ་	Voluntary	Erg-Abs
+རྒུད་	Involuntary	Erg-Abs
+རྒོལ་	Voluntary	Erg-Abs
+རྒྱ་√1	InvoluntaryVoluntary	Abs-Obl
+རྒྱ་√2		
+རྒྱག་√1	Voluntary	Erg-Abs
+རྒྱག་√2	Involuntary	
+རྒྱགས་√1	VoluntaryInvoluntary	
+རྒྱགས་√2	Involuntary	
+རྒྱང་		
+རྒྱན་	Voluntary	Erg-Abs
+རྒྱལ་	Involuntary	Abs-Abl/Ela
+རྒྱུ་	Involuntary	
+རྒྱུག་√1	Voluntary	Abs-Obl
+རྒྱུག་√2	VoluntaryInvoluntary	Erg
+རྒྱུགས་		
+རྒྱུང་	Voluntary	
+རྒྱུད་	Voluntary	
+རྒྱོ་	Voluntary	
+རྒྱོང་	Voluntary	
+རྒྱོར་		
+སྒག་	Voluntary	
+སྒང་	Voluntary	
+སྒབ་	Voluntary	
+སྒར་	Voluntary	
+སྒལ་		
+སྒུག་	Voluntary	Erg-Abs
+སྒུར་	Voluntary	
+སྒུལ་	Voluntary	Erg-Abs
+སྒེག་		
+སྒོ་	Voluntary	Erg-Abs
+སྒོག་	Voluntary	
+སྒོང་√1	Voluntary	
+སྒོང་√2	Voluntary	
+སྒོངས་		
+སྒོམ་	Voluntary	Erg-Abs
+སྒོར་	Voluntary	
+སྒྱང་	Voluntary	
+སྒྱིང་	Voluntary	
+སྒྱུར་	Voluntary	Erg-Abs
+སྒྱེལ་	Voluntary	Erg-Abs
+སྒྱོང་		
+སྒྲལ་		
+སྒྲིག་	Voluntary	Erg-Abs
+སྒྲིན་	Voluntary	
+སྒྲིབ་	Voluntary	Erg-Abs
+སྒྲིམ་	Voluntary	Erg-Abs
+སྒྲིལ་	Voluntary	Erg-Abs
+སྒྲུག་	Voluntary	Erg-Abs
+སྒྲུང་	Voluntary	
+སྒྲུན་	Voluntary	
+སྒྲུབ་	Voluntary	Erg-Abs
+སྒྲེ་	Voluntary	
+སྒྲེག་		
+སྒྲེང་	Voluntary	Erg-Abs
+སྒྲོ་	Voluntary	
+སྒྲོག་√1	Voluntary	Erg-Abs
+སྒྲོག་√2	Voluntary	
+སྒྲོང་	Voluntary	
+སྒྲོད་	Voluntary	
+སྒྲོན་	Voluntary	
+སྒྲོལ་	Voluntary	Erg-Abs
+བརྒྱགས་		
+བརྒྱལ་	Involuntary	
+བརྒྱུད་	InvoluntaryVoluntary	
+བསྒོམ་	Voluntary	
+བསྒྲང་		
+བསྒྲད་	Voluntary	
+བསྒྲལ་		
+ངར་	Involuntary	
+ངལ་	Involuntary	Abs-Obl
+ངུ་	Voluntary	
+ངུར་	Involuntary	
+ངེར་	Involuntary	
+ངེས་	Involuntary	Erg-Abs
+ངོམ་	Voluntary	Erg-Abs
+ངོམས་	Involuntary	
+དངང་	Involuntary	
+དངར་	Involuntary	
+དངོམ་	Voluntary	
+མངག་	InvoluntaryVoluntary	Erg-Obl-Abs
+མངན་		
+མངའ་		Abs-Obl
+མངར་	Involuntary	
+མངོན་	Involuntary	Abs-Obl
+རྔ་	Voluntary	Erg-Abs
+རྔན་	Voluntary	
+རྔབ་√1	Involuntary	
+རྔབ་√2		
+རྔམ་√1	VoluntaryInvoluntary	Abs-Obl
+རྔམ་√2		
+རྔུབ་	Voluntary	
+རྔུལ་√1	Involuntary	
+རྔུལ་√2		
+རྔོ་		
+རྔོད་√1	Voluntary	
+རྔོད་√2	Voluntary	
+རྔོན་	Voluntary	
+རྔོབ་		
+སྔ་	Involuntary	
+སྔང་	VoluntaryInvoluntary	
+སྔབ་		
+སྔམ་		
+སྔལ་		Abs-Obl
+སྔུར་		
+སྔོ་√1	Voluntary	Erg-Abs
+སྔོ་√2	Involuntary	
+སྔོག་	Voluntary	
+བརྔད་		
+བརྔོག་		
+བསྔགས་	Voluntary	Erg-Abs
+བསྔས་		
+ཅོག་		
+ཅོང་		
+གཅར་√1	Voluntary	
+གཅར་√2	Voluntary	
+གཅལ་		
+གཅི་	Voluntary	
+གཅིར་	Voluntary	
+གཅིལ་		
+གཅིས་	Involuntary	
+གཅུ་	Voluntary	
+གཅུགས་		
+གཅུད་		
+གཅུར་	Voluntary	
+གཅུས་		
+གཅེར་		
+གཅེས་	Involuntary	Abs-Obl
+གཅོག་	Voluntary	Erg-Abs
+གཅོང་		
+གཅོད་	Voluntary	Erg-Abs
+གཅོམ་	Voluntary	
+གཅོར་	Voluntary	
+གཅོལ་	Voluntary	
+བཅས་		Abs-Ass
+བཅུམ་		
+བཅེམ་	Voluntary	
+བཅེར་	Involuntary	
+བཅོ་		
+བཅོག་		
+ལྕིགས་	Involuntary	
+ལྕེབ་	Voluntary	
+ལྕོགས་	Involuntary	
+ཆ་	Involuntary	Abs-Obl
+ཆགས་√1	Involuntary	Abs-Obl
+ཆགས་√2	Involuntary	Abs
+ཆད་		
+ཆུག་	Involuntary	Abs-Obl
+ཆུད་	Involuntary	Abs-Obl
+ཆུན་		
+ཆུབ་	Involuntary	
+ཆུམ་		
+ཆེ་	Involuntary	
+ཆེས་	Involuntary	
+ཆོག་	Involuntary	Abs-Obl
+ཆོད་	Involuntary	Erg-Abs
+ཆོམ་	Involuntary	Abs-Obl
+མཆི་	Involuntary	Abs-Obl
+མཆིད་		
+མཆེད་	Involuntary	Abs-Obl
+མཆོག་	Involuntary	
+མཆོང་	Voluntary	
+མཆོད་	Voluntary	Erg-Abs
+མཆོར་	Involuntary	
+མཆོལ་	Involuntary	
+འཆག་√1	Voluntary	Erg-Abs
+འཆག་√2	Involuntary	Abs-Obl
+འཆག་√3	Involuntary	
+འཆགས་	Voluntary	Erg-Abs
+འཆང་	Voluntary	Erg-Abs
+འཆད་√1	Involuntary	Abs-Obl
+འཆད་√2	Voluntary	Erg-Abs
+འཆབ་	Voluntary	
+འཆམ་√1	Voluntary	Erg-Abs
+འཆམ་√2	Involuntary	Abs-Obl
+འཆའ་√1	Voluntary	Erg-Abs
+འཆའ་√2	Involuntary	Abs-Obl
+འཆའ་√3	Voluntary	Erg-Abs
+འཆར་	Involuntary	Abs
+འཆལ་	Involuntary	Abs-Obl
+འཆི་	Involuntary	Abs-Obl
+འཆིང་√1	Voluntary	Erg-Abs
+འཆིང་√2		
+འཆིབ་	Voluntary	Abs-Obl
+འཆིར་√1	Voluntary	
+འཆིར་√2		
+འཆུ་√1	Voluntary	
+འཆུ་√2	Involuntary	Abs-Obl
+འཆུག་	Involuntary	Abs-Obl
+འཆུགས་		
+འཆུན་	Involuntary	
+འཆུམ་	Involuntary	
+འཆུམས་		
+འཆུར་		
+འཆུརད་		
+འཆེ་	Voluntary	
+འཆེལ་		Abs-Obl
+འཆོར་√1	Involuntary	(Erg.)Abs
+འཆོར་√2		
+འཆོལ་√1	Voluntary	Erg-Abs
+འཆོལ་√2	Involuntary	Abs-Obl
+འཆོས་√1	Voluntary	Erg-Abs
+འཆོས་√2		
+མཇལ་	InvoluntaryVoluntary	Abs-Ass
+མཇེད་		Abs-Obl
+འཇག་		
+འཇགས་√1	Involuntary	
+འཇགས་√2	Voluntary	
+འཇགས་√3		
+འཇང་	Involuntary	
+འཇབ་	Voluntary	
+འཇམ་	Involuntary	
+འཇའ་	Involuntary	Abs-Obl
+འཇར་	Involuntary	
+འཇལ་	Voluntary	Erg-Abs
+འཇིག་√1	Involuntary	Abs-Obl
+འཇིག་√2	Voluntary	Erg-Abs
+འཇིགས་	Involuntary	Abs-Instr
+འཇིབ་√1		
+འཇིབ་√2	Voluntary	
+འཇིལ་√1	Voluntary	
+འཇིལ་√2	Involuntary	
+འཇུ་√1	Voluntary	
+འཇུ་√2	Involuntary	
+འཇུ་√3	Voluntary	Erg-Abs
+འཇུག་√1	Voluntary	Abs-Obl
+འཇུག་√2	Voluntary	Erg-Abs
+འཇུད་		
+འཇུན་√1	Voluntary	
+འཇུན་√2		
+འཇུམ་	Voluntary	Abs-Obl
+འཇུར་√1	Voluntary	Erg-Abs
+འཇུར་√2		
+འཇུར་√3		
+འཇེབས་	Involuntary	
+འཇེམ་		
+འཇོ་√1	Voluntary	
+འཇོ་√2		
+འཇོག་√1	Voluntary	Erg-Abs
+འཇོག་√2	Voluntary	
+འཇོག་√3		
+འཇོང་	Voluntary	
+འཇོམས་	Voluntary	Erg-Abs
+འཇོལ་	Involuntary	
+རྗིད་		
+རྗུད་		
+རྗེ་	Voluntary	Erg-Abs
+རྗེད་	Voluntary	Erg-Abs
+རྗོད་√1	Voluntary	Erg-Abs
+རྗོད་√2		Obl-Abs
+ལྗེན་		
+བརྗིད་	Involuntary	Obl-Abs
+བརྗེད་	Involuntary	Obl-Abs
+ཉ་	Involuntary	
+ཉན་√1	Voluntary	Erg-Abs
+ཉན་√2	Involuntary	
+ཉམས་	Involuntary	Abs-Obl
+ཉར་	Voluntary	
+ཉལ་	Voluntary	
+ཉིལ་	Involuntary	
+ཉུག་	Voluntary	Erg-Obl
+ཉུང་	Involuntary	
+ཉུལ་	Voluntary	
+ཉེ་		Abs-Obl
+ཉེན་	Involuntary	
+ཉེས་	Involuntary	Abs-Obl
+ཉོ་	Voluntary	Erg-Abs
+ཉོག་		Abs-Obl
+ཉོབ་	Involuntary	
+ཉོར་	Involuntary	
+གཉིད་	Involuntary	
+གཉུལ་	Voluntary	
+གཉེ་		
+གཉེག་		
+གཉེར་	Voluntary	Erg-Abs
+གཉོག་√1	Voluntary	
+གཉོག་√2		
+མཉམ་	Involuntary	
+མཉེད་	Voluntary	
+མཉེན་		
+མཉེལ་	Involuntary	
+མཉེས་	Involuntary	Abl-Obl
+རྙ་	Voluntary	Erg-Abs
+རྙང་	Voluntary	
+རྙན་	Voluntary	
+རྙིང་	InvoluntaryVoluntary	
+རྙིད་	Involuntary	
+རྙིལ་	Voluntary	
+རྙིས་		
+རྙེད་	Involuntary	Obl-Abs
+རྙོག་	Involuntary	Abs-Obl
+རྙོང་√1	Voluntary	
+རྙོང་√2	Voluntary	
+རྙོབ་	VoluntaryInvoluntary	
+སྙ་		
+སྙག་		
+སྙད་	Voluntary	Erg-Abs
+སྙབ་		
+སྙམ་	Involuntary	Abs-Obl
+སྙལ་		
+སྙིག་	Voluntary	
+སྙིགས་		
+སྙིལ་	Voluntary	
+སྙུག་	Voluntary	
+སྙུང་√1	Voluntary	
+སྙུང་√2	Involuntary	Abs
+སྙུན་	VoluntaryInvoluntary	
+སྙུལ་	Voluntary	
+སྙེ་	Voluntary	
+སྙེག་	Voluntary	
+སྙེང་√1	VoluntaryInvoluntary	
+སྙེང་√2	VoluntaryInvoluntary	
+སྙེན་	Voluntary	
+སྙེམས་	VoluntaryInvoluntary	
+སྙེར་	Voluntary	
+སྙེལ་	Involuntary	
+སྙོག་√1	Voluntary	
+སྙོག་√2	Voluntary	
+སྙོགས་		
+སྙོད་√1	Voluntary	
+སྙོད་√2	Voluntary	
+སྙོན་	Voluntary	Erg-Abs
+སྙོབ་	Voluntary	
+སྙོམ་	Voluntary	Erg-Abs
+སྙོར་	Voluntary	
+སྙོལ་	Voluntary	
+བརྙས་	Voluntary	
+བརྙེས་	Involuntary	
+བརྙོག་	Involuntary	
+བསྙིགས་		
+བསྙུག་		
+བསྙོར་		
+བསྙོལ་		
+ཏྲོན་		
+གཏག་	Voluntary	
+གཏན་		
+གཏམ་√1	Voluntary	
+གཏམ་√2	Voluntary	
+གཏམས་	Voluntary	
+གཏའ་		
+གཏར་	VoluntaryInvoluntary	
+གཏི་		
+གཏིག་	VoluntaryInvoluntary	
+གཏིབ་	Voluntary	Erg-Abs
+གཏུག་	Voluntary	
+གཏུགས་	Involuntary	
+གཏུབ་	Voluntary	
+གཏུམ་	Involuntary	
+གཏུར་		
+གཏུལ་	Voluntary	
+གཏོག་√1	Voluntary	
+གཏོག་√2		
+གཏོགས་	Involuntary	Abs-Obl
+གཏོང་√1	Voluntary	Erg-Obl-Abs
+གཏོང་√2		
 གཏོང་√x
-གཏོད་√1
-གཏོད་√2
-གཏོལ་
-རྟག་
-རྟབ་√1
-རྟས་
-རྟིབ་
-རྟུང་
-རྟུན་
-རྟུལ་
-རྟེན་
-རྟོག་
-རྟོགས་
-རྟོད་
-རྟོན་
-རྟོལ་√1
-རྟོལ་√2
-ལྟ་√1
-ལྟ་√2
-ལྟན་
-ལྟམ་
-ལྟུང་
-ལྟེབ་
-ལྟེམ་
-ལྟེམས་
-ལྟོགས་
-ལྟོས་
-སྟངས་
-སྟད་
-རྟབ་√2
-སྟར་
-སྟི་
-སྟིང་
-སྟིབ་
-སྟིམ་
-སྟིར་
-སྟུག་
-སྟུང་
-སྟུད་
-སྟུན་
-སྟེག་
-སྟེང་
-སྟེན་
-སྟེམ་
-སྟེར་
-སྟོང་
-སྟོངས་
-སྟོད་
-སྟོན་
-སྟོབ་
-སྟོར་√1
-སྟོར་√2
-སྟོས་
-བརྟན་
-བརྟུལ་
-བསྟར་
-བསྟུ་
-བསྟུགས་
-བསྟུན་
-བསྟོད་
-ཐད་
-ཐམས་
-ཐར་
-ཐལ་
-ཐིག་
-ཐིགས་
-ཐིང་
-ཐུ་
-ཐུག་√1
-ཐུག་√2
-ཐུབ་√1
-ཐུབ་√2
+གཏོད་√1	Voluntary	Erg-Abs
+གཏོད་√2	Voluntary	
+གཏོལ་		
+རྟག་	Involuntary	
+རྟབ་√1	VoluntaryInvoluntary	
+རྟས་	VoluntaryInvoluntary	
+རྟིབ་	Voluntary	
+རྟུང་		
+རྟུན་		
+རྟུལ་	Voluntary	Erg-Abs
+རྟེན་	Voluntary	Abs-Obl
+རྟོག་	Voluntary	Erg-Abs
+རྟོགས་	Involuntary	Erg-Abs
+རྟོད་	Voluntary	
+རྟོན་	Voluntary	Erg-Obl
+རྟོལ་√1	Voluntary	
+རྟོལ་√2	VoluntaryInvoluntary	
+ལྟ་√1	Voluntary	Erg-Obl
+ལྟ་√2	Voluntary	Erg-Abs
+ལྟན་		
+ལྟམ་	VoluntaryInvoluntary	Abs-Obl
+ལྟུང་	VoluntaryInvoluntary	Abs-Obl
+ལྟེབ་	Voluntary	
+ལྟེམ་	Involuntary	
+ལྟེམས་	Voluntary	
+ལྟོགས་	Involuntary	Abs-Obl
+ལྟོས་	VoluntaryInvoluntary	Abs-Obl
+སྟངས་	Involuntary	
+སྟད་		
+རྟབ་√2		
+སྟར་	Voluntary	Erg-Abs
+སྟི་	Voluntary	
+སྟིང་	Voluntary	
+སྟིབ་		
+སྟིམ་	Voluntary	
+སྟིར་		
+སྟུག་		
+སྟུང་	Voluntary	
+སྟུད་	Voluntary	
+སྟུན་	Voluntary	Abs-Ass
+སྟེག་		
+སྟེང་		
+སྟེན་	Voluntary	Erg-Abs
+སྟེམ་		
+སྟེར་	InvoluntaryVoluntary	Erg-Abs
+སྟོང་	Involuntary	Abs-Instr
+སྟོངས་	Voluntary	
+སྟོད་	Voluntary	
+སྟོན་	Voluntary	Erg-Abs
+སྟོབ་	Voluntary	Erg-Abs
+སྟོར་√1	Voluntary	Erg-Abs
+སྟོར་√2	VoluntaryInvoluntary	
+སྟོས་		
+བརྟན་		
+བརྟུལ་		
+བསྟར་		
+བསྟུ་		
+བསྟུགས་		
+བསྟུན་		
+བསྟོད་	Voluntary	Erg-Abs
+ཐད་	Involuntary	
+ཐམས་		
+ཐར་	Involuntary	Abs-Abl/Ela
+ཐལ་	Involuntary	Abs-Obl
+ཐིག་	Involuntary	
+ཐིགས་		
+ཐིང་	Involuntary	
+ཐུ་		
+ཐུག་√1	InvoluntaryVoluntary	Abs-Ass
+ཐུག་√2	Involuntary	Abs-Obl
+ཐུབ་√1		Abs-Obl
+ཐུབ་√2	Involuntary	Erg-Abs
 ཐུབ་√x
-ཐུབ་√3
-ཐུལ་
-ཐེ་
-ཐེག་√1
-ཐེག་√2
-ཐེང་
-ཐེད་
-ཐེན་
-ཐེབས་
-ཐེམས་
-ཐོགས་√1
-ཐོགས་√2
-ཐོང་
-ཐོས་
-མཐུག་
-མཐུད་
-མཐུན་
-མཐོ་
-མཐོང་
-མཐོལ་
-འཐག་√1
-འཐག་√2
-འཐད་
-འཐབ་
-འཐམ་
-འཐམས་
-འཐས་
-འཐིག་√1
-འཐིག་√2
-འཐིབ་
-འཐིམ་
-འཐུ་√1
-འཐུ་√2
-འཐུ་√3
-འཐུང་
-འཐུབ་
-འཐུམ་√1
-འཐུམ་√2
-འཐུལ་
-འཐུས་
-འཐེང་
-འཐེན་
-འཐེམས་
-འཐོག་
-འཐོན་√1
-འཐོན་√2
-འཐོབ་
-འཐོམ་
-འཐོར་√1
-འཐོར་√2
-དྭངས་
-དད་
-དར་
-དུགས་
-དུང་
-དུངས་
-དུད་√1
-དུད་√2
-དུབ་
-དུར་
-དུལ་
-དེད་
-དོ་
-དོགས་
-དོད་
-དོན་√1
-དོན་√2
-དྲག་
-དྲན་
-དྲེགས་
-དྲེད་
-དྲོ་
-གདང་
-གདའ་
-གདལ་√1
-གདལ་√2
-གདས་
-གདུ་√1
-གདུ་√2
-གདུང་√1
-གདུང་√2
-གདེང་
-གདོན་
-བདག་
-བདམ་
-བདའ་
-བདར་
-བདུག་
-བདུང་
-བདོ་
-བདོག་
-བདོད་
-མདུང་
-མདུད་
-འདག་
-འདང་
-འདད་
-འདམ་
-འདའ་
-འདར་
-འདལ་√1
-འདལ་√2
-འདིང་
-འདུ་
-འདུག་
-འདུད་
-འདུན་
-འདུམ་
-འདུར་√1
-འདུར་√2
-འདུལ་
-འདེགས་
-འདེང་
-འདེད་√1
-འདེད་√2
-འདེབས་
-འདེམ་
-འདོག་
-འདོགས་
-འདོང་
-འདོད་
+ཐུབ་√3		
+ཐུལ་	Involuntary	Erg-Abs
+ཐེ་	Involuntary	
+ཐེག་√1	Involuntary	
+ཐེག་√2	VoluntaryInvoluntary	Abs
+ཐེང་	Involuntary	
+ཐེད་		
+ཐེན་		
+ཐེབས་	Involuntary	Abs-Obl
+ཐེམས་		
+ཐོགས་√1	Involuntary	Abs-Obl
+ཐོགས་√2	Voluntary	Erg-Abs
+ཐོང་	Involuntary	Abs-Obl
+ཐོས་	Involuntary	Erg-Abs
+མཐུག་	Involuntary	
+མཐུད་	Voluntary	
+མཐུན་	Involuntary	Abs-Ass
+མཐོ་	Involuntary	
+མཐོང་	Involuntary	Erg-Abs
+མཐོལ་	Involuntary	
+འཐག་√1	Voluntary	Erg-Abs
+འཐག་√2	Involuntary	Erg-Abs
+འཐད་	Involuntary	Abs-Obl
+འཐབ་	Voluntary	Abs-Ass
+འཐམ་	InvoluntaryVoluntary	
+འཐམས་		
+འཐས་		
+འཐིག་√1		
+འཐིག་√2	Involuntary	
+འཐིབ་	Involuntary	Abs-Obl
+འཐིམ་	Involuntary	Abs-Obl
+འཐུ་√1	Voluntary	
+འཐུ་√2		
+འཐུ་√3	Voluntary	
+འཐུང་	Voluntary	Erg-Abs
+འཐུབ་	Voluntary	
+འཐུམ་√1	Involuntary	
+འཐུམ་√2	Voluntary	
+འཐུལ་	Involuntary	
+འཐུས་	Involuntary	
+འཐེང་	Involuntary	
+འཐེན་	Voluntary	Erg-Abs
+འཐེམས་	Involuntary	
+འཐོག་	Voluntary	Erg-Abs
+འཐོན་√1	Involuntary	Abs
+འཐོན་√2	InvoluntaryVoluntary	Abs
+འཐོབ་	Involuntary	Erg-Abs
+འཐོམ་	Involuntary	
+འཐོར་√1	Voluntary	
+འཐོར་√2	Involuntary	
+དྭངས་	Involuntary	Abs
+དད་	Involuntary	Abs-Obl
+དར་	Involuntary	Abs-Obl
+དུགས་		
+དུང་		
+དུངས་	Involuntary	
+དུད་√1	Involuntary	
+དུད་√2		
+དུབ་	Involuntary	
+དུར་		
+དུལ་	Involuntary	
+དེད་		
+དོ་	Involuntary	
+དོགས་	Involuntary	Abs-Obl
+དོད་	Involuntary	
+དོན་√1	Voluntary	Abs
+དོན་√2	Involuntary	
+དྲག་	Involuntary	Abs
+དྲན་	VoluntaryInvoluntary	Erg-Abs
+དྲེགས་	Involuntary	
+དྲེད་		
+དྲོ་	Involuntary	
+གདང་	Voluntary	
+གདའ་		
+གདལ་√1	Voluntary	
+གདལ་√2	Involuntary	
+གདས་	Voluntary	
+གདུ་√1	Voluntary	
+གདུ་√2	Involuntary	
+གདུང་√1	VoluntaryInvoluntary	Erg-Abs
+གདུང་√2	Involuntary	
+གདེང་	Voluntary	
+གདོན་		
+བདག་	Involuntary	
+བདམ་	Voluntary	
+བདའ་		
+བདར་	Voluntary	
+བདུག་	VoluntaryInvoluntary	
+བདུང་	Voluntary	
+བདོ་	Involuntary	
+བདོག་		
+བདོད་		
+མདུང་		
+མདུད་	Involuntary	Abs-Obl
+འདག་	Involuntary	Abs-Ass
+འདང་	Involuntary	
+འདད་		
+འདམ་	Voluntary	
+འདའ་	Involuntary	Abs-Abl./Ela
+འདར་	Involuntary	
+འདལ་√1	Involuntary	
+འདལ་√2		
+འདིང་	Voluntary	Erg-Abs
+འདུ་	InvoluntaryVoluntary	Abs-Obl
+འདུག་	Involuntary	Abs-Obl
+འདུད་	Voluntary	Erg-Obl
+འདུན་	Involuntary	Abs-Obl
+འདུམ་	Involuntary	Abs-Obl
+འདུར་√1	Involuntary	
+འདུར་√2		
+འདུལ་	Voluntary	Erg-Abs
+འདེགས་	Voluntary	Erg-Abs
+འདེང་	Involuntary	
+འདེད་√1	Voluntary	Erg-Abs
+འདེད་√2	Voluntary	
+འདེབས་	Voluntary	Erg-Abs
+འདེམ་	Voluntary	
+འདོག་	Voluntary	
+འདོགས་	Voluntary	Erg-Abs
+འདོང་	Voluntary	Abs-Obl
+འདོད་	Involuntary	Erg-Abs
 འདོད་√x
-འདོན་
-འདོམ་
-འདོམས་
-འདོར་
-འདྲ་√1
-འདྲ་√2
-འདྲད་
-འདྲལ་
-འདྲི་
-འདྲིད་
-འདྲིལ་
-འདྲིས་
-འདྲུ་
-འདྲུགས་
-འདྲུད་
-འདྲུབ་√1
-འདྲུབ་√2
-འདྲུམས་
-འདྲུལ་
-འདྲེ་
-འདྲེག་
-འདྲེགས་
-འདྲེད་
-འདྲེན་
-འདྲོག་
-འདྲོང་
-རྡར་
-རྡལ་
-རྡིབ་
-རྡུ་
-རྡུག་
-རྡུང་
-རྡུམ་
-རྡུལ་
-རྡེག་
-རྡེབ་
-རྡོད་
-རྡོབ་
-རྡོལ་√1
-རྡོལ་√2
-རྡོས་
-ལྡག་
-ལྡང་√1
-ལྡང་√2
-ལྡད་
-ལྡན་
-ལྡབ་
-ལྡར་
-ལྡིག་
-ལྡིང་
-ལྡིར་
-ལྡུག་
-ལྡུད་
-ལྡུར་
-ལྡེ་
-ལྡེག་
-ལྡེབ་
-ལྡོག་
-ལྡོང་
-ལྡོན་
-ལྡོབ་
-ལྡོམ་
-སྡང་
-སྡངས་
-སྡར་
-སྡིག་
-སྡུག་
-སྡུད་
-སྡུམ་
-སྡུར་
-སྡེབ་
-སྡོ་
-སྡོག་
-སྡོང་
-སྡོད་
-སྡོམ་√1
-སྡོམ་√2
-བརྡབ་
-བརྡའ་
-བརྡེག་
-ན་
-ནབ་
-ནལ་
-ནུ་
-ནུད་
-ནུབ་
-ནུར་
-ནུས་
-ནེན་
-ནེམ་
-ནེར་
-ནོགས་
-ནོང་√1
-ནོང་√2
-ནོངས་
-ནོད་√1
-ནོད་√2
-ནོན་
-ནོམ་√1
-ནོམ་√2
-ནོར་
-ནོལ་
-གནང་
-གནས་
-གནོང་
-གནོད་
-གནོན་
-མནག་
-མནང་
-མནམ་
-མནར་
-མནལ་
-མནོ་
-མནོལ་
-རྣག་
-རྣབ་
-རྣལ་
-རྣུར་
-རྣོག་√1
-རྣོག་√2
-རྣོང་
-རྣོན་
-སྣང་
-སྣད་
-སྣར་
-སྣལ་
-སྣུད་
-སྣུན་
-སྣུབ་
-སྣུར་
-སྣེམ་
-སྣོ་
-སྣོག་
-སྣོན་
-སྣོམ་√1
-སྣོམ་√2
-སྣོར་
-སྣོལ་
-བརྣག་
-བསྣོམ་
-དཔའ་
-དཔར་
-དཔེན་
-དཔོག་
-དཔོད་
-དཔྱ་
-དཔྱོ་
-དཔྱོང་
-དཔྱོད་
-དཔྲུལ་
-དཔྲེ་
-སྤ་
-སྤག་
-སྤམ་
-སྤུག་
-སྤུང་
-སྤུད་
-སྤུབ་
-སྤུར་
-སྤེལ་
-སྤོ་
-སྤོག་
-སྤོང་
-སྤོབས་
-སྤོར་√1
-སྤོར་√2
-སྤྱང་√1
-སྤྱང་√2
-སྤྱིང་
-སྤྱིལ་
-སྤྱུག་
-སྤྱོ་
-སྤྱོད་
-སྤྱོན་
-སྤྱོམ་
-སྤྲང་
-སྤྲས་
-སྤྲིང་
-སྤྲིབ་
-སྤྲུག་
-སྤྲུལ་
-སྤྲོ་√1
-སྤྲོ་√2
-སྤྲོད་
-སྤྲོས་
-ཕངས་
-ཕན་
-ཕིགས་
-ཕིར་
-ཕུབ་
-ཕེད་
-ཕེབས་
-ཕེར་
-ཕོངས་
-ཕོད་
+འདོན་	Voluntary	Erg-Abs
+འདོམ་	Involuntary	
+འདོམས་	Voluntary	Erg-Obl
+འདོར་	Voluntary	Erg-Obl
+འདྲ་√1	Voluntary	Erg-Abs
+འདྲ་√2		Abs-Ass
+འདྲད་	Voluntary	
+འདྲལ་	Voluntary	
+འདྲི་	Voluntary	Erg-Abs
+འདྲིད་	Voluntary	
+འདྲིལ་	Voluntary	Erg-Abs
+འདྲིས་	Involuntary	
+འདྲུ་	Voluntary	Erg-Abs
+འདྲུགས་		
+འདྲུད་	Voluntary	
+འདྲུབ་√1	VoluntaryInvoluntary	
+འདྲུབ་√2	Voluntary	
+འདྲུམས་		
+འདྲུལ་	Voluntary	
+འདྲེ་	VoluntaryInvoluntary	Abs-Ass
+འདྲེག་	Voluntary	
+འདྲེགས་		
+འདྲེད་	Involuntary	
+འདྲེན་	Voluntary	Erg-Abs
+འདྲོག་	Involuntary	
+འདྲོང་	VoluntaryInvoluntary	
+རྡར་	Voluntary	Erg-Abs
+རྡལ་	Voluntary	
+རྡིབ་	VoluntaryInvoluntary	
+རྡུ་		
+རྡུག་	Involuntary	Erg-Abs
+རྡུང་	Voluntary	Erg-Abs
+རྡུམ་		
+རྡུལ་		
+རྡེག་	Voluntary	Abs-Obl
+རྡེབ་	Voluntary	
+རྡོད་		
+རྡོབ་		
+རྡོལ་√1	VoluntaryInvoluntary	
+རྡོལ་√2	Involuntary	Abs-Obl
+རྡོས་	Involuntary	
+ལྡག་	Voluntary	Erg-Abs
+ལྡང་√1	Voluntary	
+ལྡང་√2	VoluntaryInvoluntary	
+ལྡད་	Voluntary	
+ལྡན་		
+ལྡབ་	Voluntary	
+ལྡར་		
+ལྡིག་		
+ལྡིང་	VoluntaryInvoluntary	
+ལྡིར་	InvoluntaryVoluntary	Erg-Abs
+ལྡུག་	Voluntary	Erg-Abs
+ལྡུད་	Voluntary	
+ལྡུར་	Involuntary	
+ལྡེ་	Voluntary	
+ལྡེག་	Involuntary	
+ལྡེབ་		
+ལྡོག་	VoluntaryInvoluntary	Erg-Abs
+ལྡོང་		
+ལྡོན་		
+ལྡོབ་	VoluntaryInvoluntary	
+ལྡོམ་		
+སྡང་	Involuntary	Abs-Obl
+སྡངས་		
+སྡར་	Involuntary	
+སྡིག་	Voluntary	Erg-Obl
+སྡུག་	Involuntary	Abs-Obl
+སྡུད་	Voluntary	Erg-Abs
+སྡུམ་	Voluntary	Erg-Abs
+སྡུར་	Voluntary	Erg-Abs
+སྡེབ་	Voluntary	Abs-Ass
+སྡོ་	Voluntary	
+སྡོག་	Involuntary	Erg-Abs
+སྡོང་	Voluntary	
+སྡོད་	Voluntary	Abs-Obl
+སྡོམ་√1	Voluntary	Erg-Abs
+སྡོམ་√2	Voluntary	Erg-Abs
+བརྡབ་	Involuntary	Abs-Obl
+བརྡའ་		
+བརྡེག་		
+ན་	Involuntary	Abs
+ནབ་	Voluntary	
+ནལ་		
+ནུ་	Voluntary	
+ནུད་	Voluntary	
+ནུབ་	Involuntary	Abs-Obl
+ནུར་		
+ནུས་	Involuntary	Erg-Abs
+ནེན་		
+ནེམ་		
+ནེར་		
+ནོགས་	Involuntary	
+ནོང་√1	Involuntary	
+ནོང་√2		
+ནོངས་	Involuntary	
+ནོད་√1	Voluntary	Erg-Abs
+ནོད་√2	Involuntary	Abs-Obl
+ནོན་	Involuntary	Abs-Obl
+ནོམ་√1	Voluntary	
+ནོམ་√2		
+ནོར་	Involuntary	Abs-Obl
+ནོལ་		
+གནང་	Voluntary	Erg-Abs
+གནས་		Abs-Obl
+གནོང་	Involuntary	
+གནོད་	InvoluntaryVoluntary	Erg-Obl
+གནོན་	Voluntary	Erg-Abs
+མནག་		
+མནང་		
+མནམ་	Involuntary	
+མནར་	Involuntary	Abs-Obl
+མནལ་	Voluntary	
+མནོ་	Voluntary	Abs-Obl
+མནོལ་	Involuntary	
+རྣག་		
+རྣབ་	VoluntaryInvoluntary	
+རྣལ་		
+རྣུར་	Involuntary	
+རྣོག་√1	Voluntary	
+རྣོག་√2	Voluntary	
+རྣོང་	Voluntary	
+རྣོན་	Voluntary	Erg-Abs
+སྣང་	Involuntary	Abs-Obl
+སྣད་	VoluntaryInvoluntary	
+སྣར་	Voluntary	
+སྣལ་		
+སྣུད་	Voluntary	
+སྣུན་	Voluntary	
+སྣུབ་	Voluntary	Erg-Abs
+སྣུར་	Voluntary	
+སྣེམ་	Voluntary	
+སྣོ་	Voluntary	
+སྣོག་	Voluntary	
+སྣོན་	Voluntary	Erg-Abs
+སྣོམ་√1	Voluntary	Erg-Abs
+སྣོམ་√2	Voluntary	Erg-Abs
+སྣོར་	Voluntary	
+སྣོལ་	Voluntary	
+བརྣག་	Voluntary	
+བསྣོམ་		
+དཔའ་	Involuntary	
+དཔར་		
+དཔེན་		
+དཔོག་	Voluntary	Erg-Abs
+དཔོད་	Voluntary	
+དཔྱ་	Involuntary	
+དཔྱོ་		
+དཔྱོང་	Voluntary	
+དཔྱོད་	Voluntary	Erg-Abs
+དཔྲུལ་		
+དཔྲེ་		
+སྤ་	Involuntary	Erg-Abs
+སྤག་		
+སྤམ་		
+སྤུག་	VoluntaryInvoluntary	
+སྤུང་	Voluntary	
+སྤུད་	Voluntary	Erg-Abs
+སྤུབ་		
+སྤུར་	VoluntaryInvoluntary	
+སྤེལ་	VoluntaryInvoluntary	Erg-Abs
+སྤོ་	Voluntary	Erg-Abs
+སྤོག་	Voluntary	
+སྤོང་	Voluntary	Erg-Abs
+སྤོབས་		
+སྤོར་√1	Voluntary	
+སྤོར་√2		
+སྤྱང་√1		
+སྤྱང་√2	Voluntary	
+སྤྱིང་	Voluntary	
+སྤྱིལ་		
+སྤྱུག་	Voluntary	
+སྤྱོ་	Voluntary	
+སྤྱོད་	Voluntary	Erg-Abs
+སྤྱོན་	Voluntary	
+སྤྱོམ་	Voluntary	
+སྤྲང་		
+སྤྲས་	Voluntary	Erg-Abs
+སྤྲིང་	Voluntary	
+སྤྲིབ་		
+སྤྲུག་	VoluntaryInvoluntary	
+སྤྲུལ་	VoluntaryInvoluntary	Erg-Abs
+སྤྲོ་√1	Involuntary	Abs-Obl
+སྤྲོ་√2	Voluntary	Erg-Abs
+སྤྲོད་	Voluntary	Erg-Abs
+སྤྲོས་		
+ཕངས་		
+ཕན་	Involuntary	Abs-Obl
+ཕིགས་	Involuntary	
+ཕིར་		
+ཕུབ་		
+ཕེད་	VoluntaryInvoluntary	
+ཕེབས་	Voluntary	
+ཕེར་		
+ཕོངས་		
+ཕོད་		Erg-Abs
 ཕོད་√x
-ཕྱིད་
-ཕྱིན་
-ཕྱིས་
-ཕྱུག་
-ཕྱེད་
-ཕྱོ་
-ཕྱོགས་
-ཕྱོད་
-ཕྲས་
-ཕྲུལ་
-འཕག་√1
-འཕག་√2
-འཕང་
-འཕམ་
-འཕར་
-འཕིབས་
-འཕིརད་
-འཕུང་
-འཕུད་
-འཕུར་√1
-འཕུར་√2
-འཕུལ་
-འཕེན་
-འཕེར་
-འཕེལ་
-འཕོ་
-འཕོག་
-འཕོང་
-འཕོལ་
-འཕྱ་
-འཕྱག་
-འཕྱང་
-འཕྱན་
-འཕྱར་
-འཕྱི་√1
-འཕྱི་√2
-འཕྱིང་
-འཕྱིད་
-འཕྱིལ་
-འཕྱུག་
-འཕྱུར་
-འཕྱེ་
-འཕྱོ་
-འཕྱོང་
-འཕྱོད་
-འཕྱོར་
-འཕྲ་
-འཕྲག་
-འཕྲངས་
-འཕྲད་
-འཕྲབ་
-འཕྲལ་
-འཕྲི་
-འཕྲིག་
-འཕྲུ་
-འཕྲུག་
-འཕྲུལ་
-འཕྲེ་
-འཕྲེང་
-འཕྲོ་
-འཕྲོག་
-འཕྲོད་
-བད་
-བམ་
-བུད་
-བུར་
-བུལ་
-བེམ་
-བོན་
-བོར་
-བྱང་
-བྱབ་
-བྱམས་
-བྱིབ་
-བྱིལ་
-བྱེད་
-བྱེར་
-བྱོ་
-བྲ་
-བྲན་
-བྲིན་
-བྲུག་
-བྲེ་
-བྲེད་
-བྲེལ་
-བྲོ་
-བྲོད་
-བླག་
-བླད་
-བླས་
-བླུ་
-བློང་
-བློད་
-བློན་
-དབང་
-དབུར་
-དབུལ་
-དབེན་
-དབོལ་
-དབོས་
-དབྱིན་
-དབྱུག་
-དབྱུང་
-དབྱེ་
-དབྱེན་
-དབྲོག་
-དབྲོལ་
-འབགས་
-འབང་√1
-འབང་√2
-འབད་
-འབབ་√1
-འབབ་√2
-འབའ་
-འབར་
-འབལ་
-འབིག་
-འབིགས་√1
-འབིགས་√2
-འབུ་
-འབུག་
-འབུགས་
-འབུང་
-འབུད་√1
-འབུད་√2
-འབུད་√3
-འབུན་
-འབུབ་
-འབུབས་
-འབུར་
-འབུལ་
-འབེབས་
-འབོ་√1
-འབོ་√2
-འབོག་√1
-འབོག་√2
-འབོགས་
-འབོད་
-འབོར་
-འབྱང་
-འབྱམ་
-འབྱི་
-འབྱིང་
-འབྱིད་√1
-འབྱིད་√2
-འབྱིད་√3
-འབྱིན་
-འབྱིལ་
-འབྱུག་
-འབྱུང་
-འབྱེ་
-འབྱེད་
-འབྱེར་
-འབྱེས་
-འབྱོ་
-འབྱོག་
-འབྱོང་√1
-འབྱོང་√2
-འབྱོང་√3
-འབྱོན་√1
-འབྱོན་√2
-འབྱོར་√1
-འབྱོར་√2
-འབྱོལ་
-འབྲ་
-འབྲང་
-འབྲབ་
-འབྲལ་
-འབྲི་√1
-འབྲི་√2
-འབྲི་√3
-འབྲིད་
-འབྲིམ་
-འབྲུད་
-འབྲུབ་√1
-འབྲུབ་√2
-འབྲུལ་
-འབྲེ་
-འབྲེད་
-འབྲེལ་
-འབྲོང་
-འབྲོས་
-རྦོད་
-ལྦོས་
-སྦག་
-སྦར་
-སྦལ་
-སྦིར་
-སྦུང་
-སྦུད་
-སྦུབ་
-སྦེ་
-སྦེད་
-སྦོ་
-སྦོང་
-སྦོན་
-སྦོམ་
-སྦོར་
-སྦོལ་
-སྦྱག་
-སྦྱིག་
-སྦྱིན་
-སྦྱོང་
-སྦྱོར་
-སྦྲག་
-སྦྲིད་
-སྦྲིབ་
-སྦྲུ་
-སྦྲུམ་
-སྦྲེ་
-སྦྲེག་
-སྦྲེང་
-སྦྲེབ་
-སྦྲེལ་
-སྦྲོན་
-མང་
-མལ་
-མིད་
-མིན་
+ཕྱིད་		
+ཕྱིན་		
+ཕྱིས་		
+ཕྱུག་	Involuntary	
+ཕྱེད་	Involuntary	Abs-Obl
+ཕྱོ་		
+ཕྱོགས་	InvoluntaryVoluntary	Abs-Obl
+ཕྱོད་		
+ཕྲས་		
+ཕྲུལ་	Involuntary	
+འཕག་√1		
+འཕག་√2	InvoluntaryVoluntary	Abs-Abl./Ela
+འཕང་		
+འཕམ་	Involuntary	Abs-Obl
+འཕར་	Involuntary	
+འཕིབས་	Voluntary	
+འཕིརད་		
+འཕུང་	Involuntary	Abs-Obl
+འཕུད་	Voluntary	Erg-Abs
+འཕུར་√1	Voluntary	Erg-Abs
+འཕུར་√2	InvoluntaryVoluntary	Abs-Obl
+འཕུལ་	Voluntary	
+འཕེན་	Voluntary	Erg-Abs
+འཕེར་	Involuntary	
+འཕེལ་	Involuntary	Abs-Obl
+འཕོ་	Involuntary	Abs-Obl
+འཕོག་	Involuntary	Abs-Obl
+འཕོང་	Involuntary	Abs-Instr
+འཕོལ་		
+འཕྱ་	Voluntary	
+འཕྱག་	Voluntary	
+འཕྱང་	Involuntary	
+འཕྱན་	Voluntary	
+འཕྱར་	Voluntary	Erg-Abs
+འཕྱི་√1	Involuntary	Abs-Obl
+འཕྱི་√2		
+འཕྱིང་	Involuntary	Abs-Obl
+འཕྱིད་	Involuntary	
+འཕྱིལ་		
+འཕྱུག་	Involuntary	
+འཕྱུར་	Involuntary	
+འཕྱེ་	Involuntary	
+འཕྱོ་	Involuntary	
+འཕྱོང་		
+འཕྱོད་		
+འཕྱོར་	Voluntary	Erg-Abs
+འཕྲ་	Involuntary	
+འཕྲག་		
+འཕྲངས་		
+འཕྲད་	Involuntary	Abs-Ass
+འཕྲབ་		
+འཕྲལ་	Voluntary	Abs? Ass
+འཕྲི་	Voluntary	Erg-Abs
+འཕྲིག་	Involuntary	
+འཕྲུ་		
+འཕྲུག་	Voluntary	Erg-Abs
+འཕྲུལ་	Involuntary	
+འཕྲེ་		
+འཕྲེང་	Involuntary	
+འཕྲོ་	Involuntary	Abs-Abl
+འཕྲོག་	Voluntary	Erg-Abs
+འཕྲོད་	Involuntary	Abs
+བད་	Involuntary	
+བམ་	Involuntary	
+བུད་	Involuntary	Abs-Obl
+བུར་		
+བུལ་		
+བེམ་		
+བོན་		
+བོར་	Involuntary	
+བྱང་		
+བྱབ་	Voluntary	
+བྱམས་	Involuntary	
+བྱིབ་		
+བྱིལ་		
+བྱེད་	Voluntary	Erg-Abs
+བྱེར་		
+བྱོ་		
+བྲ་		
+བྲན་	Voluntary	
+བྲིན་	Involuntary	
+བྲུག་	Involuntary	
+བྲེ་	Voluntary	Erg-Abs
+བྲེད་	Involuntary	
+བྲེལ་	InvoluntaryVoluntary	
+བྲོ་	Involuntary	Obl-Abs
+བྲོད་		
+བླག་	Voluntary	
+བླད་	Voluntary	
+བླས་		
+བླུ་	Voluntary	
+བློང་		
+བློད་		
+བློན་		
+དབང་	InvoluntaryVoluntary	Erg-Obl
+དབུར་	Voluntary	
+དབུལ་	Involuntary	Abs-Instr
+དབེན་	Involuntary	Abs-Instr
+དབོལ་		
+དབོས་		
+དབྱིན་		
+དབྱུག་	Voluntary	
+དབྱུང་		
+དབྱེ་		
+དབྱེན་		
+དབྲོག་		
+དབྲོལ་	Voluntary	
+འབགས་	Involuntary	
+འབང་√1	Involuntary	
+འབང་√2		
+འབད་	Voluntary	Erg-Obl
+འབབ་√1	VoluntaryInvoluntary	Abs-Obl
+འབབ་√2	Voluntary	Erg-Abs
+འབའ་	Involuntary	
+འབར་	Involuntary	Abs
+འབལ་	Voluntary	
+འབིག་		
+འབིགས་√1	Voluntary	Erg-Abs
+འབིགས་√2	Voluntary	
+འབུ་	Involuntary	
+འབུག་		
+འབུགས་		
+འབུང་	Voluntary	
+འབུད་√1	Voluntary	
+འབུད་√2	Voluntary	
+འབུད་√3		
+འབུན་		
+འབུབ་		
+འབུབས་	Voluntary	
+འབུར་	Involuntary	
+འབུལ་	Voluntary	
+འབེབས་	Voluntary	
+འབོ་√1	Voluntary	
+འབོ་√2	Involuntary	
+འབོག་√1	Voluntary	
+འབོག་√2	Involuntary	Abs-Obl
+འབོགས་	Voluntary	Erg-Abs
+འབོད་	Voluntary	Erg-Abs
+འབོར་	VoluntaryInvoluntary	Erg-Abs
+འབྱང་	Involuntary	
+འབྱམ་	Involuntary	
+འབྱི་	Involuntary	
+འབྱིང་	Involuntary	Abs-Obl
+འབྱིད་√1	VoluntaryInvoluntary	
+འབྱིད་√2	Voluntary	
+འབྱིད་√3	Involuntary	
+འབྱིན་	Voluntary	Erg-Abs
+འབྱིལ་	VoluntaryInvoluntary	
+འབྱུག་	Voluntary	Erg-Obl
+འབྱུང་	Involuntary	Abs-Obl
+འབྱེ་	Involuntary	Abs-Obl
+འབྱེད་	Voluntary	Erg-Abs
+འབྱེར་	InvoluntaryVoluntary	
+འབྱེས་		
+འབྱོ་	Voluntary	
+འབྱོག་	Voluntary	
+འབྱོང་√1	Involuntary	
+འབྱོང་√2	Involuntary	
+འབྱོང་√3	Voluntary	
+འབྱོན་√1	Voluntary	Abs-Obl
+འབྱོན་√2		
+འབྱོར་√1	Involuntary	Obl-Abs
+འབྱོར་√2	Involuntary	
+འབྱོལ་	Voluntary	
+འབྲ་	Voluntary	
+འབྲང་	Voluntary	Erg-Abs
+འབྲབ་	Voluntary	
+འབྲལ་	VoluntaryInvoluntary	Abs-Ass
+འབྲི་√1	Voluntary	Erg-Abs
+འབྲི་√2	Involuntary	Abs-Obl
+འབྲི་√3		
+འབྲིད་		
+འབྲིམ་	Voluntary	
+འབྲུད་		
+འབྲུབ་√1	Voluntary	
+འབྲུབ་√2	Involuntary	
+འབྲུལ་	Involuntary	
+འབྲེ་		
+འབྲེད་		
+འབྲེལ་	Involuntary	Abs-Ass
+འབྲོང་		
+འབྲོས་	Voluntary	Abs-Obl
+རྦོད་	VoluntaryInvoluntary	
+ལྦོས་		
+སྦག་	Voluntary	
+སྦར་	Voluntary	
+སྦལ་		
+སྦིར་		
+སྦུང་	Voluntary	
+སྦུད་		
+སྦུབ་	Voluntary	
+སྦེ་		
+སྦེད་	Voluntary	Erg-Abs
+སྦོ་	Involuntary	Abs-Obl
+སྦོང་	Voluntary	
+སྦོན་		
+སྦོམ་	Voluntary	Erg-Abs
+སྦོར་	Voluntary	
+སྦོལ་	Voluntary	
+སྦྱག་		
+སྦྱིག་		
+སྦྱིན་	Voluntary	Erg-Abs
+སྦྱོང་	Voluntary	Erg-Abs
+སྦྱོར་	Voluntary	Erg-Abs
+སྦྲག་	VoluntaryInvoluntary	Abs-Ass
+སྦྲིད་	Involuntary	
+སྦྲིབ་		
+སྦྲུ་	VoluntaryInvoluntary	
+སྦྲུམ་	Involuntary	
+སྦྲེ་		
+སྦྲེག་		
+སྦྲེང་	VoluntaryInvoluntary	
+སྦྲེབ་		
+སྦྲེལ་	VoluntaryInvoluntary	Abs-Ass
+སྦྲོན་	Voluntary	
+མང་	Involuntary	
+མལ་		
+མིད་	Voluntary	Erg-Abs
+མིན་		Abs-Abs
 མིན་√x
-མུག་
-མུལ་
-མེད་√1
+མུག་		
+མུལ་		
+མེད་√1		Abs-Obl
 མེད་√x
-མེད་√2
-མེད་√3
-མེར་
-མོག་
-མོལ་
-མོས་
-མྱག་
-མྱུག་
-མྱུར་
-མྱུལ་√1
-མྱུལ་√2
-མྱོང་√1
-མྱོང་√2
-མྱོས་
-དམད་
-དམན་
-དམའ་
-དམིགས་√1
-དམིགས་√2
-དམུར་
-དམུལ་
-དམུས་
-དམེ་
-དམོད་
-དམྱལ་
-དམྱུག་√1
-དམྱུག་√2
-དམྱུག་√3
-རྨ་√1
-རྨ་√2
-རྨི་
-རྨུག་
-རྨུར་
-རྨུས་
-རྨེ་
-རྨེད་
-རྨེལ་
-རྨོང་
-རྨོད་
-རྨྱ་
-རྨྱོང་
-སྨན་
-སྨིན་
-སྨོ་
-སྨོད་
-སྨོན་
-སྨྱན་
-སྨྱུག་
-སྨྱུང་
-སྨྱུར་
-སྨྱོ་
-སྨྲ་
-སྨྲང་
-སྨྲེ་
-གཙག་
-གཙབ་
-གཙི་
-གཙིགས་
-གཙུག་
-གཙུབ་
-གཙེར་
-བཙན་
-བཙའ་√1
-བཙའ་√2
-རྩབ་
-རྩལ་
-རྩི་
-རྩིག་
-རྩིང་
-རྩུབ་
-རྩེ་
-རྩེག་
-རྩེང་
-རྩེན་
-རྩོད་
-རྩོམ་
-རྩོལ་
-སྩེལ་
-སྩོག་
-སྩོལ་
-བརྩུ་
-བརྩེ་√1
-བརྩེ་√2
-བརྩེད་
-བརྩོན་
-ཚ་
-ཚང་
-ཚངས་
-ཚད་
-ཚར་
-ཚིམ་
-ཚུགས་√1
-ཚུགས་√2
-ཚུད་
-ཚེགས་
-ཚེང་
-ཚེམས་
-ཚེས་
-ཚོགས་
-ཚོམ་
-ཚོར་
-ཚོས་
-མཚན་
-མཚར་
-མཚུངས་
+མེད་√2		Abs-Instr
+མེད་√3		Obl-Abs
+མེར་	Involuntary	
+མོག་		
+མོལ་	Voluntary	
+མོས་	Involuntary	Abs-Obl
+མྱག་	Involuntary	
+མྱུག་	Voluntary	
+མྱུར་		
+མྱུལ་√1	Involuntary	
+མྱུལ་√2	Voluntary	
+མྱོང་√1	Voluntary	Erg-Abs
+མྱོང་√2	Involuntary	
+མྱོས་	Involuntary	
+དམད་		
+དམན་	Involuntary	Abs-Obl
+དམའ་	Involuntary	
+དམིགས་√1	Voluntary	
+དམིགས་√2	Involuntary	Erg-Obl
+དམུར་	Voluntary	
+དམུལ་	Voluntary	Erg-Abs
+དམུས་	Involuntary	
+དམེ་		
+དམོད་	Voluntary	
+དམྱལ་		
+དམྱུག་√1	Voluntary	
+དམྱུག་√2	Voluntary	
+དམྱུག་√3	Involuntary	
+རྨ་√1	Involuntary	
+རྨ་√2		Erg-All
+རྨི་	Involuntary	
+རྨུག་	InvoluntaryVoluntary	
+རྨུར་	InvoluntaryVoluntary	
+རྨུས་		
+རྨེ་		
+རྨེད་	Voluntary	
+རྨེལ་	Voluntary	
+རྨོང་	Involuntary	Abs-Obl
+རྨོད་	Voluntary	
+རྨྱ་	Involuntary	
+རྨྱོང་	Voluntary	
+སྨན་	Involuntary	Abs-Obl
+སྨིན་	Involuntary	Abs-Obl
+སྨོ་	Voluntary	Erg-Abs
+སྨོད་	Voluntary	Erg-Obl
+སྨོན་	VoluntaryInvoluntary	Erg-Obl
+སྨྱན་		
+སྨྱུག་		
+སྨྱུང་	Voluntary	
+སྨྱུར་		
+སྨྱོ་	Involuntary	Abs-Obl
+སྨྲ་	Voluntary	Erg-Abs
+སྨྲང་		
+སྨྲེ་		
+གཙག་	Voluntary	
+གཙབ་	Voluntary	
+གཙི་	Voluntary	
+གཙིགས་	InvoluntaryVoluntary	
+གཙུག་		
+གཙུབ་	Voluntary	
+གཙེར་	Voluntary	
+བཙན་	Involuntary	
+བཙའ་√1	Involuntary	Erg-Abs
+བཙའ་√2	Involuntary	Erg-Abs
+རྩབ་		
+རྩལ་		Abs-Instr
+རྩི་	Voluntary	Erg-Abs
+རྩིག་	Voluntary	Erg-Abs
+རྩིང་		
+རྩུབ་	Involuntary	
+རྩེ་	Voluntary	Erg-Abs
+རྩེག་	Voluntary	
+རྩེང་	Voluntary	
+རྩེན་	Involuntary	Abs-Obl
+རྩོད་	Voluntary	Erg-Abs
+རྩོམ་	Voluntary	Erg-Abs
+རྩོལ་	Voluntary	Erg-Abs
+སྩེལ་		
+སྩོག་		
+སྩོལ་	Voluntary	Erg-Abs
+བརྩུ་		
+བརྩེ་√1	Involuntary	Abs-Obl
+བརྩེ་√2	Involuntary	
+བརྩེད་	Involuntary	
+བརྩོན་	Voluntary	Erg-Obl
+ཚ་	Involuntary	
+ཚང་	Involuntary	Abs-Obl
+ཚངས་		
+ཚད་	Voluntary	
+ཚར་	InvoluntaryVoluntary	Erg-Abs
+ཚིམ་	Involuntary	Abs-Obl
+ཚུགས་√1		
+ཚུགས་√2	Involuntary	Erg-Abs
+ཚུད་		
+ཚེགས་		
+ཚེང་		
+ཚེམས་		
+ཚེས་	Involuntary	
+ཚོགས་	Involuntary	Abs-Obl
+ཚོམ་		
+ཚོར་	Involuntary	Abs-Obl
+ཚོས་	Involuntary	
+མཚན་	Voluntary	Erg-Abs
+མཚར་		Abs-Obl
+མཚུངས་		Abs-Ass
 མཚུངས་√x
-མཚེར་
-མཚོན་
-འཚག་√1
-འཚག་√2
-འཚང་√1
-འཚང་√2
-འཚང་√3
-འཚབ་√1
-འཚབ་√2
-འཚམ་√1
-འཚམ་√2
-འཚར་
-འཚལ་√1
-འཚལ་√2
-འཚིག་
-འཚིར་√1
-འཚིར་√2
-འཚིར་√3
-འཚུགས་
-འཚུད་
-འཚུབ་
-འཚེ་√1
-འཚེ་√2
-འཚེག་
-འཚེང་
-འཚེམ་√1
-འཚེམ་√2
-འཚེར་
-འཚོ་√1
-འཚོ་√2
-འཚོག་
-འཚོགས་
-འཚོང་
-འཚོད་
-འཚོབ་√1
-འཚོབ་√2
-འཚོམས་
-འཚོལ་
-འཚོས་
-མཛངས་
-མཛད་
-མཛའ་
-མཛེས་
-འཛག་√1
-འཛག་√2
-འཛད་
-འཛབ་
-འཛའ་
-འཛར་√1
-འཛར་√2
-འཛི་
-འཛིང་√1
-འཛིང་√2
-འཛིན་
-འཛིར་
-འཛུ་
-འཛུགས་
-འཛུད་
-འཛུམ་
-འཛུམས་
-འཛུར་√1
-འཛུར་√2
-འཛུལ་
-འཛེག་
-འཛེང་
-འཛེད་
-འཛེམ་
-འཛེར་√1
-འཛེར་√2
-འཛེར་√3
-འཛེར་√4
-འཛོམ་
-འཛོལ་
-རྫི་
-རྫུ་
-རྫུན་
-རྫེ་
-རྫོགས་
-རྫོང་
-རྫོད་
-རྫོབ་
-ཞར་
-ཞལ་
-ཞི་
-ཞུ་√1
-ཞུ་√2
-ཞུགས་
-ཞུད་
-ཞུམ་
-ཞུར་
-ཞུལ་
-ཞེད་
-ཞེན་
-ཞོགས་
-ཞོན་
-ཞོམ་
-གཞགས་
-གཞབས་
-གཞའ་√1
-གཞའ་√2
-གཞའ་√3
-གཞར་
-གཞིག་
-གཞིབ་
-གཞུ་
-གཞུག་
-གཞུང་
-གཞུད་
-གཞུན་
-གཞུར་√1
-གཞུར་√2
-གཞེན་
-གཞེར་
-གཞེས་
-གཞོག་
-གཞོབ་
-གཞོམ་√1
-གཞོམ་√2
-གཞོལ་√1
-གཞོལ་√2
-བཞག་
-བཞད་√1
-བཞད་√2
-བཞའ་
-བཞུགས་
-བཞུད་
-བཞུར་
-བཞེང་√1
-བཞེང་√2
-བཞེད་
-བཞེས་√1
-བཞེས་√2
-ཟ་√1
-ཟ་√2
-ཟ་√3
-ཟག་
-ཟད་
-ཟན་
-ཟིང་
-ཟིན་
-ཟུག་
-ཟུབ་
-ཟུམ་
-ཟེགས་√1
-ཟེགས་√2
-ཟེམ་
-ཟེར་√1
-ཟེར་√2
-ཟོན་
-ཟླ་
-ཟླུག་√1
-ཟླུག་√2
-ཟླུག་√3
-ཟླུམ་
-ཟློ་√1
-ཟློ་√2
-ཟློག་
-ཟློས་
-གཟགས་
-གཟན་
-གཟབ་
-གཟའ་
-གཟར་
-གཟས་
-གཟིགས་√1
-གཟིགས་√2
-གཟིགས་√3
-གཟིང་
-གཟིམ་
-གཟིར་
-གཟུང་
-གཟེང་
-གཟེད་
-གཟེར་
-གཟོ་
-གཟོན་
-བཟི་
-བཟོ་
-བཟོད་
-བཟོར་
-འབ་
-འུབ་
-འུར་
-འོང་
-འོན་
-འོར་
-འོས་
-ཡན་
-ཡར་
-ཡལ་
-ཡས་
-ཡིན་
-ཡིབ་
-ཡིབས་
-ཡུམ་
-ཡུར་√1
-ཡུར་√2
-ཡེར་√1
-ཡེར་√2
-ཡོ་
-ཡོག་
-ཡོང་
-ཡོད་
+མཚེར་	VoluntaryInvoluntary	
+མཚོན་	Voluntary	Erg-Abs
+འཚག་√1	Involuntary	Erg-Abs
+འཚག་√2	Voluntary	Erg-Abs
+འཚང་√1	InvoluntaryVoluntary	Abs-Obl
+འཚང་√2	Voluntary	Erg-Abs
+འཚང་√3	Involuntary	
+འཚབ་√1	VoluntaryInvoluntary	
+འཚབ་√2	Voluntary	
+འཚམ་√1	Involuntary	
+འཚམ་√2	Voluntary	
+འཚར་	Involuntary	
+འཚལ་√1	Voluntary	Erg-Abs
+འཚལ་√2	Involuntary	Abs-Obl
+འཚིག་	Involuntary	Erg-Abs
+འཚིར་√1	Voluntary	
+འཚིར་√2		
+འཚིར་√3		
+འཚུགས་	Involuntary	
+འཚུད་	Involuntary	Abs-Obl
+འཚུབ་	Involuntary	
+འཚེ་√1	Voluntary	Erg-Abs
+འཚེ་√2		
+འཚེག་		
+འཚེང་	Involuntary	
+འཚེམ་√1	Voluntary	
+འཚེམ་√2	Involuntary	
+འཚེར་	Involuntary	
+འཚོ་√1	Involuntary	Abs-Obl
+འཚོ་√2	Voluntary	
+འཚོག་	Voluntary	Erg-Abs
+འཚོགས་	Voluntary	Erg-Abs
+འཚོང་	Voluntary	Erg-Abs
+འཚོད་	Voluntary	Erg-Abs
+འཚོབ་√1	Involuntary	
+འཚོབ་√2		
+འཚོམས་	Involuntary	
+འཚོལ་	Voluntary	Erg-Abs
+འཚོས་	Involuntary	
+མཛངས་		
+མཛད་	Voluntary	Erg-Abs
+མཛའ་	Involuntary	
+མཛེས་	Involuntary	Erg-Abs
+འཛག་√1	Involuntary	Abs-Obl
+འཛག་√2		
+འཛད་	Involuntary	Abs-Obl
+འཛབ་		
+འཛའ་	VoluntaryInvoluntary	Erg-Abs
+འཛར་√1	Involuntary	Abs-Obl
+འཛར་√2		
+འཛི་		
+འཛིང་√1	Voluntary	Erg-Abs
+འཛིང་√2	Involuntary	Abs-Obl
+འཛིན་	Voluntary	Erg-Abs
+འཛིར་	Involuntary	
+འཛུ་		
+འཛུགས་	Voluntary	Erg-Abs
+འཛུད་	Voluntary	Erg-Abs
+འཛུམ་	InvoluntaryVoluntary	
+འཛུམས་	Voluntary	
+འཛུར་√1	Voluntary	Abs-Abl
+འཛུར་√2		
+འཛུལ་	Voluntary	Abs
+འཛེག་	Voluntary	Erg-Obl
+འཛེང་		
+འཛེད་	Voluntary	
+འཛེམ་	Voluntary	Erg-Obl
+འཛེར་√1		
+འཛེར་√2		
+འཛེར་√3	Involuntary	
+འཛེར་√4		
+འཛོམ་	InvoluntaryVoluntary	Abs
+འཛོལ་	Involuntary	
+རྫི་	Voluntary	Erg-Obl
+རྫུ་	Voluntary	
+རྫུན་		Abs-Obl
+རྫེ་	Voluntary	
+རྫོགས་	Involuntary	Abs
+རྫོང་	Voluntary	
+རྫོད་	Voluntary	
+རྫོབ་	Voluntary	
+ཞར་	Involuntary	
+ཞལ་		
+ཞི་	Involuntary	Abs-Obl
+ཞུ་√1	Voluntary	Erg-Abs
+ཞུ་√2	Involuntary	Abs-Obl
+ཞུགས་	Involuntary	
+ཞུད་	Involuntary	
+ཞུམ་	Involuntary	Abs-Obl
+ཞུར་		
+ཞུལ་		
+ཞེད་	Involuntary	
+ཞེན་	Involuntary	Abs-Obl
+ཞོགས་		
+ཞོན་	Voluntary	Abs-Obl
+ཞོམ་	Involuntary	
+གཞགས་	Involuntary	
+གཞབས་	Voluntary	
+གཞའ་√1		
+གཞའ་√2		
+གཞའ་√3		
+གཞར་	VoluntaryInvoluntary	
+གཞིག་	Voluntary	Erg-Obl
+གཞིབ་		
+གཞུ་	Voluntary	
+གཞུག་		
+གཞུང་		
+གཞུད་		
+གཞུན་		
+གཞུར་√1	Voluntary	
+གཞུར་√2	Voluntary	
+གཞེན་		
+གཞེར་		
+གཞེས་		
+གཞོག་	Voluntary	
+གཞོབ་	Involuntary	
+གཞོམ་√1		
+གཞོམ་√2		
+གཞོལ་√1	Involuntary	Erg-Obl
+གཞོལ་√2	Voluntary	Erg-Obl
+བཞག་	Involuntary	
+བཞད་√1	Voluntary	
+བཞད་√2		
+བཞའ་		
+བཞུགས་	Voluntary	Abs-Obl
+བཞུད་	VoluntaryInvoluntary	
+བཞུར་		
+བཞེང་√1	Voluntary	Erg-Abs
+བཞེང་√2	Involuntary	
+བཞེད་	InvoluntaryVoluntary	Erg-Abs
+བཞེས་√1	Voluntary	Erg-Abs
+བཞེས་√2		
+ཟ་√1	Involuntary	Abs-Obl
+ཟ་√2	Voluntary	Erg-Abs
+ཟ་√3	Involuntary	Abs-Obl
+ཟག་	Involuntary	Abs-Obl
+ཟད་		
+ཟན་		
+ཟིང་	Involuntary	
+ཟིན་	InvoluntaryVoluntary	Abs-Instr
+ཟུག་	Involuntary	Abs
+ཟུབ་	Involuntary	
+ཟུམ་	Involuntary	
+ཟེགས་√1		
+ཟེགས་√2		
+ཟེམ་		
+ཟེར་√1	InvoluntaryVoluntary	Erg-Abs
+ཟེར་√2	Involuntary	Obl-Abs
+ཟོན་		
+ཟླ་	Involuntary	
+ཟླུག་√1	Voluntary	
+ཟླུག་√2	Voluntary	
+ཟླུག་√3	Voluntary	
+ཟླུམ་	Voluntary	
+ཟློ་√1	Voluntary	
+ཟློ་√2	Voluntary	
+ཟློག་	Voluntary	Erg-Abs
+ཟློས་	Involuntary	
+གཟགས་	Voluntary	
+གཟན་	Involuntary	
+གཟབ་	Voluntary	
+གཟའ་	Involuntary	
+གཟར་	Voluntary	Erg-Abs
+གཟས་	Voluntary	Erg-Abs
+གཟིགས་√1	Voluntary	Erg-Obl
+གཟིགས་√2	VoluntaryInvoluntary	Erg-Abs
+གཟིགས་√3	Voluntary	Erg-Abs
+གཟིང་	Involuntary	
+གཟིམ་	VoluntaryInvoluntary	
+གཟིར་	Voluntary	Erg-Abs
+གཟུང་		
+གཟེང་	InvoluntaryVoluntary	
+གཟེད་	Voluntary	
+གཟེར་		
+གཟོ་	Voluntary	Erg-Abs
+གཟོན་	Voluntary	Erg-Abs
+བཟི་	Involuntary	
+བཟོ་	VoluntaryInvoluntary	Erg-Abs
+བཟོད་	Involuntary	Abs-Obl
+བཟོར་		
+འབ་		
+འུབ་		
+འུར་	Involuntary	
+འོང་	VoluntaryInvoluntary	Abs
+འོན་	Involuntary	
+འོར་	Voluntary	
+འོས་	Involuntary	Abs-Obl
+ཡན་	Involuntary	
+ཡར་	Involuntary	Abs-Obl
+ཡལ་	Involuntary	Abs-Obl
+ཡས་		
+ཡིན་		Abs-Abs
+ཡིབ་	Voluntary	
+ཡིབས་		
+ཡུམ་		
+ཡུར་√1		
+ཡུར་√2	Involuntary	
+ཡེར་√1	Voluntary	
+ཡེར་√2	Involuntary	
+ཡོ་	Involuntary	
+ཡོག་	Voluntary	
+ཡོང་	InvoluntaryVoluntary	Abs
+ཡོད་	Involuntary	Abs-Obl
 ཡོད་√x
-ཡོབ་
-ཡོམ་
-ཡོར་
-ཡོལ་
-གཡན་
-གཡའ་
-གཡལ་
-གཡས་
-གཡིག་
-གཡུག་
-གཡུང་
-གཡུར་
-གཡུལ་
-གཡེང་√1
-གཡེང་√2
-གཡེམ་
-གཡེར་
-གཡེལ་
-གཡོ་√1
-གཡོ་√2
-གཡོག་
-གཡོབ་
-གཡོར་√1
-གཡོར་√2
-གཡོལ་
-རག་
-རང་
-རན་
-རལ་
-རི་
-རིག་
-རིགས་
+ཡོབ་		
+ཡོམ་		
+ཡོར་	Involuntary	
+ཡོལ་	Involuntary	
+གཡན་		
+གཡའ་	Involuntary	
+གཡལ་	Involuntary	
+གཡས་		
+གཡིག་	Involuntary	
+གཡུག་	VoluntaryInvoluntary	
+གཡུང་		
+གཡུར་		
+གཡུལ་		
+གཡེང་√1	Involuntary	Abs-Obl
+གཡེང་√2	Involuntary	
+གཡེམ་		
+གཡེར་	Involuntary	
+གཡེལ་	InvoluntaryVoluntary	Abs-Obl
+གཡོ་√1	Voluntary	Erg-Abs
+གཡོ་√2	Involuntary	Abs-Obl
+གཡོག་	VoluntaryInvoluntary	Erg-Abs
+གཡོབ་	Voluntary	
+གཡོར་√1	Voluntary	Erg-Obl-Abs
+གཡོར་√2	Voluntary	
+གཡོལ་	Voluntary	
+རག་	Involuntary	Obl-Abs
+རང་	Involuntary	Abs-Obl
+རན་	Involuntary	Abs
+རལ་	Involuntary	Abs
+རི་	Involuntary	
+རིག་	Involuntary	Abs-Obl
+རིགས་	Involuntary	Abs-Obl
 རིགས་√x
-རིངས་
-རིད་
-རིལ་
-རུག་
-རུང་
-རུད་
-རུབ་√1
-རུབ་√2
-རུམ་
-རུལ་
-རེ་
-རེག་
-རེགས་
-རེང་
-རེད་√1
-རེད་√2
+རིངས་		
+རིད་		
+རིལ་	Involuntary	
+རུག་	Voluntary	
+རུང་	Involuntary	Abs-Obl
+རུད་	Involuntary	
+རུབ་√1	Involuntary	
+རུབ་√2	Voluntary	
+རུམ་	Voluntary	
+རུལ་	Involuntary	
+རེ་	Involuntary	
+རེག་	Voluntary	Abs-Obl
+རེགས་		
+རེང་	Involuntary	
+རེད་√1	Involuntary	
+རེད་√2		
 རེད་√x
-རེམ་
-རོལ་
-རླག་
-རླན་
-རླབ་
-རླམ་
-རླིང་
-རླུག་√1
-རླུག་√2
-རློ་
-རློག་
-རློང་
-རློན་
-རློབ་
-རློམ་√1
-རློམ་√2
-རློམ་√3
-བརླག་
-ལང་√1
-ལང་√2
-ལང་√3
-ལད་
-ལན་
-ལབ་
-ལམ་
-ལས་
-ལུ་
-ལུག་√1
-ལུག་√2
-ལུག་√3
-ལུད་
-ལུམ་
-ལུས་
-ལེགས་
-ལེན་
-ལོ་
-ལོག་
-ལོང་
-ལོད་
-ལོན་√1
-ལོན་√2
-ལོབ་
-ཤད་
-ཤན་
-ཤབ་
-ཤལ་
-ཤིག་√1
-ཤིག་√2
-ཤིང་
-ཤིབ་
-ཤིལ་
-ཤིས་
-ཤུང་
-ཤུད་√1
-ཤུད་√2
-ཤུབ་
-ཤུམ་
-ཤུལ་
-ཤེན་
-ཤེར་
-ཤེས་
-ཤོག་
-ཤོང་
-ཤོལ་
-གཤགས་
-གཤར་
-གཤལ་
-གཤིན་
-གཤིབ་
-གཤུ་
-གཤུག་
-གཤུང་
-གཤུད་
-གཤུར་
-གཤེ་
-གཤེགས་
-གཤེར་√1
-གཤེར་√2
-གཤོ་
-གཤོག་
-གཤོང་
-གཤོམ་
-གཤོར་√1
-གཤོར་√2
-གཤོར་√3
-གཤོར་√4
-བཤང་
-བཤའ་
-བཤལ་
-བཤིགས་
-བཤིབ་
-བཤུད་
-བཤེད་
-བཤེས་
-བཤོ་
-སངས་√1
-སངས་√2
-སངས་√3
-སད་√1
-སད་√2
-སིང་
-སིམ་
-སུག་
-སུད་
-སུན་
-སུབ་
-སུམ་
-སེག་
-སེང་
-སེམས་
-སེར་
-སེལ་
-སོགས་
-སོང་
-སོད་
-སོན་√1
-སོན་√2
-སོས་
-སྲ་
-སྲད་√1
-སྲད་√2
-སྲན་
-སྲབ་
-སྲི་√1
-སྲི་√2
-སྲིང་
-སྲིད་
+རེམ་	Voluntary	
+རོལ་	Voluntary	Erg-Abs
+རླག་		
+རླན་		
+རླབ་		
+རླམ་		
+རླིང་		
+རླུག་√1	InvoluntaryVoluntary	
+རླུག་√2	Involuntary	
+རློ་	Involuntary	
+རློག་	Voluntary	
+རློང་	Voluntary	
+རློན་	Voluntary	Erg-Abs
+རློབ་	Voluntary	Erg-Abs
+རློམ་√1	Voluntary	
+རློམ་√2	Involuntary	Abs-Obl
+རློམ་√3		
+བརླག་	Involuntary	Abs-Obl
+ལང་√1	Voluntary	Abs-Abl
+ལང་√2	Involuntary	
+ལང་√3	Involuntary	Abs-Obl
+ལད་	Involuntary	Abs-Obl
+ལན་		
+ལབ་	Voluntary	Erg-Obl-Abs
+ལམ་		
+ལས་	Voluntary	Erg-Abs
+ལུ་	Involuntary	
+ལུག་√1		
+ལུག་√2	Involuntary	
+ལུག་√3	Voluntary	
+ལུད་	Involuntary	
+ལུམ་		
+ལུས་	Involuntary	Abs-Obl
+ལེགས་		
+ལེན་	Voluntary	Erg-Abs
+ལོ་	Involuntary	
+ལོག་	InvoluntaryVoluntary	Abs
+ལོང་	Involuntary	Abs-Obl
+ལོད་		
+ལོན་√1	Involuntary	Abs-Obl
+ལོན་√2		
+ལོབ་	Involuntary	Abs-Obl
+ཤད་	Voluntary	
+ཤན་		
+ཤབ་	Involuntary	
+ཤལ་		
+ཤིག་√1		
+ཤིག་√2		
+ཤིང་		
+ཤིབ་		
+ཤིལ་		
+ཤིས་		
+ཤུང་		
+ཤུད་√1	Voluntary	
+ཤུད་√2		
+ཤུབ་	Voluntary	Erg-Abs
+ཤུམ་	Voluntary	
+ཤུལ་		
+ཤེན་		
+ཤེར་	Voluntary	
+ཤེས་	Involuntary	Erg-Abs
+ཤོག་		
+ཤོང་	Involuntary	
+ཤོལ་	VoluntaryInvoluntary	
+གཤགས་		
+གཤར་	Voluntary	
+གཤལ་	Voluntary	
+གཤིན་		
+གཤིབ་	Voluntary	
+གཤུ་	Voluntary	Erg-Abs
+གཤུག་	Voluntary	Erg-Obl
+གཤུང་	Voluntary	
+གཤུད་	VoluntaryInvoluntary	
+གཤུར་	Voluntary	
+གཤེ་	Voluntary	
+གཤེགས་	VoluntaryInvoluntary	Abs-Obl
+གཤེར་√1		
+གཤེར་√2		
+གཤོ་	VoluntaryInvoluntary	
+གཤོག་	Voluntary	Erg-Abs
+གཤོང་	Voluntary	
+གཤོམ་	Voluntary	Erg-Abs
+གཤོར་√1	Voluntary	
+གཤོར་√2	Voluntary	
+གཤོར་√3	Voluntary	
+གཤོར་√4	Voluntary	
+བཤང་		
+བཤའ་	VoluntaryInvoluntary	
+བཤལ་	Involuntary	
+བཤིགས་		
+བཤིབ་		
+བཤུད་		
+བཤེད་		
+བཤེས་		
+བཤོ་		
+སངས་√1	Involuntary	
+སངས་√2	Involuntary	
+སངས་√3	Voluntary	
+སད་√1	Involuntary	Erg-Abs
+སད་√2	Voluntary	
+སིང་		
+སིམ་	Involuntary	Abs-Obl
+སུག་		
+སུད་		
+སུན་	Involuntary	Abs-Obl
+སུབ་	Voluntary	
+སུམ་	Voluntary	
+སེག་	Involuntary	
+སེང་	Involuntary	Abs-Obl
+སེམས་	VoluntaryInvoluntary	Erg-Abs
+སེར་		
+སེལ་	Voluntary	Erg-Abs
+སོགས་	Involuntary	
+སོང་		Abs-Obl
+སོད་		
+སོན་√1	Involuntary	Abs-Obl
+སོན་√2		
+སོས་	VoluntaryInvoluntary	Abs-Obl
+སྲ་		
+སྲད་√1	Involuntary	
+སྲད་√2	Voluntary	
+སྲན་	Voluntary	
+སྲབ་	InvoluntaryVoluntary	Erg-Abs
+སྲི་√1	Voluntary	
+སྲི་√2	Voluntary	
+སྲིང་	VoluntaryInvoluntary	Erg-Abs
+སྲིད་	Involuntary	Abs-Obl
 སྲིད་√x
-སྲིབ་√1
-སྲིབ་√2
-སྲུང་
-སྲུན་
-སྲུབ་
-སྲུལ་
-སྲུས་
-སྲེ་
-སྲེག་
-སྲེད་
-སྲེལ་
-སྲོ་
-སྲོང་
-སྲོས་
-སླ་√1
-སླ་√2
-སླག་
-སླང་
-སླན་
-སླམ་
-སླུ་
-སླེ་
-སླེབ་√1
-སླེབ་√2
-སློག་
-སློང་
-སློད་
-སློན་
-སློབ་
-གསག་
-གསན་
-གསབ་
-གསལ་
-གསིག་
-གསིང་
-གསིད་
-གསིར་
-གསིལ་√1
-གསིལ་√2
-གསུང་√1
-གསུང་√2
-གསེ་
-གསེག་
-གསེང་
-གསེད་
-གསོ་√1
-གསོ་√2
-གསོག་√1
-གསོག་√2
-གསོག་√3
-གསོང་√1
-གསོང་√2
-གསོད་
-གསོན་√1
-གསོན་√2
-གསོབ་
-གསོར་√1
-གསོར་√2
-གསོལ་
-བསལ་
-བསིད་
-བསིར་
-བསིལ་
-བསུ་
-བསུར་
-བསེགས་
-བསེང་
-བསེར་
-བསོད་
-བསྲལ་
-ཧང་
-ཧད་
-ཧབ་
-ཧར་
-ཧལ་
-ཧས་
-ཧུང་
-ཧུར་
-ཧོམ་
-ཧོལ་
-ཧྲག་
-ཧྲད་
-ཧྲལ་
-ཧྲིག་
-ཧྲིངས་
-ཧྲུམ་
-ཧྲུལ་
-ཧྲེང་
-ཧྲེམ་
-ཧྲོམ་
-ལྷ་
-ལྷག་
-ལྷགས་
-ལྷན་
-ལྷས་
-ལྷུང་
-ལྷོང་
-ལྷོད་
-ལྷོན་
+སྲིབ་√1	VoluntaryInvoluntary	
+སྲིབ་√2	Voluntary	
+སྲུང་	Voluntary	Erg-Abs
+སྲུན་	Voluntary	Erg-Abs
+སྲུབ་	Voluntary	
+སྲུལ་	Voluntary	
+སྲུས་		
+སྲེ་	Voluntary	Abs-Ass./Instr
+སྲེག་	Voluntary	Erg-Abs
+སྲེད་	Involuntary	Abs-Obl
+སྲེལ་	Voluntary	Erg-Abs
+སྲོ་	Voluntary	
+སྲོང་	Voluntary	
+སྲོས་	Involuntary	
+སླ་√1	Involuntary	Abs-Obl
+སླ་√2	Voluntary	Erg-Abs
+སླག་		
+སླང་		Abs-Obl
+སླན་		
+སླམ་		
+སླུ་	Voluntary	Erg-Abs
+སླེ་	Voluntary	
+སླེབ་√1	Involuntary	Abs
+སླེབ་√2	Voluntary	
+སློག་	Voluntary	
+སློང་	Voluntary	Erg-Abs
+སློད་	Voluntary	Erg-Abs
+སློན་	Voluntary	
+སློབ་	Voluntary	Erg-Abs
+གསག་		
+གསན་	Voluntary	Erg-Abs
+གསབ་	Voluntary	
+གསལ་		Abs-Obl
+གསིག་	Voluntary	
+གསིང་	Voluntary	
+གསིད་		
+གསིར་	Voluntary	
+གསིལ་√1	VoluntaryInvoluntary	Erg-Abs
+གསིལ་√2	Voluntary	Erg-Abs
+གསུང་√1	Voluntary	Erg-Obl-Abs
+གསུང་√2		Obl-Abs
+གསེ་	VoluntaryInvoluntary	
+གསེག་	Voluntary	
+གསེང་		
+གསེད་	Voluntary	
+གསོ་√1	Voluntary	Erg-Abs
+གསོ་√2	Voluntary	Erg-Abs
+གསོག་√1	Voluntary	Erg-Abs
+གསོག་√2	Voluntary	
+གསོག་√3	Voluntary	
+གསོང་√1	Voluntary	
+གསོང་√2		
+གསོད་	Voluntary	Erg-Abs
+གསོན་√1	Involuntary	
+གསོན་√2		
+གསོབ་	Voluntary	
+གསོར་√1	Voluntary	Erg-Abs
+གསོར་√2	Voluntary	Erg-Abs
+གསོལ་	VoluntaryInvoluntary	Erg-Abs
+བསལ་		
+བསིད་		
+བསིར་		
+བསིལ་	Voluntary	Erg-Abs
+བསུ་	Voluntary	Erg-Abs
+བསུར་		
+བསེགས་		
+བསེང་		
+བསེར་		
+བསོད་		
+བསྲལ་		
+ཧང་		
+ཧད་		
+ཧབ་		
+ཧར་		
+ཧལ་	Involuntary	
+ཧས་		
+ཧུང་		
+ཧུར་		
+ཧོམ་		
+ཧོལ་		
+ཧྲག་	Involuntary	
+ཧྲད་		
+ཧྲལ་		
+ཧྲིག་		
+ཧྲིངས་	Involuntary	
+ཧྲུམ་		
+ཧྲུལ་		
+ཧྲེང་		
+ཧྲེམ་		
+ཧྲོམ་		
+ལྷ་		
+ལྷག་	Involuntary	Abs-Abl
+ལྷགས་	Involuntary	
+ལྷན་		Abs-Ass
+ལྷས་		
+ལྷུང་	Involuntary	Abs-Obl
+ལྷོང་	Involuntary	
+ལྷོད་	VoluntaryInvoluntary	Erg-Abs
+ལྷོན་	Involuntary	

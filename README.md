@@ -119,7 +119,7 @@ The file **lemmas.txt** lists all the lemmas derived in this manner. Having impo
 file into LibreOffice, I can confirm that this list of nearly 1900 lemmas contains no
 duplicates. Each lemma is uniquely named.
 
-## Word-final tshegs
+## Word-final Tshegs
 
 For each form, we include variants with and without a word-final tsheg. Not all such
 variants will be encountered in practice, including them makes us well-prepared in case
@@ -131,6 +131,29 @@ Rules of Tibetan grammar dictate the use of པ་ or བ་ to form verbal noun
 following these rules, we include for each form variants with both word endings. Most
 such variants will not be encountered in practice, but by including them we are prepared
 in case they do occur, in mistaken spellings or other unexpected situations.
+
+## Lemmas.txt
+
+Additional information has been extracted from **dictionary.xml** into **lemmas.txt**.
+
+### Volitionality
+
+Many verbs in the dictionary are classified for volitionality, based on the sources
+consulted. This information is copied to the second column of **lemmas.txt**. Possible
+values include:
+
+1. *Voluntary*: The verb is volitional.
+2. *Involuntary*: The verb is non-volitional.
+3. *VoluntaryInvoluntary* or *InvoluntaryVoluntary*: The verb has been classified
+as both volitional and non-volitional, either by the same author or by different
+authors.
+
+### Argument Frames 
+
+The third column of **lemmas.txt** shows the argument frame for the verb, as stated
+by various dictionary sources. For example, an argument frame of *Erg-Abs* indicates
+that the verb takes two core arguments, the first marked with ergative case, 
+and the second with absolutive (unmarked) case.
 
 # Applying the Stylesheet
 

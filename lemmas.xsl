@@ -36,6 +36,12 @@
                 </xsl:choose>
             </xsl:variable>
             <xsl:value-of select="concat($lemma, $suffix)"/>
+            <xsl:text>&#x9;</xsl:text>
+            <xsl:for-each select="volition/label">
+                <xsl:value-of select="substring-before(normalize-space(.), ':')"/>
+            </xsl:for-each>
+            <xsl:text>&#x9;</xsl:text>
+            <xsl:value-of select="replace(substring-before(substring-after(syntax/text()[2], '['), '.]'), '\.\s+', '-')"/>
             <xsl:text>&#xa;</xsl:text>
         </xsl:if>
         <xsl:if test="./auxillary">
