@@ -139,6 +139,8 @@ such as LibreOffice. In addition to a list of lemmas, it contains the following 
 information that has been extracted from **dictionary.xml**. (Note that transitivity and
 causation information has not yet been incorporated into the list of lemmas.)
 
+**cg3-lemmas.txt** is a grammar that enriches a file in VISL CG format with additional tags for each verb lemma. Tags are collected and output for attributes like volitionality and argument structure. To use the grammar, it must first be compiled using the `cg-comp` tool.
+
 ### Volitionality
 
 Many verbs in the dictionary are classified for volitionality, based on the sources
