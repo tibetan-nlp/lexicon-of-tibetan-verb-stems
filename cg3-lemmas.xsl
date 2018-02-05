@@ -45,8 +45,8 @@
                 <xsl:value-of
                         select="lower-case(replace(substring-before(substring-after(syntax/text()[2], '['), '.]'), '\.\s+', '-'))"/>
             </xsl:variable>
-            <xsl:variable name="translation">
-                <xsl:value-of select="replace(normalize-space(trans), '\s*Meaning:\s*', '')"/>
+            <xsl:variable name="gloss">
+                <xsl:value-of select="replace(substring-after(replace(normalize-space(lower-case(replace(trans, '[A-Z]{2,}', ''))), '\s*meaning:\s*', ''), 'to '), '([a-z\s]+).*', '$1')"/>
             </xsl:variable>
             <xsl:variable name="tags">
                 <xsl:if test="volition">
@@ -81,16 +81,11 @@
                         <xsl:text> </xsl:text>
                     </xsl:if>
                 </xsl:if>
-                <!-- <xsl:if test="$arguments">
-                    <xsl:text>@</xsl:text>
-                    <xsl:value-of select="$arguments"/>
-                    <xsl:text> </xsl:text>
-                </xsl:if> -->
-                <!-- <xsl:if test="$translation">
-                    <xsl:text>@</xsl:text>
-                    <xsl:value-of select="$translation"/>
-                    <xsl:text> </xsl:text>
-                </xsl:if> -->
+                <xsl:if test="normalize-space($gloss)">
+                  <xsl:text>~</xsl:text>
+                  <xsl:value-of select="replace(normalize-space($gloss), '([a-z]+)\s.*', '$1…')"/>
+                  <xsl:text> </xsl:text>
+                </xsl:if>
             </xsl:variable>
             <xsl:if test="normalize-space($tags)">
                 <xsl:text>ADD (</xsl:text>
