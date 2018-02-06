@@ -1,2 +1,9 @@
+# MAC OS X files
+.DS_Store
+
+# IntellijIDEA
+.idea/
+
+# saxon
 saxon9.jar
 
