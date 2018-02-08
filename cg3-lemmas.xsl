@@ -52,19 +52,19 @@
                 <xsl:if test="volition">
                     <xsl:choose>
                         <xsl:when test="$volition='Voluntary'">
-                            <xsl:text>@vol </xsl:text>
+                            <xsl:text>§vol </xsl:text>
                         </xsl:when>
                         <xsl:when test="$volition='Involuntary'">
-                            <xsl:text>@inv </xsl:text>
+                            <xsl:text>§inv </xsl:text>
                         </xsl:when>
                         <xsl:when test="$volition='VoluntaryInvoluntary'">
-                            <xsl:text>@mix </xsl:text>
+                            <xsl:text>§mix </xsl:text>
                         </xsl:when>
                         <xsl:when test="$volition='InvoluntaryVoluntary'">
-                            <xsl:text>@mix </xsl:text>
+                            <xsl:text>§mix </xsl:text>
                         </xsl:when>
                         <xsl:when test="normalize-space($volition) != ''">
-                            <xsl:text>@err:</xsl:text>
+                            <xsl:text>§err:</xsl:text>
                             <xsl:value-of select="$volition"/>
                         </xsl:when>
                     </xsl:choose>
@@ -72,11 +72,11 @@
                 <xsl:if test="syntax">
                     <xsl:if test="normalize-space($arguments) != ''">
                         <xsl:for-each select="tokenize($arguments, '-')">
-                            <xsl:text>@</xsl:text>
+                            <xsl:text>§</xsl:text>
                             <xsl:value-of select="."/>
                             <xsl:text> </xsl:text>
                         </xsl:for-each>
-                        <xsl:text>@</xsl:text>
+                        <xsl:text>§</xsl:text>
                         <xsl:value-of select="$arguments"/>
                         <xsl:text> </xsl:text>
                     </xsl:if>
